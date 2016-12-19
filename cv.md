@@ -82,6 +82,7 @@ September 2016</p>
 </ul>
 <h3 id="invited-talks">Invited Talks</h3>
 <ul>
+<li>2015. "Taking Latin Prose Comp (By Strategy): A Latin Translation of <i>Oblique Strategies</i>. Marymount School Latin Club. April 14. <a href="assets/pdfs/taking-latin-prose-comp.pdf" target="_blank">slides</a></li>
 <li>2012. “Some Poetic and Artistic Frames in Theocritus.” Co-presented with Carolyn Laferriere. Within the Frame: A Critical Metaphor in Art and Literature, The Classics Work in Progress Group, Yale University. January 27.</li>
 </ul>
 <h3 id="service">Service</h3>
