@@ -34,7 +34,7 @@ twitter: diyclassics
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: patrickjosephburns
 #youtube: myyoutube
 #spotify: myspotify
 github: diyclassics
@@ -46,18 +46,12 @@ medium: diyclassics
 email: patrick@diyclassics.org
 
 authors:
-    johndoe:
+    patrickburns:
         name: Patrick J. Burns
         bio: Digital Classicist
         external-image: false
         picture: assets/images/profile.jpg
         twitter: diyclassics
-#    jamesfoster:
-#        name: James Foster
-#        bio: A Man who develops software with coffee
-#        external-image: false
-#        picture: assets/images/james.jpg
-#        twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -69,7 +63,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: false
+projects: true
 cv: true
 
 # if you don't need "about" or "blog", comment them out below
