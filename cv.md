@@ -51,7 +51,7 @@ September 2016</p>
 <li>2014. “Latin for the Hearing-Impaired.” Graduate School Association Conference on Inequality, Fordham University.</li>
 <li>2014. “A Concordance of Hellenistic Philosophy.” (Co-presented with Prof. Brian Johnson, Fordham University.) Publishing Text for a Digital Age, Tufts University.</li>
 <li>2013. “Lucian’s Ekphrasis of the Visible and the Invisible in <em>Imagines</em>.” CAMWS 2013 Annual Meeting, Iowa City, Ia.</li>
-<li>2013. “Distant Reading Alliteration in Latin Poetry.” Word, Space, Time: Digital Perspectives on the Classical World, University at Buffalo. <a class='cv-link' href="#" target="_blank">[abstract]</a></li>
+<li>2013. “Distant Reading Alliteration in Latin Poetry.” Word, Space, Time: Digital Perspectives on the Classical World, University at Buffalo. April 6. <a class='cv-link' href="../distant-reading-alliteration-in-latin-poetry" target="_blank">[abstract]</a></li>
 <li>2013. “<em>Pessime Planudes</em>: Scaliger’s <em>Cato</em> and the Polemics of Retranslation.” Beyond Words: Translation and the Classical World, CUNY Graduate Center.</li>
 <li>2013. “A Non-Latin Script in the Digital Archive: Greek OCR and Google Books.” Remembering, Forgetting, Imagining: The Practices of Memory, Digital Humanities roundtable, Fordham University.</li>
 <li>2012. “<em>Laudatio</em>, Lineage and Legacy in Cicero’s <em>Brutus</em>.” Exegi Monumentum Aere Perennius: Self-Promotion in the Ancient World, University at Buffalo.</li>
