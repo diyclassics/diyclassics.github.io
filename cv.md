@@ -51,7 +51,7 @@ September 2016</p>
 <li>2014. “Latin for the Hearing-Impaired.” Graduate School Association Conference on Inequality, Fordham University.</li>
 <li>2014. “A Concordance of Hellenistic Philosophy.” (Co-presented with Prof. Brian Johnson, Fordham University.) Publishing Text for a Digital Age, Tufts University.</li>
 <li>2013. “Lucian’s Ekphrasis of the Visible and the Invisible in <em>Imagines</em>.” CAMWS 2013 Annual Meeting, Iowa City, Ia.</li>
-<li>2013. “Distant Reading Alliteration in Latin Poetry.” Word, Space, Time: Digital Perspectives on the Classical World, University at Buffalo.</li>
+<li>2013. “Distant Reading Alliteration in Latin Poetry.” Word, Space, Time: Digital Perspectives on the Classical World, University at Buffalo. <a class='cv-link' href="#" target="_blank">[abstract]</a></li>
 <li>2013. “<em>Pessime Planudes</em>: Scaliger’s <em>Cato</em> and the Polemics of Retranslation.” Beyond Words: Translation and the Classical World, CUNY Graduate Center.</li>
 <li>2013. “A Non-Latin Script in the Digital Archive: Greek OCR and Google Books.” Remembering, Forgetting, Imagining: The Practices of Memory, Digital Humanities roundtable, Fordham University.</li>
 <li>2012. “<em>Laudatio</em>, Lineage and Legacy in Cicero’s <em>Brutus</em>.” Exegi Monumentum Aere Perennius: Self-Promotion in the Ancient World, University at Buffalo.</li>
@@ -82,7 +82,7 @@ September 2016</p>
 </ul>
 <h3 id="invited-talks">Invited Talks</h3>
 <ul>
-<li>2015. "Taking Latin Prose Comp (By Strategy): A Latin Translation of <i>Oblique Strategies</i>. Marymount School Latin Club. April 14. <a href="../assets/pdfs/taking-latin-prose-comp.pdf" target="_blank">[slides]</a></li>
+<li>2015. "Taking Latin Prose Comp (By Strategy): A Latin Translation of <i>Oblique Strategies</i>. Marymount School Latin Club. April 14. <a class='cv-link' href="../assets/pdfs/taking-latin-prose-comp.pdf" target="_blank">[slides]</a></li>
 <li>2012. “Some Poetic and Artistic Frames in Theocritus.” Co-presented with Carolyn Laferriere. Within the Frame: A Critical Metaphor in Art and Literature, The Classics Work in Progress Group, Yale University. January 27.</li>
 </ul>
 <h3 id="service">Service</h3>
