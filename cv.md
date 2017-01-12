@@ -5,7 +5,7 @@ layout: cv
 
 <h1 id="patrick-j.-burns">Patrick J. Burns</h1>
 <p class="cv-info"><b>Curriculum Vitae</b><br />
-September 2016</p>
+January 2017</p>
 <p class="cv-address">46-01 39th Avenue, 624 Sunnyside, NY 11104<br />
 (718) 813-9073 | patrick.j.burns@nyu.edu</p>
 <h3 id="employment">Employment</h3>
