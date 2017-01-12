@@ -4,7 +4,7 @@ layout: cv
 ---
 
 <h1 id="patrick-j.-burns">Patrick J. Burns</h1>
-<p class="cv-info">Curriculum Vitae<br />
+<p class="cv-info"><b>Curriculum Vitae</b><br />
 September 2016</p>
 <p class="cv-address">46-01 39th Avenue, 624 Sunnyside, NY 11104<br />
 (718) 813-9073 | patrick.j.burns@nyu.edu</p>
@@ -30,21 +30,21 @@ September 2016</p>
 <h3 id="publications">Publications</h3>
 <h4 id="manuscripts-under-review">Manuscripts under review</h4>
 <ul>
-<li>2016. “Measuring and Mapping Intergeneric Allusion in Latin Poetry using Tesserae,” Journal of Data Mining and Digital Humanities.</li>
-<li>2016. &quot;The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code,&quot; Classics@ special issue on ancient literacies.</li>
+<li>2016. “Measuring and Mapping Intergeneric Allusion in Latin Poetry using Tesserae,” <i>Journal of Data Mining and Digital Humanities</i>.</li>
+<li>2016. &quot;The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code,&quot; <i>Classics@</i>, special issue on ancient literacies.</li>
 </ul>
 <h4 id="book-reviews">Book Reviews</h4>
 <ul>
 <!-- <li>2016. (forthcoming). <i>Classical World</i> 110.2. Review of B.Walters, Lucan: <em>Civil War</em> and S. Lombardo, Statius: <em>Achilleid</em>. (Hackett Publishing Company, 2015)</li> -->
-<li>2012. Classical Outlook 89.2. Review of P.L. Chambers, <em>The Natural Histories</em> of Pliny the Elder. (Univ. of Oklahoma Press, 2012).</li>
+<li>2012. <i>Classical Outlook</i> 89.2. Review of P.L. Chambers, <em>The Natural Histories</em> of Pliny the Elder. (Univ. of Oklahoma Press, 2012).</li>
 </ul>
 <h3 id="conference-workshops">Conference Workshops</h3>
 <ul>
-<li>2017. “Ancient Makerspaces: Digital Classics Workshop.” Panel moderator. Annual Meeting of the Society of Classical Studies, Toronto, Ont.</li>
+<li>2017. “Ancient Makerspaces: Digital Classics Workshop.” Panel moderator. Annual Meeting of the Society of Classical Studies, Toronto, Ont. <a class='cv-link' href="http://bit.ly/ancientmakerspaces" target="_blank">[site]</a></li>
 </ul>
 <h3 id="conference-papers">Conference Papers</h3>
 <ul>
-<li>2016. “Erotic Distraction in Lucan’s <em>Bellum Civile</em>.” Annual Meeting of the Society of Classical Studies, San Francisco, Ca.</li>
+<li>2016. “Erotic Distraction in Lucan’s <em>Bellum Civile</em>.” Annual Meeting of the Society of Classical Studies, San Francisco, Ca. <a class='cv-link' href="../erotic-distraction" target="_blank">[abstract]</a></li>
 <li>2015. “<em>Caesar Captivus</em>: Elegiac Enrichment in Lucan’s <em>Bellum Civile</em>.” CAAS 2015 Annual Meeting, Wilmington, De.</li>
 <li>2015. “From <em>Amicitia</em> to <em>Amor</em>: Lucan’s Elegiac Turn.” Love and Friendship in Greek and Roman Antiquity, Boston University.</li>
 <li>2014. “<em>Carpe Iter</em>: A Case for Latin-themed Field Trips.” CAAS 2014 Annual Meeting, Washington, D.C.</li>
