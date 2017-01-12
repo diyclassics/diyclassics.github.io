@@ -1,6 +1,6 @@
 ---
 title: "Distant Reading Alliteration in Latin Poetry"
-layout: post
+layout: paper
 date: 2013-04-06 00:00
 tag: paper
 image: /assets/images/jekyll-logo-light-solid.png

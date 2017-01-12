@@ -1,6 +1,6 @@
 ---
 title: "Erotic Distraction in Lucan's Bellum civile"
-layout: post
+layout: paper
 date: 2016-01-09 00:00
 tag: paper
 image: /assets/images/jekyll-logo-light-solid.png
