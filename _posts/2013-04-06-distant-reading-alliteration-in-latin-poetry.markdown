@@ -15,7 +15,6 @@ externalLink: false
 ---
 
 # Distant Reading Alliteration in Latin Poetry
-Patrick J. Burns, Fordham University Dept. of Classics
 Word, Space, Time: Digital Perspectives on the Classical World Digital Classical Association, U. Buffalo
 April 6, 2013
 
