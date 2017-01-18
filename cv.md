@@ -44,8 +44,8 @@ January 2017</p>
 </ul>
 <h3 id="conference-papers">Conference Papers</h3>
 <ul>
-<li>2016. “Erotic Distraction in Lucan’s <em>Bellum Civile</em>.” Annual Meeting of the Society of Classical Studies, San Francisco, Ca. <a class='cv-link' href="../erotic-distraction" target="_blank">[abstract]</a></li>
-<li>2015. “<em>Caesar Captivus</em>: Elegiac Enrichment in Lucan’s <em>Bellum Civile</em>.” CAAS 2015 Annual Meeting, Wilmington, De.</li>
+<li>2016. “Erotic Distraction in Lucan’s <em>Bellum Civile</em>.” Annual Meeting of the Society of Classical Studies, San Francisco, Ca. January 9. <a class='cv-link' href="../erotic-distraction" target="_blank">[abstract]</a></li>
+<li>2015. “<i>Caesar Captivus</i>: Elegiac Enrichment in Lucan’s <i>Bellum Civile</i>.” CAAS 2015 Annual Meeting, Wilmington, De. October 9. <a class='cv-link' href="../caesar-captivus" target="_blank">[abstract]</a></li>
 <li>2015. “From <em>Amicitia</em> to <em>Amor</em>: Lucan’s Elegiac Turn.” Love and Friendship in Greek and Roman Antiquity, Boston University.</li>
 <li>2014. “<em>Carpe Iter</em>: A Case for Latin-themed Field Trips.” CAAS 2014 Annual Meeting, Washington, D.C.</li>
 <li>2014. “Latin for the Hearing-Impaired.” Graduate School Association Conference on Inequality, Fordham University.</li>
@@ -66,8 +66,8 @@ January 2017</p>
 </ul>
 <h3 id="web-tutorials">Web Tutorials</h3>
 <ul>
-<li>2013. “Understanding Regular Expressions.” The Programming Historian 2. Technical Reviewer.</li>
-<li>2013. “Cleaning Data with OpenRefine.” The Programming Historian 2. Technical Reviewer.</li>
+<li>2013. “<a href="http://programminghistorian.org/lessons/understanding-regular-expressions" target="_blank">Understanding Regular Expressions</a>.” The Programming Historian 2. Technical Reviewer.</li>
+<li>2013. “<a href="http://programminghistorian.org/lessons/cleaning-data-with-openrefine">Cleaning Data with OpenRefine</a>.” The Programming Historian 2. Technical Reviewer.</li>
 </ul>
 <h3 id="digital-humanities-workshops">Digital Humanities Workshops</h3>
 <ul>

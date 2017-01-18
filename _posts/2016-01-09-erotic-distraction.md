@@ -8,7 +8,7 @@ headerImage: false
 projects: false
 hidden: true # don't count this post in blog pagination
 description: "Abstract for paper delivered at SCS Annual Meeting 2016"
-jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+jemoji: '<img class="emoji" title=":paper:" alt=":paper:" src="../assets/images/paper-icon.png" height="20" width="20" align="absmiddle">'
 author: patrickburns
 externalLink: false
 ---
