@@ -9,7 +9,7 @@ projects: true
 hidden: true # don't count this post in blog pagination
 description: "NEW DESCRIPTION"
 # New jemoji
-jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="../assets/images/paper-icon.png" height="20" width="20" align="absmiddle">'
 author: patrickburns
 externalLink: false
 ---
