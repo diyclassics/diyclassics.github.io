@@ -1,6 +1,7 @@
 .home,
 .blog,
-.projects
+.projects,
+.papers
     margin-top: 125px
     
     h3
@@ -28,7 +29,8 @@
 
 .home > .list,
 .blog > .list,
-.projects > .list
+.projects > .list,
+.papers > .list
     > .item
         display: block
         width: 95%
@@ -65,7 +67,7 @@
     .item:hover .url aside
         color: $alpha
 
-.projects > .list > .item > .url
+.projects > .list > .item > .url, .papers > .list > .item > .url
     > .title
         display: inline
 
@@ -74,3 +76,4 @@
         position: relative
         top: -4px
         margin-right: 10px
+
