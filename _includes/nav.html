@@ -6,12 +6,21 @@
             </li>
         {% endif %}
 
-        {% if page.title != "CV" %}
-            <li class="item">
-                <a class="link" href="{{ site.url }}/cv">CV</a>
-            </li>
+        {% if site.cv == true %}
+            {% if page.title != "CV" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/cv">CV</a>
+                </li>
+            {% endif %}
         {% endif %}
         
+        {% if site.papers == true %}
+            {% if page.title != "Papers" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/papers">Papers</a>
+                </li>
+            {% endif %}
+        {% endif %}        
 
         {% if site.blog == true %}
             {% if page.title != "Blog" %}

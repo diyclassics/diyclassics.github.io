@@ -27,7 +27,7 @@ January 2017
 
 #### Dissertation
 
-- *Amor Belli*: Elegiac Diction and the Theme of Love in Lucan’s *Bellum Civile*. Directed by Prof. Matthew McGowan, Fordham University, Classics.
+- *Amor Belli*: Elegiac Diction and the Theme of Love in Lucan’s *Bellum Civile*. Directed by Prof. Matthew McGowan, Fordham University, Classics. [[abstract]](../amor-belli){:.cv-link}
 
 #### Research Interests
 
