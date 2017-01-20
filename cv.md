@@ -121,14 +121,14 @@ January 2017
 - Introduction to Latin I (Fall 2013, Fall 2010, Fall 2009); Textbooks: *Learn to Read Latin*; *Wheelock’s Latin*.
 - Introduction to Latin II (Spring 2014, Spring 2010); Textbooks: *Wheelock’s Latin*; *Latin via Ovid*.
 - Intermediate Latin (Fall 2013, Fall 2012)
-- <p>Latin Language &amp; Literature (Spring 2015, Spring 2010: Curriculum Authors; Spring 2013: Ovid)</p>
+- Latin Language &amp; Literature (Spring 2015, Spring 2010: Curriculum Authors; Spring 2013: Ovid)<br><br>
 - Introduction to Greek I (Fall 2011); Textbook: *Greek: An Intensive Course*.
 - Introduction to Greek II (Spring 2011) Textbook: *Greek: An Intensive Course*.
 - Greek Language &amp; Literature (Spring 2011)
 - Readings in Greek (Fall 2011: Thucydides)
-- <p>Greek Tutorial: Selections from the Greek Philosophers (Spring 2009)</p>
-- <p>Texts and Contexts: Myth in Greco-Roman Literature (Spring 2013)</p>
-- <p>Understanding Historical Change: Ancient Rome (Spring 2012)</p>
+- Greek Tutorial: Selections from the Greek Philosophers (Spring 2009)<br><br>
+- Texts and Contexts: Myth in Greco-Roman Literature (Spring 2013)<br><br>
+- Understanding Historical Change: Ancient Rome (Spring 2012)<br><br>
 
 #### Teaching Assistant, Columbia University
 
@@ -162,13 +162,15 @@ January 2017
 
 ### Outreach
 
-<p>2013. Nu School Classics. Introduction for preschoolers to the Greek alphabet with storytelling and art projects. Amazing Magic Beans Learning Center. Sunnyside, NY.</p>
+- 2013\. Nu School Classics. Introduction for preschoolers to the Greek alphabet with storytelling and art projects. Amazing Magic Beans Learning Center. Sunnyside, NY.</p>
 
 ### Computer skills
 
-- Competency in Python, NLTK, R, JavaScript, jQuery, VBA for MS Access, VBA for MS Excel, relational database design, SQL, regular expressions.
+- Competency in Python (esp. NLTK), Jupyter notebooks; TravisCI; Heroku deployment.
+- Competency in R, VBA for MS Access, VBA for MS Excel, relational database design, SQL, regular expressions.
 - Markup experience in XML, HTML5, and CSS3.
-- Web development experience in Jekyll.
+- Web development experience in Javascript/jQuery (esp. Leaflet.js); Jekyll; Flask, Jinja2
+- Development experience with Omeka.
 
 ### References
 
