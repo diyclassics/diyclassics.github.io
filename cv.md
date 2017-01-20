@@ -37,7 +37,7 @@ January 2017
 
 #### Manuscripts under review
 
-- 2016\. “Measuring and Mapping Intergeneric Allusion in Latin Poetry using Tesserae,” *Journal of Data Mining and Digital Humanities*.
+- 2016\. “Measuring and Mapping Intergeneric Allusion in Latin Poetry using Tesserae,” *Journal of Data Mining and Digital Humanities*. [[abstract]](../measuring-and-mapping){:.cv-link}
 - 2016\. &quot;The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code,&quot; *Classics@*, special issue on ancient literacies.
 
 #### Book Reviews
