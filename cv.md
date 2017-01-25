@@ -54,7 +54,7 @@ January 2017
 - 2016\. “Erotic Distraction in Lucan’s *Bellum Civile*.” Annual Meeting of the Society of Classical Studies, San Francisco, Ca. January 9. [[abstract]](../erotic-distraction){:.cv-link}
 - 2015\. “*Caesar Captivus*: Elegiac Enrichment in Lucan’s *Bellum Civile*.” CAAS 2015 Annual Meeting, Wilmington, De. October 9. [[abstract]](../caesar-captivus){:.cv-link}
 - 2015\. “From *Amicitia* to *Amor*: Lucan’s Elegiac Turn.” Love and Friendship in Greek and Roman Antiquity, Boston University. [[abstract]](../from-amicitia-to-amor){:.cv-link}
-- 2014\. “*Carpe Iter*: A Case for Latin-themed Field Trips.” CAAS 2014 Annual Meeting, Washington, D.C.
+- 2014\. “*Carpe Iter*: A Case for Latin-themed Field Trips.” CAAS 2014 Annual Meeting, Washington, D.C. [[abstract]](../carpe-iter){:.cv-link}
 - 2014\. “Latin for the Hearing-Impaired.” Graduate School Association Conference on Inequality, Fordham University.
 - 2014\. “A Concordance of Hellenistic Philosophy.” (Co-presented with Prof. Brian Johnson, Fordham University.) Publishing Text for a Digital Age, Tufts University.
 - 2013\. “Lucian’s Ekphrasis of the Visible and the Invisible in *Imagines*.” CAMWS 2013 Annual Meeting, Iowa City, Ia.
