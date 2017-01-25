@@ -10,9 +10,8 @@ layout: cv
 **Curriculum Vitae**  
 January 2017
 
-{:.cv-address}
-46-01 39th Avenue, 624 Sunnyside, NY 11104  
-(718) 813-9073 | patrick.j.burns@nyu.edu  
+{:.cv-address} 
+(212) 992-7811 | patrick.j.burns@nyu.edu  
 
 ### Employment
 
