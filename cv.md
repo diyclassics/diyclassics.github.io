@@ -169,7 +169,7 @@ January 2017
 - Competency in Python (esp. NLTK), Jupyter notebooks; TravisCI; Heroku deployment.
 - Competency in R, VBA for MS Access, VBA for MS Excel, relational database design, SQL, regular expressions.
 - Markup experience in XML, HTML5, and CSS3.
-- Web development experience in Javascript/jQuery (esp. Leaflet.js); Jekyll; Flask, Jinja2
+- Web development experience in Javascript/jQuery (esp. Leaflet.js); Jekyll; Flask, Jinja2; Heroku
 - Development experience with Omeka.
 
 ### References
