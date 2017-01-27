@@ -51,6 +51,7 @@ January 2017
 
 ### Conference Papers
 
+
 - 2016\. “Erotic Distraction in Lucan’s *Bellum Civile*.” Annual Meeting of the Society of Classical Studies, San Francisco, Ca. January 9. [[abstract]](../erotic-distraction){:.cv-link}
 - 2015\. “*Caesar Captivus*: Elegiac Enrichment in Lucan’s *Bellum Civile*.” CAAS 2015 Annual Meeting, Wilmington, De. October 9. [[abstract]](../caesar-captivus){:.cv-link}
 - 2015\. “From *Amicitia* to *Amor*: Lucan’s Elegiac Turn.” Love and Friendship in Greek and Roman Antiquity, Boston University. [[abstract]](../from-amicitia-to-amor){:.cv-link}
@@ -58,7 +59,7 @@ January 2017
 - 2014\. “Latin for the Hearing-Impaired.” Graduate School Association Conference on Inequality, Fordham University.
 - 2014\. “Digital Directions for a Concordance of Hellenistic Philosophy.” (Co-presented with Prof. Brian Johnson, Fordham University.) Publishing Text for a Digital Age, Tufts University. March 28.
 - 2013\. “Lucian’s Ekphrasis of the Visible and the Invisible in *Imagines*.” CAMWS 2013 Annual Meeting, Iowa City, Ia.
-- 2013\. “Distant Reading Alliteration in Latin Poetry.” Word, Space, Time: Digital Perspectives on the Classical World, University at Buffalo. April 6. [[abstract]](../distant-reading-alliteration-in-latin-poetry){:.cv-link}
+- 2013\. “Distant Reading Alliteration in Latin Poetry.” Word, Space, Time: Digital Perspectives on the Classical World, University at Buffalo. April 6. [[abstract]](../distant-reading-alliteration-in-latin-poetry){:.cv-link} [[code]](https://gist.github.com/pbartleby/5276544){:.cv-link}
 - 2013\. “*Pessime Planudes*: Scaliger’s *Cato* and the Polemics of Retranslation.” Beyond Words: Translation and the Classical World, CUNY Graduate Center. March 8. [[abstract]](../pessime-planudes){:.cv-link}
 - 2013\. “A Non-Latin Script in the Digital Archive: Greek OCR and Google Books.” Remembering, Forgetting, Imagining: The Practices of Memory, Digital Humanities roundtable, Fordham University.
 - 2012\. “*Laudatio*, Lineage and Legacy in Cicero’s *Brutus*.” Exegi Monumentum Aere Perennius: Self-Promotion in the Ancient World, University at Buffalo.
@@ -89,6 +90,7 @@ January 2017
 
 ### Invited Talks
 
+- 2016\. "Cicero's Hardest Sentence?: Measuring Readability in Latin Literature". Drew University Classics Department. December 1. [[abstract]](../ciceros-hardest-sentence){:.cv-link} [[code]](https://github.com/diyclassics/readability/blob/master/Cicero%20Readability%20Final.ipynb){:.cv-link} 
 - 2015\. "Taking Latin Prose Comp (By Strategy): A Latin Translation of *Oblique Strategies*. Marymount School Latin Club. April 14. [[slides]](../assets/pdfs/taking-latin-prose-comp.pdf){:.cv-link}
 - 2012\. “Some Poetic and Artistic Frames in Theocritus.” Co-presented with Carolyn Laferriere. Within the Frame: A Critical Metaphor in Art and Literature, The Classics Work in Progress Group, Yale University. January 27.
 
