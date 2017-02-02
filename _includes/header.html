@@ -21,17 +21,14 @@
             </span>
         {% endif %}
 
-        <h1 class="title">{{ site.name }}</h1>
+        <h1 class="title"><a href="{{ site.url }}">{{ site.name }}</a></h1>
         <h2 class="description">{{ site.bio }}</h2>
 
         {% include social-links.html %}
     </header>
 {% elsif showMiniHeader == true %}
     <header class="header-mini {% if site.animation %}animated{% endif %}">
-
-
-
-        <h1 class="title">{{ site.name }}</h1>
+        <h1 class="title"><a href="{{ site.url }}">{{ site.name }}</a></h1>
         <h2 class="description">{{ site.bio }}</h2>
 
     </header>

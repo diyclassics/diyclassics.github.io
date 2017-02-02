@@ -27,7 +27,7 @@ The origin of this play on the proper roles of *amicitia* and *amor* can be foun
 ## Select Bibliography
 
 {:.bibliography}
-- Brunt, P.A. 1965. "*Amicitia* in the Late Roman Republic.” *CCJ* 11: 1-20.
+- Brunt, P.A. 1965. "*Amicitia* in the Late Roman Republic." *CCJ* 11: 1-20.
 - Casali, S. 2011. "The *Bellum civile* as Anti-*Aeneid*" In *Brill's Companion to Lucan*, ed. by P. Asso, 81-109. Leiden: Brill.
 - Caston, R.R. 2011. "Lucan's Elegiac Moments." In *Brill's Comp. to Lucan*, ed. P. Asso, 133-52. Leiden: Brill.
 - Gibson, R.K. 1996. "How to Win Girlfriends and Influence Them: *Amicitia* in Roman Love Elegy."
