@@ -65,7 +65,7 @@ January 2017
 - 2013\. "A Non-Latin Script in the Digital Archive: Greek OCR and Google Books." Remembering, Forgetting, Imagining: The Practices of Memory, Digital Humanities roundtable, Fordham University.
 - 2012\. "*Laudatio*, Lineage and Legacy in Cicero’s *Brutus*." Exegi Monumentum Aere Perennius: Self-Promotion in the Ancient World, University at Buffalo.
 - 2012\. "The Poet Who Dreamt He Was a Poet: Lucretius and the Problem of Inspiration." And Now for Something Completely Different: Transformation and Transcendence in Antiquity, University of Wisconsin-Madison. [[abstract]](../the-poet-who-dreamt){:.cv-link}
-- 2011\. "Short on Erotics: Eros as Epic Hero in Apollonius Rhodius’ *Argonautica* 3.275-298." Desire: From Eros to Eroticism, CUNY Graduate Center, Department of Comparative Literature.
+- 2011\. "Short on Erotics: Eros as Epic Hero in Apollonius Rhodius’ *Argonautica* 3.275-298." Desire: From Eros to Eroticism, CUNY Graduate Center, Department of Comparative Literature. November 10. [[abstract]](../short-on-erotics){:.cv-link}
 - 2011\. "Dice Play and Wordplay in Apollonius Rhodius’ *Argonautica* 3.111-128." Why So Serious?: The Past and Its Diversions, University of Michigan.
 - 2010\. "The Hyper-Alexandrianism of Virgilian Centos and Girl Talk's Mashups." All Roads Lead From Rome, Rutgers University. [[abstract]](../hyper-alexandrianism){:.cv-link}
 
@@ -139,8 +139,8 @@ January 2017
 
 ### Professional Experience
 
-- 2010\. Proofreading Latin and Greek citations. Peppard, M. *The Son of God in the Roman World: Divine Sonship in Its Social and Political Context*. Oxford, 2011.
-- 2008\. Proofreading, compiling index locorum, checking references and bibliography. McGowan, M. *Ovid in Exile: Power and Poetic Redress in the* Tristia *and* Epistulae ex Ponto. Brill, 2009.
+- 2010\. Proofreading Latin and Greek citations. Peppard, M. *The Son of God in the Roman World: Divine Sonship in Its Social and Political Context*. Oxford, 2011. [[site]](http://www.worldcat.org/title/son-of-god-in-the-roman-world-divine-sonship-in-its-social-and-political-context/oclc/693810866){:.cv-link}
+- 2008\. Proofreading, compiling index locorum, checking references and bibliography. McGowan, M. *Ovid in Exile: Power and Poetic Redress in the* Tristia *and* Epistulae ex Ponto. Brill, 2009. [[site]](http://www.worldcat.org/title/ovid-in-exile-power-and-poetic-redress-in-the-tristia-and-epistulae-ex-ponto/oclc/567444496){:.cv-link}
 
 ### Professional Activities
 
@@ -165,7 +165,7 @@ January 2017
 
 ### Outreach
 
-- 2013\. Nu School Classics. Introduction for preschoolers to the Greek alphabet with storytelling and art projects. Amazing Magic Beans Learning Center. Sunnyside, NY.</p>
+- 2013\. Nu School Classics. Introduction for preschoolers to the Greek alphabet with storytelling and art projects. Amazing Magic Beans Learning Center. Sunnyside, NY.
 
 ### Computer skills
 
