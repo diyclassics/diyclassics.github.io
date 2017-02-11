@@ -42,7 +42,7 @@ January 2017
 
 #### Book Reviews
 
-<!-- - 2016\. (forthcoming). *Classical World* 110.2. Review of B.Walters, Lucan: *Civil War* and S. Lombardo, Statius: *Achilleid*. (Hackett Publishing Company, 2015) -->
+<!-- - 2017\. (forthcoming). *Classical World* 110.2. Review of B.Walters, Lucan: *Civil War* and S. Lombardo, Statius: *Achilleid*. (Hackett Publishing Company, 2015) -->
 - 2012\. *Classical Outlook* 89.2. Review of P.L. Chambers, *The Natural Histories* of Pliny the Elder. (Univ. of Oklahoma Press, 2012). [[jstor]](https://www.jstor.org/stable/43940167){:.cv-link}
 
 ### Conference Workshops
@@ -65,8 +65,8 @@ January 2017
 - 2013\. "A Non-Latin Script in the Digital Archive: Greek OCR and Google Books." Remembering, Forgetting, Imagining: The Practices of Memory, Digital Humanities roundtable, Fordham University.
 - 2012\. "*Laudatio*, Lineage and Legacy in Cicero’s *Brutus*." Exegi Monumentum Aere Perennius: Self-Promotion in the Ancient World, University at Buffalo.
 - 2012\. "The Poet Who Dreamt He Was a Poet: Lucretius and the Problem of Inspiration." And Now for Something Completely Different: Transformation and Transcendence in Antiquity, University of Wisconsin-Madison. [[abstract]](../the-poet-who-dreamt){:.cv-link}
-- 2011\. "Short on Erotics: Eros as Epic Hero in Apollonius Rhodius’ *Argonautica* 3.275-298." Desire: From Eros to Eroticism, CUNY Graduate Center, Department of Comparative Literature.
-- 2011\. "Dice Play and Wordplay in Apollonius Rhodius’ *Argonautica* 3.111-128." Why So Serious?: The Past and Its Diversions, University of Michigan.
+- 2011\. "Short on Erotics: Eros as Epic Hero in Apollonius Rhodius’ *Argonautica* 3.275-298." Desire: From Eros to Eroticism, CUNY Graduate Center, Department of Comparative Literature. [[abstract]](../short-on-erotics){:.cv-link}
+- 2011\. "Dice Play and Wordplay in Apollonius Rhodius’ *Argonautica* 3.111-128." Why So Serious?: The Past and Its Diversions, University of Michigan. [[abstract]](../dice-play-and-wordplay){:.cv-link}
 - 2010\. "The Hyper-Alexandrianism of Virgilian Centos and Girl Talk's Mashups." All Roads Lead From Rome, Rutgers University. [[abstract]](../hyper-alexandrianism){:.cv-link}
 
 ### Conference Posters
