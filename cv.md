@@ -16,7 +16,7 @@ January 2017
 
 ### Employment
 
-- 2016-present. Assistant Research Scholar: Digital and Special Projects Associate. <a href="http://isaw.nyu.edu">Institute for the Study of the Ancient World Library</a>.
+- 2016-present. Assistant Research Scholar: Digital and Special Projects Associate. [Institute for the Study of the Ancient World](http://isaw.nyu.edu) Library.
 
 ### Education
 
@@ -87,8 +87,8 @@ January 2017
 
 ### Digital Humanities Projects
 
-- 2015-present. The Classical Language Toolkit (CLTK). Core member. http://cltk.org.
-- 2014-2016. A Concordance of Hellenistic Philosophy. With Brian Johnson, Department of Philosophy, Fordham University. https://hellenistic.ace.fordham.edu.
+- 2015-present. The Classical Language Toolkit (CLTK). Core member. [[link]](http://cltk.org){:.cv-link}.
+- 2014-2016. A Concordance of Hellenistic Philosophy. With Brian Johnson, Department of Philosophy, Fordham University. [[link]](https://hellenistic.ace.fordham.edu){:.cv-link}.
 
 ### Web Tutorials
 
@@ -139,8 +139,8 @@ January 2017
 
 ### Professional Experience
 
-- 2010\. Proofreading Latin and Greek citations. Peppard, M. *The Son of God in the Roman World: Divine Sonship in Its Social and Political Context*. Oxford, 2011.
-- 2008\. Proofreading, compiling index locorum, checking references and bibliography. McGowan, M. *Ovid in Exile: Power and Poetic Redress in the* Tristia *and* Epistulae ex Ponto. Brill, 2009.
+- 2010\. Proofreading Latin and Greek citations. Peppard, M. *The Son of God in the Roman World: Divine Sonship in Its Social and Political Context*. Oxford, 2011. [[site]](http://www.worldcat.org/title/son-of-god-in-the-roman-world-divine-sonship-in-its-social-and-political-context/oclc/693810866){:.cv-link}
+- 2008\. Proofreading, compiling index locorum, checking references and bibliography. McGowan, M. *Ovid in Exile: Power and Poetic Redress in the* Tristia *and* Epistulae ex Ponto. Brill, 2009. [[site]](http://www.worldcat.org/title/ovid-in-exile-power-and-poetic-redress-in-the-tristia-and-epistulae-ex-ponto/oclc/567444496){:.cv-link}
 
 ### Professional Activities
 
@@ -165,7 +165,7 @@ January 2017
 
 ### Outreach
 
-- 2013\. Nu School Classics. Introduction for preschoolers to the Greek alphabet with storytelling and art projects. Amazing Magic Beans Learning Center. Sunnyside, NY.</p>
+- 2013\. Nu School Classics. Introduction for preschoolers to the Greek alphabet with storytelling and art projects. Amazing Magic Beans Learning Center. Sunnyside, NY.
 
 ### Computer skills
 
