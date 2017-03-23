@@ -43,7 +43,7 @@ January 2017
 #### Book Reviews
 
 - 2017\. *Classical World* 110.2. Review of B.Walters, Lucan: *Civil War* and S. Lombardo, Statius: *Achilleid*. (Hackett Publishing Company, 2015). DOI [10.1353/clw.2017.0016](https://doi.org/10.1353/clw.2017.0016). [[link]](http://muse.jhu.edu/article/648015){:.cv-link} [[pdf]](http://muse.jhu.edu/article/648015/pdf){:.cv-link}
-- 2012\. *Classical Outlook* 89.2. Review of P.L. Chambers, *The Natural Histories* of Pliny the Elder. (Univ. of Oklahoma Press, 2012). [[jstor]](https://www.jstor.org/stable/43940167){:.cv-link}
+- 2012\. *Classical Outlook* 89.2. Review of P.L. Chambers, *The Natural Histories* of Pliny the Elder. (Univ. of Oklahoma Press, 2012). [[jstor]](https://www.jstor.org/stable/43940167){:.cv-link} [[sample]](../pliny-review){:.cv-link}
 
 ### Conference Workshops
 
@@ -169,11 +169,16 @@ January 2017
 
 ### Computer skills
 
-- Competency in Python (esp. NLTK), Jupyter notebooks; TravisCI; Heroku deployment.
+- Competency in Python (esp. NLTK), Jupyter notebooks; TravisCI; Heroku deployment. <!---CODING: Add Ruby, PHP --->
 - Competency in R, VBA for MS Access, VBA for MS Excel, relational database design, SQL, regular expressions.
+- Database design experience in SQL <!---Database: Add MySQL; RDF, triplestores, SPARQL --->
 - Markup experience in XML, HTML5, and CSS3.
-- Web development experience in Javascript/jQuery (esp. Leaflet.js); Jekyll; Flask, Jinja2; Heroku
-- Development experience with Omeka.
+- Web development experience in Javascript/jQuery (esp. Leaflet.js); Jekyll; Flask, Jinja2; Heroku.
+- Content management experience with Wordpress; Omeka. <!---CMS: Add Drupal --->
+<!---WEBCONFIG: Add Apache, Tomcat --->
+<!---DIGITAL LIBRARY: Add SOLR, Blacklight, Neatline --->
+<!---VISUALIZATION: Add D3.js --->
+<!---INFRASTRUCTURE: Add AWS --->
 
 ### References
 
