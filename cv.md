@@ -111,10 +111,8 @@ January 2017
 - 2013\. Fordham University, Graduate School of Arts &amp; Sciences. Senior Teaching Fellowship.
 - 2013\. HASTAC Scholar.
 - 2012\. National Endowment for the Humanities/Tufts University. Institutes for Advanced Topics in the Digital Humanities grant.
-- 2012\. Fordham University, Graduate School of Arts &amp; Sciences. Teaching Fellowship.
+- 2012-2010\. Fordham University, Graduate School of Arts &amp; Sciences. Teaching Fellowship.
 - 2011\. New York Classical Club. American School of Classical Studies at Athens Summer Scholarship.
-- 2011\. Fordham University, Graduate School of Arts &amp; Sciences. Teaching Fellowship.
-- 2010\. Fordham University, Graduate School of Arts &amp; Sciences. Teaching Fellowship.
 - 2009\. Fordham University, Graduate School of Arts &amp; Sciences. Graduate Assistantship.
 
 ### Teaching Experience
@@ -146,15 +144,12 @@ January 2017
 
 - 2016\. Participant in Sunoikisis Latin Seminar at Center for Hellenic Studies; leader of common session post-Neronian literature.
 - 2016\. Participant in Sunoikisis Greek Seminar at Center for Hellenic Studies; leader of common session on Hellenistic literature.
-- 2016\. Organizer of Iter Zoologicum: A Latin Walk Through the Bronx Zoo.
+- 2016-2014, 2012\. Organizer of Iter Zoologicum: A Latin Walk Through the Bronx Zoo.
 - 2015\. Participant in Sunoikisis Latin Seminar at Center for Hellenic Studies; leader of common session on "Family Ties in Neronian Literature."
-- 2015\. Organizer of Iter Zoologicum: A Latin Walk Through the Bronx Zoo.
-- 2014\. Organizer of Iter Zoologicum: A Latin Walk Through the Bronx Zoo.
 - 2014\. Co-director of the Fordham Graduate Students Digital Humanities Group.
 - 2013\. Participated in the Dickinson College Summer Latin Workshop on Ovid's Fasti IV.
 - 2013\. Co-director of the Fordham Graduate Students Digital Humanities Group.
 - 2012\. Co-founder of Fordham Graduate Students Digital Humanities Group.
-- 2012\. Organizer of Iter Zoologicum: A Latin Walk Through the Bronx Zoo.
 - 2012\. Jesuit Pedagogy Seminar, Fordham University.
 - 2011\. American School of Classical Studies in Athens, Summer Session.
 - 2011\. Organizer of Iter Zoologicum: A Latin Walk Through the Bronx Zoo.
