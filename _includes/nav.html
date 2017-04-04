@@ -30,6 +30,14 @@
             {% endif %}
         {% endif %}
 
+        {% if site.syllabuses == true %}
+            {% if page.title != "Syllabus" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/syllabus">Syllabuses</a>
+                </li>
+            {% endif %}
+        {% endif %}          
+
         {% if site.projects == true %}
             {% if page.title != "Projects" %}
                 <li class="item">
