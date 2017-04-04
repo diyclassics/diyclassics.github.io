@@ -66,6 +66,7 @@ width: normal
 projects: true
 cv: true
 papers: true
+syllabuses: true
 
 # if you don't need "about" or "blog", comment them out below
 about: false

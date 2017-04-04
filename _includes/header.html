@@ -3,9 +3,12 @@
    or page.title == "Projects"
    or page.title == "Tags"
     or page.title == "Papers"
+    or page.title == "Syllabus"
 %}
     {% assign showHeader = true %}
-{% elsif page.tag == "paper" %}
+{% elsif page.tag == "paper" 
+    or page.tag == "syllabus"
+%}
     {% assign showMiniHeader = true %}
 {% endif %}
 
