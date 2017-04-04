@@ -55,19 +55,19 @@ January 2017
 - 2017\. "Classical Language Toolkit and Measuring Readability in Latin Literature." *Global Philology Open Conference*, Universität Leipzig. February 22. [[slides]](http://www.dh.uni-leipzig.de/wo/events/global-philology-open-conference/burns-globalphilology-slides/){:.cv-link}
 - 2016\. "Erotic Distraction in Lucan’s *Bellum Civile*." Annual Meeting of the Society of Classical Studies, San Francisco, Ca. January 9. [[abstract]](../erotic-distraction){:.cv-link}
 - 2015\. "*Caesar Captivus*: Elegiac Enrichment in Lucan’s *Bellum Civile*." CAAS 2015 Annual Meeting, Wilmington, De. October 9. [[abstract]](../caesar-captivus){:.cv-link}
-- 2015\. "From *Amicitia* to *Amor*: Lucan’s Elegiac Turn." *Love and Friendship in Greek and Roman Antiquity*, Boston University. [[abstract]](../from-amicitia-to-amor){:.cv-link}
-- 2014\. "*Carpe Iter*: A Case for Latin-themed Field Trips." CAAS 2014 Annual Meeting, Washington, D.C. [[abstract]](../carpe-iter){:.cv-link}
+- 2015\. "From *Amicitia* to *Amor*: Lucan’s Elegiac Turn." *Love and Friendship in Greek and Roman Antiquity*, Boston University. March 21. [[abstract]](../from-amicitia-to-amor){:.cv-link}
+- 2014\. "*Carpe Iter*: A Case for Latin-themed Field Trips." CAAS 2014 Annual Meeting, Washington, D.C. October 10. [[abstract]](../carpe-iter){:.cv-link}
 - 2014\. "Latin for the Hearing-Impaired." Graduate School Association Conference on Inequality, Fordham University.
 - 2014\. "Digital Directions for a Concordance of Hellenistic Philosophy." (Co-presented with Prof. Brian Johnson, Fordham University.) *Publishing Text for a Digital Age*, Tufts University. March 28.
 - 2013\. "Lucian’s Ekphrasis of the Visible and the Invisible in *Imagines*." CAMWS 2013 Annual Meeting, Iowa City, Ia. April 20. [[abstract]](../lucians-ekphrasis-of-the-invisible){:.cv-link}
 - 2013\. "Distant Reading Alliteration in Latin Poetry." *Word, Space, Time: Digital Perspectives on the Classical World*, University at Buffalo. April 6. [[abstract]](../distant-reading-alliteration-in-latin-poetry){:.cv-link} [[code]](https://gist.github.com/pbartleby/5276544){:.cv-link}
 - 2013\. "*Pessime Planudes*: Scaliger’s *Cato* and the Polemics of Retranslation." *Beyond Words: Translation and the Classical World*, CUNY Graduate Center. March 8. [[abstract]](../pessime-planudes){:.cv-link}
 - 2013\. "A Non-Latin Script in the Digital Archive: Greek OCR and Google Books." *Remembering, Forgetting, Imagining: The Practices of Memory*, Digital Humanities roundtable, Fordham University.
-- 2012\. "*Laudatio*, Lineage and Legacy in Cicero’s *Brutus*." Exegi Monumentum Aere Perennius*: Self-Promotion in the Ancient World*, University at Buffalo. [[abstract]](../laudatio-lineage-and-legacy){:.cv-link}
-- 2012\. "The Poet Who Dreamt He Was a Poet: Lucretius and the Problem of Inspiration." *And Now for Something Completely Different: Transformation and Transcendence in Antiquity*, University of Wisconsin-Madison. [[abstract]](../the-poet-who-dreamt){:.cv-link}
-- 2011\. "Short on Erotics: Eros as Epic Hero in Apollonius Rhodius’ *Argonautica* 3.275-298." *Desire: From Eros to Eroticism*, CUNY Graduate Center, Department of Comparative Literature. [[abstract]](../short-on-erotics){:.cv-link}
-- 2011\. "Dice Play and Wordplay in Apollonius Rhodius’ *Argonautica* 3.111-128." *Why So Serious?: The Past and Its Diversions*, University of Michigan. [[abstract]](../dice-play-and-wordplay){:.cv-link}
-- 2010\. "The Hyper-Alexandrianism of Virgilian Centos and Girl Talk's Mashups." *All Roads Lead From Rome*, Rutgers University. [[abstract]](../hyper-alexandrianism){:.cv-link}
+- 2012\. "*Laudatio*, Lineage and Legacy in Cicero’s *Brutus*." Exegi Monumentum Aere Perennius*: Self-Promotion in the Ancient World*, University at Buffalo. October 20. [[abstract]](../laudatio-lineage-and-legacy){:.cv-link}
+- 2012\. "The Poet Who Dreamt He Was a Poet: Lucretius and the Problem of Inspiration." *And Now for Something Completely Different: Transformation and Transcendence in Antiquity*, University of Wisconsin-Madison. October 13. [[abstract]](../the-poet-who-dreamt){:.cv-link}
+- 2011\. "Short on Erotics: Eros as Epic Hero in Apollonius Rhodius’ *Argonautica* 3.275-298." *Desire: From Eros to Eroticism*, CUNY Graduate Center, Department of Comparative Literature. November 11. [[abstract]](../short-on-erotics){:.cv-link}
+- 2011\. "Dice Play and Wordplay in Apollonius Rhodius’ *Argonautica* 3.111-128." *Why So Serious?: The Past and Its Diversions*, University of Michigan. April 16. [[abstract]](../dice-play-and-wordplay){:.cv-link}
+- 2010\. "The Hyper-Alexandrianism of Virgilian Centos and Girl Talk's Mashups." *All Roads Lead From Rome*, Rutgers University. April 9. [[abstract]](../hyper-alexandrianism){:.cv-link}
 
 ### Conference Posters
 
