@@ -91,10 +91,16 @@ January 2017
 - 2015-present. The Classical Language Toolkit (CLTK). Core member. [[link]](http://cltk.org){:.cv-link}.
 - 2014-2016. A Concordance of Hellenistic Philosophy. With Brian Johnson, Department of Philosophy, Fordham University. [[link]](https://hellenistic.ace.fordham.edu){:.cv-link}.
 
-### Web Tutorials
+### Open Access Writing
 
-- 2013\. "[Understanding Regular Expressions](http://programminghistorian.org/lessons/understanding-regular-expressions)." The Programming Historian 2. Technical Reviewer.
-- 2013\. "[Cleaning Data with OpenRefine](http://programminghistorian.org/lessons/cleaning-data-with-openrefine)." The Programming Historian 2. Technical Reviewer.
+#### Editorials
+
+- 2017\. "The Ancient Case Against Programming 'Languages'" *Eidolon* April 24. [[link]](https://eidolon.pub/the-ancient-case-against-programming-languages-b8d253ea6e64){:.cv-link}.
+
+#### Web Tutorials
+
+- 2013\. "[Understanding Regular Expressions](http://programminghistorian.org/lessons/understanding-regular-expressions)." *The Programming Historian* 2. Technical Reviewer.
+- 2013\. "[Cleaning Data with OpenRefine](http://programminghistorian.org/lessons/cleaning-data-with-openrefine)." *The Programming Historian* 2. Technical Reviewer.
 
 ### Service
 
