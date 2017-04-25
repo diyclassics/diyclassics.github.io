@@ -40,10 +40,14 @@ January 2017
 - 2016\. "Measuring and Mapping Intergeneric Allusion in Latin Poetry using Tesserae," *Journal of Data Mining and Digital Humanities*. [[abstract]](../measuring-and-mapping){:.cv-link}
 - 2016\. &quot;The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code,&quot; *Classics@*, special issue on ancient literacies. [[abstract]](../future-of-ancient-literacy){:.cv-link}
 
+<!---
+#### Manuscripts in preparation
+- "Venus and *venus* in Lucan's *Bellum civile*."
+--->
+
 #### Book Reviews
 
 - 2017\. *Classical World* 110.2. Review of B.Walters, Lucan: *Civil War* and S. Lombardo, Statius: *Achilleid*. (Hackett Publishing Company, 2015). DOI [10.1353/clw.2017.0016](https://doi.org/10.1353/clw.2017.0016). [[link]](http://muse.jhu.edu/article/648015){:.cv-link} [[pdf]](http://muse.jhu.edu/article/648015/pdf){:.cv-link}
-- 2017\. "Latin Einstein on the Beach." *University Bookman*. Review of R.T. Foster and D.P. McCarthy, *Ossa Latinitatis Sola, or, The Mere Bones of Latin according to the Thought & System of Reginald. (Catholic University of American Press, 2016). [[link]](http://www.kirkcenter.org/index.php/bookman/article/latin-einstein-on-the-beach/){:.cv-link}
 - 2012\. *Classical Outlook* 89.2. Review of P.L. Chambers, *The Natural Histories* of Pliny the Elder. (Univ. of Oklahoma Press, 2012). [[jstor]](https://www.jstor.org/stable/43940167){:.cv-link} [[sample]](../pliny-review){:.cv-link}
 
 ### Conference Workshops
@@ -53,6 +57,7 @@ January 2017
 ### Conference Papers
 
 - 2017\. "Virgil's Hardest Sentence?: Measuring Readability in Latin Poetry." *Midwest Classical Literature Consortium*, Ohio University. April 22. [[abstract]](../virgils-hardest-sentence){:.cv-link}
+- 2017\. "Backoff Tagging as a Philological Method." *Digital Antiquity Research Showcase*, Institute for the Study of the Ancient World. April 14.
 - 2017\. "Classical Language Toolkit and Measuring Readability in Latin Literature." *Global Philology Open Conference*, Universität Leipzig. February 22. [[slides]](http://www.dh.uni-leipzig.de/wo/events/global-philology-open-conference/burns-globalphilology-slides/){:.cv-link}
 - 2016\. "Erotic Distraction in Lucan’s *Bellum Civile*." Annual Meeting of the Society of Classical Studies, San Francisco, Ca. January 9. [[abstract]](../erotic-distraction){:.cv-link}
 - 2015\. "*Caesar Captivus*: Elegiac Enrichment in Lucan’s *Bellum Civile*." CAAS 2015 Annual Meeting, Wilmington, De. October 9. [[abstract]](../caesar-captivus){:.cv-link}
@@ -96,6 +101,10 @@ January 2017
 #### Editorials
 
 - 2017\. "The Ancient Case Against Programming 'Languages'" *Eidolon* April 24. [[link]](https://eidolon.pub/the-ancient-case-against-programming-languages-b8d253ea6e64){:.cv-link}.
+
+#### Book Reviews
+
+- 2017\. "Latin Einstein on the Beach." *University Bookman*. Review of R.T. Foster and D.P. McCarthy, *Ossa Latinitatis Sola, or, The Mere Bones of Latin according to the Thought & System of Reginald. (Catholic University of American Press, 2016). [[link]](http://www.kirkcenter.org/index.php/bookman/article/latin-einstein-on-the-beach/){:.cv-link}
 
 #### Web Tutorials
 
