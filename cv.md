@@ -40,10 +40,9 @@ January 2017
 - 2016\. "Measuring and Mapping Intergeneric Allusion in Latin Poetry using Tesserae," *Journal of Data Mining and Digital Humanities*. [[abstract]](../measuring-and-mapping){:.cv-link}
 - 2016\. &quot;The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code,&quot; *Classics@*, special issue on ancient literacies. [[abstract]](../future-of-ancient-literacy){:.cv-link}
 
-<!---
 #### Manuscripts in preparation
-- "Venus and *venus* in Lucan's *Bellum civile*."
---->
+- "Venus and *venus* in Lucan's *Bellum civile*".
+- "Creating Stopword Lists for Historical Languages".
 
 #### Book Reviews
 
