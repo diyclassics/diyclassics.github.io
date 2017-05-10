@@ -32,3 +32,4 @@ In 1605 Joseph Scaliger published his Greek translation of the *Catonis Disticha
 - Robinson, G.W. 1927. *Autobiography of Joseph Scaliger*. Cambridge, Ma.: Harvard University Press.
 - Scaliger, J.J. 1605. *Opuscula Diversa Graece & Latina*. Paris: Adrian Beys.
 - Steiner, George. 1998. *After Babel: Aspects of Language and Translation*. 3rd ed. Oxford: Oxford University Press.
+
