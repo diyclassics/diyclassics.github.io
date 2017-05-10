@@ -55,7 +55,7 @@ January 2017
 
 ### Conference Papers
 
-- 2017\. "Creating Stopword Lists for Historical Languages." *Global Philology: Big Corpora of Historical Text*, Universität Leipzig. July 10. [[abstract]](../creating_stopword_lists){:.cv-link}
+- 2017\. "Creating Stopword Lists for Historical Languages." *Global Philology: Big Corpora of Historical Text*, Universität Leipzig. July 10. [[abstract]](../creating-stopword-lists){:.cv-link}
 - 2017\. "Virgil's Hardest Sentence?: Measuring Readability in Latin Poetry." *Midwest Classical Literature Consortium*, Ohio University. April 22. [[abstract]](../virgils-hardest-sentence){:.cv-link}
 - 2017\. "Backoff Tagging as a Philological Method." *Digital Antiquity Research Showcase*, Institute for the Study of the Ancient World. April 14.
 - 2017\. "Classical Language Toolkit and Measuring Readability in Latin Literature." *Global Philology Open Conference*, Universität Leipzig. February 22. [[slides]](http://www.dh.uni-leipzig.de/wo/events/global-philology-open-conference/burns-globalphilology-slides/){:.cv-link}
