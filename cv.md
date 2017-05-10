@@ -179,16 +179,22 @@ January 2017
 
 ### Computer skills
 
-- Competency in Python (esp. NLTK), Jupyter notebooks; TravisCI; Heroku deployment. <!---CODING: Add Ruby, PHP --->
-- Competency in R, VBA for MS Access, VBA for MS Excel, relational database design, SQL, regular expressions.
-- Database design experience in SQL <!---Database: Add MySQL; RDF, triplestores, SPARQL --->
-- Markup experience in XML, HTML5, and CSS3.
+- Competency in Python (esp. NLTK), Jupyter notebooks; Git/GitHub; TravisCI; Heroku deployment. <!---CODING: Add Ruby, PHP, shell scripting; SVN? --->
+- Competency in relational database design, SQL, Postgresql. <!---Database: Add MySQL; RDF, triplestores, SPARQL --->
+- Competency with regular expressions.
+- Data science and text analysis experience in R.
+- Markup experience in XML, HTML5, and CSS3. <!--- XSLT --->
 - Web development experience in Javascript/jQuery (esp. Leaflet.js); Jekyll; Flask, Jinja2; Heroku.
 - Content management experience with Wordpress; Omeka. <!---CMS: Add Drupal --->
+
 <!---WEBCONFIG: Add Apache, Tomcat --->
 <!---DIGITAL LIBRARY: Add SOLR, Blacklight, Neatline --->
 <!---VISUALIZATION: Add D3.js --->
 <!---INFRASTRUCTURE: Add AWS --->
+<!---MAPPING: Add QGIS --->
+<!---LAYOUT: Add LaTeX --->
+
+<!--- WORTH INCLUDING ANYMORE? VBA for MS Access, VBA for MS Excel --->
 
 ### References
 
