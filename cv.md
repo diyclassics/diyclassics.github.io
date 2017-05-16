@@ -85,7 +85,7 @@ January 2017
 - 2017\. "*Descriptio Psittaci*: Looking at Parrots from Aristotle to Gesner". *Circle Through New York* exhibition, Insitute for the Study of the Ancient World. May 12.
 - 2017\. "A (Cautious) Defense of Google Translate for Latin". Marymount School Latin Club. May 3.
 - 2016\. "Cicero's Hardest Sentence?: Measuring Readability in Latin Literature". Drew University Classics Department. December 1. [[abstract]](../ciceros-hardest-sentence){:.cv-link} [[code]](https://github.com/diyclassics/readability/blob/master/Cicero%20Readability%20Final.ipynb){:.cv-link} 
-- 2016\. "What is @PubSyr, or Why I Made a Latin Twitterbot". Marymount School Latin Club. May 12.
+- 2016\. "What is \@PubSyr, or Why I Made a Latin Twitterbot". Marymount School Latin Club. May 12.
 - 2015\. "Taking Latin Prose Comp (By Strategy): A Latin Translation of *Oblique Strategies*. Marymount School Latin Club. April 14. [[slides]](../assets/pdfs/taking-latin-prose-comp.pdf){:.cv-link}
 - 2012\. "Some Poetic and Artistic Frames in Theocritus." Co-presented with Carolyn Laferriere. Within the Frame: A Critical Metaphor in Art and Literature, The Classics Work in Progress Group, Yale University. January 27.
 
