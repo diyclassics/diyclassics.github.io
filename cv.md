@@ -87,13 +87,14 @@ January 2017
 - 2016\. "Cicero's Hardest Sentence?: Measuring Readability in Latin Literature". Drew University Classics Department. December 1. [[abstract]](../ciceros-hardest-sentence){:.cv-link} [[code]](https://github.com/diyclassics/readability/blob/master/Cicero%20Readability%20Final.ipynb){:.cv-link} 
 - 2016\. "What is PubSyr, or Why I Made a Latin Twitterbot". Marymount School Latin Club. May 12.
 - 2015\. "Taking Latin Prose Comp (By Strategy): A Latin Translation of *Oblique Strategies*. Marymount School Latin Club. April 14. [[slides]](../assets/pdfs/taking-latin-prose-comp.pdf){:.cv-link}
-- 2012\. "Some Poetic and Artistic Frames in Theocritus." Co-presented with Carolyn Laferriere. Within the Frame: A Critical Metaphor in Art and Literature, The Classics Work in Progress Group, Yale University. January 27.
+- 2012\. "Some Poetic and Artistic Frames in Theocritus." Co-presented with Carolyn Laferriere. *Within the Frame: A Critical Metaphor in Art and Literature*, The Classics Work in Progress Group, Yale University. January 27.
 
 ### Digital Humanities Workshops
 
-- 2015\. "Measuring Allusive Density in Lucan’s *Bellum Civile* using Tesserae." Linked Ancient World Data Initiative Event: Digital Antiquity Coffee House. Institute for the Study of the Ancient World. October 2. [[notebook]](https://github.com/diyclassics/measuring-allusion/blob/master/code/isaw.ipynb) 
-- 2012\. "Markup Basics: Build an Online CV in 45 Minutes." Fordham Graduate Students Digital Humanities Group.
-- 2012\. "Eliminating the Handout: Paperless Teaching and the Less-Paper Reality." Digital Pedagogy: What Is It? How Do You Do It?, Fordham Graduate Student Digital Humanities Group.
+- 2017\. "Exploring Diction and Topics in Latin Love Elegy." *Digital Propertius Project*, Department of Classics, Yale University. May 18.
+- 2015\. "Measuring Allusive Density in Lucan’s *Bellum Civile* using Tesserae." Linked Ancient World Data Initiative Event: *Digital Antiquity Coffee House*. Institute for the Study of the Ancient World. October 2. [[notebook]](https://github.com/diyclassics/measuring-allusion/blob/master/code/isaw.ipynb) 
+- 2012\. "Markup Basics: Build an Online CV in 45 Minutes." Fordham Graduate Students Digital Humanities Group. October 23.
+- 2012\. "Eliminating the Handout: Paperless Teaching and the Less-Paper Reality." Digital Pedagogy: What Is It? How Do You Do It?, Fordham Graduate Student Digital Humanities Group. September 25.
 
 ### Digital Humanities Projects
 
