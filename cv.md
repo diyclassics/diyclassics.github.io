@@ -20,9 +20,9 @@ May 2017
 
 ### Education
 
-- 2016\. Ph.D. Candidate, Classics. Fordham University.
+- 2016\. Ph.D., Classics. Fordham University.
 - 2012\. M.A., Classics. Fordham University.
-- 2008\. Postbaccalaureate Certificate, Classics. Columbia University.
+<!--- - 2008\. Postbaccalaureate Certificate, Classics. Columbia University. --->
 - 1998\. B.A., English Textual Studies &amp; Journalism. Syracuse University.
 
 #### Dissertation
