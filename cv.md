@@ -50,18 +50,19 @@ May 2017
 - 2017\. *Classical World* 110.2. Review of B.Walters, Lucan: *Civil War* and S. Lombardo, Statius: *Achilleid*. (Hackett Publishing Company, 2015). DOI [10.1353/clw.2017.0016](https://doi.org/10.1353/clw.2017.0016). [[link]](http://muse.jhu.edu/article/648015){:.cv-link} [[pdf]](http://muse.jhu.edu/article/648015/pdf){:.cv-link}
 - 2012\. *Classical Outlook* 89.2. Review of P.L. Chambers, *The Natural Histories* of Pliny the Elder. (Univ. of Oklahoma Press, 2012). [[jstor]](https://www.jstor.org/stable/43940167){:.cv-link} [[sample]](../pliny-review){:.cv-link}
 
-### Conference Workshops
+### Conference Panels
 
+- 2017\. "Digital Approaches to Latin Vocabulary Acquisition." Organizer. CAAS 2017 Annual Meeting, New York City, NY. October 6.
 - 2017\. "Ancient Makerspaces: Digital Classics Workshop." Panel moderator. Annual Meeting of the Society of Classical Studies, Toronto, Ont. [[site]](http://bit.ly/ancientmakerspaces){:.cv-link}
 
 ### Conference Papers
-
 - 2017\. "Creating Stopword Lists for Historical Languages." *Global Philology: Big Corpora of Historical Text*, Universität Leipzig. July 10. [[abstract]](../creating-stopword-lists){:.cv-link}
 - 2017\. "Virgil's Hardest Sentence?: Measuring Readability in Latin Poetry." *Midwest Classical Literature Consortium*, Ohio University. April 22. [[abstract]](../virgils-hardest-sentence){:.cv-link}
 - 2017\. "Backoff Tagging as a Philological Method." *Digital Antiquity Research Showcase*, Institute for the Study of the Ancient World. April 14.
 - 2017\. "Classical Language Toolkit and Measuring Readability in Latin Literature." *Global Philology Open Conference*, Universität Leipzig. February 22. [[slides]](http://www.dh.uni-leipzig.de/wo/events/global-philology-open-conference/burns-globalphilology-slides/){:.cv-link}
 - 2016\. "Erotic Distraction in Lucan’s *Bellum Civile*." Annual Meeting of the Society of Classical Studies, San Francisco, Ca. January 9. [[abstract]](../erotic-distraction){:.cv-link}
 - 2015\. "*Caesar Captivus*: Elegiac Enrichment in Lucan’s *Bellum Civile*." CAAS 2015 Annual Meeting, Wilmington, De. October 9. [[abstract]](../caesar-captivus){:.cv-link}
+- 2015\. "Measuring Allusive Density in Lucan’s *Bellum Civile* using Tesserae." Linked Ancient World Data Initiative Event: *Digital Antiquity Coffee House*. Institute for the Study of the Ancient World. October 2. [[notebook]](https://github.com/diyclassics/measuring-allusion/blob/master/code/isaw.ipynb)
 - 2015\. "From *Amicitia* to *Amor*: Lucan’s Elegiac Turn." *Love and Friendship in Greek and Roman Antiquity*, Boston University. March 21. [[abstract]](../from-amicitia-to-amor){:.cv-link}
 - 2014\. "*Carpe Iter*: A Case for Latin-themed Field Trips." CAAS 2014 Annual Meeting, Washington, D.C. October 10. [[abstract]](../carpe-iter){:.cv-link}
 - 2014\. "Latin for the Hearing-Impaired." Graduate School Association Conference on Inequality, Fordham University.
@@ -82,26 +83,26 @@ May 2017
 - 2014\. "Distant Reading Alliteration in Latin Literature." Annual Meeting of the American Philological Association, Chicago, Il. January 4. [[abstract]](../distant-reading-alliteration-in-latin-literature){:.cv-link}
 
 ### Invited Talks
-
-- 2017\. "*Fabulae Psittaci*: Parrot Anecdotes in Greek and Latin Literature". *Circle Through New York* exhibition, Insitute for the Study of the Ancient World. May 12.
-- 2017\. "*Descriptio Psittaci*: Looking at Parrots from Aristotle to Gesner". *Circle Through New York* exhibition, Insitute for the Study of the Ancient World. May 12.
-- 2017\. "A (Cautious) Defense of Google Translate for Latin". Marymount School Latin Club. May 3.
-- 2016\. "Cicero's Hardest Sentence?: Measuring Readability in Latin Literature". Drew University Classics Department. December 1. [[abstract]](../ciceros-hardest-sentence){:.cv-link} [[code]](https://github.com/diyclassics/readability/blob/master/Cicero%20Readability%20Final.ipynb){:.cv-link} 
-- 2016\. "What is PubSyr, or Why I Made a Latin Twitterbot". Marymount School Latin Club. May 12.
-- 2015\. "Taking Latin Prose Comp (By Strategy): A Latin Translation of *Oblique Strategies*. Marymount School Latin Club. April 14. [[slides]](../assets/pdfs/taking-latin-prose-comp.pdf){:.cv-link}
-- 2012\. "Some Poetic and Artistic Frames in Theocritus." Co-presented with Carolyn Laferriere. *Within the Frame: A Critical Metaphor in Art and Literature*, The Classics Work in Progress Group, Yale University. January 27.
-
-### Digital Humanities Workshops
-
 - 2017\. "Exploring Diction and Topics in Latin Love Elegy." *Digital Propertius Project*, Department of Classics, Yale University. May 18.
-- 2015\. "Measuring Allusive Density in Lucan’s *Bellum Civile* using Tesserae." Linked Ancient World Data Initiative Event: *Digital Antiquity Coffee House*. Institute for the Study of the Ancient World. October 2. [[notebook]](https://github.com/diyclassics/measuring-allusion/blob/master/code/isaw.ipynb) 
-- 2012\. "Markup Basics: Build an Online CV in 45 Minutes." Fordham Graduate Students Digital Humanities Group. October 23.
-- 2012\. "Eliminating the Handout: Paperless Teaching and the Less-Paper Reality." Digital Pedagogy: What Is It? How Do You Do It?, Fordham Graduate Student Digital Humanities Group. September 25.
+<!--- - 2017\. "*Fabulae Psittaci*: Parrot Anecdotes in Greek and Latin Literature". *Circle Through New York* exhibition, Insitute for the Study of the Ancient World. May 12.
+- 2017\. "*Descriptio Psittaci*: Looking at Parrots from Aristotle to Gesner". *Circle Through New York* exhibition, Insitute for the Study of the Ancient World. May 12. --->
+<!--- - 2017\. "A (Cautious) Defense of Google Translate for Latin". Marymount School Latin Club. May 3. --->
+- 2016\. "Cicero's Hardest Sentence?: Measuring Readability in Latin Literature". Drew University Classics Department. December 1. [[abstract]](../ciceros-hardest-sentence){:.cv-link} [[code]](https://github.com/diyclassics/readability/blob/master/Cicero%20Readability%20Final.ipynb){:.cv-link} 
+<!--- - 2016\. "What is PubSyr, or Why I Made a Latin Twitterbot". Marymount School Latin Club. May 12.
+- 2015\. "Taking Latin Prose Comp (By Strategy): A Latin Translation of *Oblique Strategies*. Marymount School Latin Club. April 14. [[slides]](../assets/pdfs/taking-latin-prose-comp.pdf){:.cv-link}
+- 2012\. "Some Poetic and Artistic Frames in Theocritus." Co-presented with Carolyn Laferriere. *Within the Frame: A Critical Metaphor in Art and Literature*, The Classics Work in Progress Group, Yale University. January 27. --->
+
+<!--- 
+### Digital Humanities Workshops
+--->
+
+<!--- - 2012\. "Markup Basics: Build an Online CV in 45 Minutes." Fordham Graduate Students Digital Humanities Group. October 23.
+- 2012\. "Eliminating the Handout: Paperless Teaching and the Less-Paper Reality." Digital Pedagogy: What Is It? How Do You Do It?, Fordham Graduate Student Digital Humanities Group. September 25. --->
 
 ### Digital Humanities Projects
 
 - 2015-present. The Classical Language Toolkit (CLTK). Core member. [[link]](http://cltk.org){:.cv-link}.
-- 2014-2016. A Concordance of Hellenistic Philosophy. With Brian Johnson, Department of Philosophy, Fordham University. [[link]](https://hellenistic.ace.fordham.edu){:.cv-link}.
+<!--- - 2014-2016. A Concordance of Hellenistic Philosophy. With Brian Johnson, Department of Philosophy, Fordham University. [[link]](https://hellenistic.ace.fordham.edu){:.cv-link}. --->
 
 ### Open Access Writing
 
