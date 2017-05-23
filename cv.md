@@ -12,7 +12,7 @@ patrick.j.burns@nyu.edu
 
 {:.cv-info}
 **Curriculum Vitae**  
-January 2017  
+May 2017  
 
 ### Employment
 
@@ -38,7 +38,7 @@ January 2017
 #### Manuscripts under review
 
 - 2016\. "Measuring and Mapping Intergeneric Allusion in Latin Poetry using Tesserae," *Journal of Data Mining and Digital Humanities*. [[abstract]](../measuring-and-mapping){:.cv-link}
-- 2016\. &quot;The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code,&quot; *Classics@*, special issue on ancient literacies. [[abstract]](../future-of-ancient-literacy){:.cv-link}
+- 2016\. &quot;The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code,&quot; *Classics@*, special issue on ancient literacies. Co-written with K. Johnson and L. Hollis. [[abstract]](../future-of-ancient-literacy){:.cv-link}
 
 #### Manuscripts in preparation
 - "Venus and *venus* in Lucan's *Bellum civile*".
@@ -77,6 +77,7 @@ January 2017
 
 ### Conference Posters
 
+- 2017\. "Mapping Linked Data Subject Headings in the Library Catalog." DH2017, Montreal, Quebec. August 11. Co-written with D. Ratzan, T. Elliot, and G. Mckee. [[abstract]](../mapping-linked-data-subject-headings){:.cv-link}
 - 2014\. "Distant Reading Alliteration in Latin Literature." Annual Meeting of the American Philological Association, Chicago, Il. January 4. [[abstract]](../distant-reading-alliteration-in-latin-literature){:.cv-link}
 
 ### Invited Talks
