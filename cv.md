@@ -16,7 +16,7 @@ May 2017
 
 ### Employment
 
-- 2016-present. Assistant Research Scholar: Digital and Special Projects Associate. [Institute for the Study of the Ancient World](http://isaw.nyu.edu) Library.
+- 2016-present. Assistant Research Scholar: Digital and Special Projects. [Institute for the Study of the Ancient World](http://isaw.nyu.edu) Library.
 
 ### Education
 
@@ -37,12 +37,13 @@ May 2017
 
 #### Manuscripts under review
 
-- 2016\. "Measuring and Mapping Intergeneric Allusion in Latin Poetry using Tesserae," *Journal of Data Mining and Digital Humanities*. [[abstract]](../measuring-and-mapping){:.cv-link}
-- 2016\. &quot;The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code,&quot; *Classics@*, special issue on ancient literacies. Co-written with K. Johnson and L. Hollis. [[abstract]](../future-of-ancient-literacy){:.cv-link}
+- 2017\. "Measuring and Mapping Intergeneric Allusion in Latin Poetry using Tesserae," *Journal of Data Mining and Digital Humanities*. [[abstract]](../measuring-and-mapping){:.cv-link}
+- 2017\. &quot;The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code,&quot; *Classics@*, special issue on ancient literacies. Co-written with K. Johnson and L. Hollis. [[abstract]](../future-of-ancient-literacy){:.cv-link}
 
 #### Manuscripts in preparation
-- "Venus and *venus* in Lucan's *Bellum civile*".
-- "Creating Stopword Lists for Historical Languages".
+- "Venus and *venus* in Lucan's *Bellum civile*"
+- "Creating Stopword Lists for Historical Languages"
+- "Bootstrapping Linked Open Data in Library Catalog Records"
 
 #### Book Reviews
 
