@@ -47,6 +47,7 @@ May 2017
 
 #### Book Reviews
 
+- 2017\. "Latin Einstein on the Beach." *University Bookman*. Review of R.T. Foster and D.P. McCarthy, *Ossa Latinitatis Sola, or, The Mere Bones of Latin according to the Thought & System of Reginald. (Catholic University of American Press, 2016). [[link]](http://www.kirkcenter.org/index.php/bookman/article/latin-einstein-on-the-beach/){:.cv-link}
 - 2017\. *Classical World* 110.2. Review of B.Walters, Lucan: *Civil War* and S. Lombardo, Statius: *Achilleid*. (Hackett Publishing Company, 2015). DOI [10.1353/clw.2017.0016](https://doi.org/10.1353/clw.2017.0016). [[link]](http://muse.jhu.edu/article/648015){:.cv-link} [[pdf]](http://muse.jhu.edu/article/648015/pdf){:.cv-link}
 - 2012\. *Classical Outlook* 89.2. Review of P.L. Chambers, *The Natural Histories* of Pliny the Elder. (Univ. of Oklahoma Press, 2012). [[jstor]](https://www.jstor.org/stable/43940167){:.cv-link} [[sample]](../pliny-review){:.cv-link}
 
@@ -58,24 +59,24 @@ May 2017
 ### Conference Papers
 - 2017\. "Creating Stopword Lists for Historical Languages." *Global Philology: Big Corpora of Historical Text*, Universität Leipzig. July 10. [[abstract]](../creating-stopword-lists){:.cv-link}
 - 2017\. "Virgil's Hardest Sentence?: Measuring Readability in Latin Poetry." *Midwest Classical Literature Consortium*, Ohio University. April 22. [[abstract]](../virgils-hardest-sentence){:.cv-link}
-- 2017\. "Backoff Tagging as a Philological Method." *Digital Antiquity Research Showcase*, Institute for the Study of the Ancient World. April 14.
+<!--- - 2017\. "Backoff Tagging as a Philological Method." *Digital Antiquity Research Showcase*, Institute for the Study of the Ancient World. April 14. --->
 - 2017\. "Classical Language Toolkit and Measuring Readability in Latin Literature." *Global Philology Open Conference*, Universität Leipzig. February 22. [[slides]](http://www.dh.uni-leipzig.de/wo/events/global-philology-open-conference/burns-globalphilology-slides/){:.cv-link}
 - 2016\. "Erotic Distraction in Lucan’s *Bellum Civile*." Annual Meeting of the Society of Classical Studies, San Francisco, Ca. January 9. [[abstract]](../erotic-distraction){:.cv-link}
 - 2015\. "*Caesar Captivus*: Elegiac Enrichment in Lucan’s *Bellum Civile*." CAAS 2015 Annual Meeting, Wilmington, De. October 9. [[abstract]](../caesar-captivus){:.cv-link}
-- 2015\. "Measuring Allusive Density in Lucan’s *Bellum Civile* using Tesserae." Linked Ancient World Data Initiative Event: *Digital Antiquity Coffee House*. Institute for the Study of the Ancient World. October 2. [[notebook]](https://github.com/diyclassics/measuring-allusion/blob/master/code/isaw.ipynb)
-- 2015\. "From *Amicitia* to *Amor*: Lucan’s Elegiac Turn." *Love and Friendship in Greek and Roman Antiquity*, Boston University. March 21. [[abstract]](../from-amicitia-to-amor){:.cv-link}
+<!--- - 2015\. "Measuring Allusive Density in Lucan’s *Bellum Civile* using Tesserae." Linked Ancient World Data Initiative Event: *Digital Antiquity Coffee House*. Institute for the Study of the Ancient World. October 2. [[notebook]](https://github.com/diyclassics/measuring-allusion/blob/master/code/isaw.ipynb) --->
+<!--- - 2015\. "From *Amicitia* to *Amor*: Lucan’s Elegiac Turn." *Love and Friendship in Greek and Roman Antiquity*, Boston University. March 21. [[abstract]](../from-amicitia-to-amor){:.cv-link} --->
 - 2014\. "*Carpe Iter*: A Case for Latin-themed Field Trips." CAAS 2014 Annual Meeting, Washington, D.C. October 10. [[abstract]](../carpe-iter){:.cv-link}
 - 2014\. "Latin for the Hearing-Impaired." Graduate School Association Conference on Inequality, Fordham University.
 - 2014\. "Digital Directions for a Concordance of Hellenistic Philosophy." (Co-presented with Prof. Brian Johnson, Fordham University.) *Publishing Text for a Digital Age*, Tufts University. March 28.
 - 2013\. "Lucian’s Ekphrasis of the Visible and the Invisible in *Imagines*." CAMWS 2013 Annual Meeting, Iowa City, Ia. April 20. [[abstract]](../lucians-ekphrasis-of-the-invisible){:.cv-link}
 - 2013\. "Distant Reading Alliteration in Latin Poetry." *Word, Space, Time: Digital Perspectives on the Classical World*, University at Buffalo. April 6. [[abstract]](../distant-reading-alliteration-in-latin-poetry){:.cv-link} [[code]](https://gist.github.com/pbartleby/5276544){:.cv-link}
-- 2013\. "*Pessime Planudes*: Scaliger’s *Cato* and the Polemics of Retranslation." *Beyond Words: Translation and the Classical World*, CUNY Graduate Center. March 8. [[abstract]](../pessime-planudes){:.cv-link}
+<!--- - 2013\. "*Pessime Planudes*: Scaliger’s *Cato* and the Polemics of Retranslation." *Beyond Words: Translation and the Classical World*, CUNY Graduate Center. March 8. [[abstract]](../pessime-planudes){:.cv-link} --->
 - 2013\. "A Non-Latin Script in the Digital Archive: Greek OCR and Google Books." *Remembering, Forgetting, Imagining: The Practices of Memory*, Digital Humanities roundtable, Fordham University.
-- 2012\. "*Laudatio*, Lineage and Legacy in Cicero’s *Brutus*." Exegi Monumentum Aere Perennius*: Self-Promotion in the Ancient World*, University at Buffalo. October 20. [[abstract]](../laudatio-lineage-and-legacy){:.cv-link}
-- 2012\. "The Poet Who Dreamt He Was a Poet: Lucretius and the Problem of Inspiration." *And Now for Something Completely Different: Transformation and Transcendence in Antiquity*, University of Wisconsin-Madison. October 13. [[abstract]](../the-poet-who-dreamt){:.cv-link}
+<!--- - 2012\. "*Laudatio*, Lineage and Legacy in Cicero’s *Brutus*." Exegi Monumentum Aere Perennius*: Self-Promotion in the Ancient World*, University at Buffalo. October 20. [[abstract]](../laudatio-lineage-and-legacy){:.cv-link} --->
+<!--- - 2012\. "The Poet Who Dreamt He Was a Poet: Lucretius and the Problem of Inspiration." *And Now for Something Completely Different: Transformation and Transcendence in Antiquity*, University of Wisconsin-Madison. October 13. [[abstract]](../the-poet-who-dreamt){:.cv-link} --->
 - 2011\. "Short on Erotics: Eros as Epic Hero in Apollonius Rhodius’ *Argonautica* 3.275-298." *Desire: From Eros to Eroticism*, CUNY Graduate Center, Department of Comparative Literature. November 11. [[abstract]](../short-on-erotics){:.cv-link}
-- 2011\. "Dice Play and Wordplay in Apollonius Rhodius’ *Argonautica* 3.111-128." *Why So Serious?: The Past and Its Diversions*, University of Michigan. April 16. [[abstract]](../dice-play-and-wordplay){:.cv-link}
-- 2010\. "The Hyper-Alexandrianism of Virgilian Centos and Girl Talk's Mashups." *All Roads Lead From Rome*, Rutgers University. April 9. [[abstract]](../hyper-alexandrianism){:.cv-link}
+<!--- - 2011\. "Dice Play and Wordplay in Apollonius Rhodius’ *Argonautica* 3.111-128." *Why So Serious?: The Past and Its Diversions*, University of Michigan. April 16. [[abstract]](../dice-play-and-wordplay){:.cv-link} --->
+<!--- - 2010\. "The Hyper-Alexandrianism of Virgilian Centos and Girl Talk's Mashups." *All Roads Lead From Rome*, Rutgers University. April 9. [[abstract]](../hyper-alexandrianism){:.cv-link} --->
 
 ### Conference Posters
 
@@ -84,13 +85,14 @@ May 2017
 
 ### Invited Talks
 - 2017\. "Exploring Diction and Topics in Latin Love Elegy." *Digital Propertius Project*, Department of Classics, Yale University. May 18.
-<!--- - 2017\. "*Fabulae Psittaci*: Parrot Anecdotes in Greek and Latin Literature". *Circle Through New York* exhibition, Insitute for the Study of the Ancient World. May 12.
-- 2017\. "*Descriptio Psittaci*: Looking at Parrots from Aristotle to Gesner". *Circle Through New York* exhibition, Insitute for the Study of the Ancient World. May 12. --->
+<!--- - 2017\. "*Fabulae Psittaci*: Parrot Anecdotes in Greek and Latin Literature". *Circle Through New York* exhibition, Insitute for the Study of the Ancient World. May 12. --->
+<!--- - 2017\. "*Descriptio Psittaci*: Looking at Parrots from Aristotle to Gesner". *Circle Through New York* exhibition, Insitute for the Study of the Ancient World. May 12. --->
 <!--- - 2017\. "A (Cautious) Defense of Google Translate for Latin". Marymount School Latin Club. May 3. --->
-- 2016\. "Cicero's Hardest Sentence?: Measuring Readability in Latin Literature". Drew University Classics Department. December 1. [[abstract]](../ciceros-hardest-sentence){:.cv-link} [[code]](https://github.com/diyclassics/readability/blob/master/Cicero%20Readability%20Final.ipynb){:.cv-link} 
+- 2016\. "Cicero's Hardest Sentence?: Measuring Readability in Latin Literature". Drew University Classics Department. December 1. [[abstract]](../ciceros-hardest-sentence){:.cv-link} [[code]](https://github.com/diyclassics/readability/blob/master/Cicero%20Readability%20Final.ipynb){:.cv-link}
+
 <!--- - 2016\. "What is PubSyr, or Why I Made a Latin Twitterbot". Marymount School Latin Club. May 12.
-- 2015\. "Taking Latin Prose Comp (By Strategy): A Latin Translation of *Oblique Strategies*. Marymount School Latin Club. April 14. [[slides]](../assets/pdfs/taking-latin-prose-comp.pdf){:.cv-link}
-- 2012\. "Some Poetic and Artistic Frames in Theocritus." Co-presented with Carolyn Laferriere. *Within the Frame: A Critical Metaphor in Art and Literature*, The Classics Work in Progress Group, Yale University. January 27. --->
+- 2015\. "Taking Latin Prose Comp (By Strategy): A Latin Translation of *Oblique Strategies*. Marymount School Latin Club. April 14. [[slides]](../assets/pdfs/taking-latin-prose-comp.pdf){:.cv-link} --->
+<!--- - 2012\. "Some Poetic and Artistic Frames in Theocritus." Co-presented with Carolyn Laferriere. *Within the Frame: A Critical Metaphor in Art and Literature*, The Classics Work in Progress Group, Yale University. January 27. --->
 
 <!--- 
 ### Digital Humanities Workshops
@@ -110,10 +112,6 @@ May 2017
 
 - 2017\. "The Ancient Case Against Programming 'Languages'" *Eidolon* April 24. [[link]](https://eidolon.pub/the-ancient-case-against-programming-languages-b8d253ea6e64){:.cv-link}.
 
-#### Book Reviews
-
-- 2017\. "Latin Einstein on the Beach." *University Bookman*. Review of R.T. Foster and D.P. McCarthy, *Ossa Latinitatis Sola, or, The Mere Bones of Latin according to the Thought & System of Reginald. (Catholic University of American Press, 2016). [[link]](http://www.kirkcenter.org/index.php/bookman/article/latin-einstein-on-the-beach/){:.cv-link}
-
 #### Web Tutorials
 
 - 2013\. "[Understanding Regular Expressions](http://programminghistorian.org/lessons/understanding-regular-expressions)." *The Programming Historian* 2. Technical Reviewer.
@@ -128,18 +126,21 @@ May 2017
 ### Awards and Honors
 
 - 2016\. Google Summer of Code stipend for development on "Latin/Greek Backoff Lemmatizer" for the Classical Language Toolkit.
-- 2016\. Fordham University, Graduate School of Arts &amp; Sciences, Alumni Dissertation Fellowship.
-- 2015\. Fordham University, Graduate School of Arts &amp; Sciences. Research Fellowship.
-- 2014\. Fordham University, Graduate School of Arts &amp; Sciences. Teaching Associateship.
-- 2013\. Fordham University, Graduate School of Arts &amp; Sciences. Summer Research Grant.
-- 2013\. Fordham University, Graduate School of Arts &amp; Sciences. Senior Teaching Fellowship.
+<!--- - 2016\. Fordham University, Graduate School of Arts &amp; Sciences, Alumni Dissertation Fellowship. --->
+<!--- - 2015\. Fordham University, Graduate School of Arts &amp; Sciences. Research Fellowship. --->
+<!--- - 2014\. Fordham University, Graduate School of Arts &amp; Sciences. Teaching Associateship. --->
+<!--- - 2013\. Fordham University, Graduate School of Arts &amp; Sciences. Summer Research Grant. --->
+<!--- - 2013\. Fordham University, Graduate School of Arts &amp; Sciences. Senior Teaching Fellowship. --->
 - 2013\. HASTAC Scholar.
 - 2012\. National Endowment for the Humanities/Tufts University. Institutes for Advanced Topics in the Digital Humanities grant.
-- 2012-2010\. Fordham University, Graduate School of Arts &amp; Sciences. Teaching Fellowship.
-- 2011\. New York Classical Club. American School of Classical Studies at Athens Summer Scholarship.
-- 2009\. Fordham University, Graduate School of Arts &amp; Sciences. Graduate Assistantship.
+<!--- - 2012-2010\. Fordham University, Graduate School of Arts &amp; Sciences. Teaching Fellowship. --->
+<!--- - 2011\. New York Classical Club. American School of Classical Studies at Athens Summer Scholarship. --->
+<!--- - 2009\. Fordham University, Graduate School of Arts &amp; Sciences. Graduate Assistantship. --->
 
 ### Teaching Experience
+
+#### Instructor, Institute for the Study of the Ancient World
+- Introduction to Digital Humanities for the Ancient World (Fall 2016, Fall 2017)
 
 #### Instructor, Fordham University
 
@@ -155,46 +156,47 @@ May 2017
 - Texts and Contexts: Myth in Greco-Roman Literature (Spring 2013)<br><br>
 - Understanding Historical Change: Ancient Rome (Spring 2012)<br><br>
 
+<!---
 #### Teaching Assistant, Columbia University
 
 - Introduction to Latin I (Spring 2008)
+--->
 
+<!---
 ### Professional Experience
 
 - 2010\. Proofreading Latin and Greek citations. Peppard, M. *The Son of God in the Roman World: Divine Sonship in Its Social and Political Context*. Oxford, 2011. [[site]](http://www.worldcat.org/title/son-of-god-in-the-roman-world-divine-sonship-in-its-social-and-political-context/oclc/693810866){:.cv-link}
 - 2008\. Proofreading, compiling index locorum, checking references and bibliography. McGowan, M. *Ovid in Exile: Power and Poetic Redress in the* Tristia *and* Epistulae ex Ponto. Brill, 2009. [[site]](http://www.worldcat.org/title/ovid-in-exile-power-and-poetic-redress-in-the-tristia-and-epistulae-ex-ponto/oclc/567444496){:.cv-link}
+--->
 
 ### Professional Activities
 
-- 2016\. Participant in Sunoikisis Latin Seminar at Center for Hellenic Studies; leader of common session post-Neronian literature.
-- 2016\. Participant in Sunoikisis Greek Seminar at Center for Hellenic Studies; leader of common session on Hellenistic literature.
-- 2016-2014, 2012\. Organizer of Iter Zoologicum: A Latin Walk Through the Bronx Zoo.
-- 2015\. Participant in Sunoikisis Latin Seminar at Center for Hellenic Studies; leader of common session on "Family Ties in Neronian Literature."
-- 2014\. Co-director of the Fordham Graduate Students Digital Humanities Group.
-- 2013\. Participated in the Dickinson College Summer Latin Workshop on Ovid's Fasti IV.
-- 2013\. Co-director of the Fordham Graduate Students Digital Humanities Group.
-- 2012\. Co-founder of Fordham Graduate Students Digital Humanities Group.
+- 2015-2016\. Participant in Sunoikisis Greek & Latin Seminars at Center for Hellenic Studies; leader of common sessions on Hellenistic and Neronian/Flavian literature.
+<!--- - 2016-2010\. Organizer of Iter Zoologicum: A Latin Walk Through the Bronx Zoo. --->
+- 2012-2014\. Founder and co-director of the Fordham Graduate Students Digital Humanities Group.
+
+<!--- 2013\. Participated in the Dickinson College Summer Latin Workshop on Ovid's Fasti IV.
 - 2012\. Jesuit Pedagogy Seminar, Fordham University.
 - 2011\. American School of Classical Studies in Athens, Summer Session.
-- 2011\. Organizer of Iter Zoologicum: A Latin Walk Through the Bronx Zoo.
 - 2011\. Co-organizer of "The Caffeinated Classicist," a series of professional development workshops for Fordham University graduate students in Classics.
 - 2010\. Co-organizer of "Digital Practicum in Classics," a workshop on for Fordham College undergraduate classics majors.
-- 2010\. Organizer of Iter Zoologicum: A Latin Walk Through the Bronx Zoo.
 - 2007\. Studied under Fr. Reginald Foster at Aestiva Romae Latinitas.
+--->
 
+<!---
 ### Outreach
 
 - 2013\. Nu School Classics. Introduction for preschoolers to the Greek alphabet with storytelling and art projects. Amazing Magic Beans Learning Center. Sunnyside, NY.
+--->
 
 ### Computer skills
 
-- Competency in Python (esp. NLTK), Jupyter notebooks; Git/GitHub; TravisCI; Heroku deployment. <!---CODING: Add Ruby, PHP, shell scripting; SVN? --->
-- Competency in relational database design, SQL, Postgresql. <!---Database: Add MySQL; RDF, triplestores, SPARQL --->
-- Competency with regular expressions.
-- Data science and text analysis experience in R.
-- Markup experience in XML, HTML5, and CSS3. <!--- XSLT --->
-- Web development experience in Javascript/jQuery (esp. Leaflet.js); Jekyll; Flask, Jinja2; Heroku.
-- Content management experience with Wordpress; Omeka. <!---CMS: Add Drupal --->
+- Programming: Python (esp. NLTK), Jupyter notebooks; R; regular expressions <!---CODING: Add Ruby, PHP, shell scripting; SVN? --->
+- Relational database design: SQL, Postgresql. <!---Database: Add MySQL; RDF, triplestores, SPARQL --->
+- Markup: XML, HTML5, and CSS3. <!--- XSLT --->
+- Web development: Javascript/jQuery (esp. Leaflet.js); Jekyll; Flask, Jinja2; Heroku.
+- Open source development: Git/GitHub, TravisCI.
+- Content management: Wordpress, Omeka. <!---CMS: Add Drupal --->
 
 <!---WEBCONFIG: Add Apache, Tomcat --->
 <!---DIGITAL LIBRARY: Add SOLR, Blacklight, Neatline --->
