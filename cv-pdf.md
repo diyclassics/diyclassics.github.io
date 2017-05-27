@@ -1,22 +1,19 @@
----
-title: CV
-layout: cv
----
+<!---
+- Remove YAML block
+- Reformat header block
+- Remove {}, [], etc.
+--->
 
-{:.name}
+
 # Patrick J. Burns
+patrick.j.burns@nyu.edu | (212) 992-7811  
 
-{:.cv-address}
-patrick.j.burns@nyu.edu  
-(212) 992-7811  
-
-{:.cv-info}
 **Curriculum Vitae**  
 May 2017  
 
 ### Employment
 
-- 2016-present. Assistant Research Scholar: Digital and Special Projects. [Institute for the Study of the Ancient World](http://isaw.nyu.edu) Library.
+- 2016-present. Assistant Research Scholar: Digital and Special Projects. Institute for the Study of the Ancient World Library.
 
 ### Education
 
@@ -27,7 +24,7 @@ May 2017
 
 #### Dissertation
 
-- *Amor Belli*: Elegiac Diction and the Theme of Love in Lucan’s *Bellum Civile*. Directed by Prof. Matthew McGowan, Fordham University, Classics. [[abstract]](../amor-belli){:.cv-link}
+- *Amor Belli*: Elegiac Diction and the Theme of Love in Lucan’s *Bellum Civile*. Directed by Prof. Matthew McGowan, Fordham University, Classics. 
 
 #### Research Interests
 
@@ -37,8 +34,8 @@ May 2017
 
 #### Manuscripts under review
 
-- 2017\. "Measuring and Mapping Intergeneric Allusion in Latin Poetry using Tesserae," *Journal of Data Mining and Digital Humanities*. [[abstract]](../measuring-and-mapping){:.cv-link}
-- 2017\. &quot;The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code,&quot; *Classics@*, special issue on ancient literacies. Co-written with K. Johnson and L. Hollis. [[abstract]](../future-of-ancient-literacy){:.cv-link}
+- 2017\. "Measuring and Mapping Intergeneric Allusion in Latin Poetry using Tesserae," *Journal of Data Mining and Digital Humanities*. 
+- 2017\. &quot;The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code,&quot; *Classics@*, special issue on ancient literacies. Co-written with K. Johnson and L. Hollis. 
 
 #### Manuscripts in preparation
 - "Venus and *venus* in Lucan's *Bellum civile*"
@@ -47,9 +44,9 @@ May 2017
 
 #### Book Reviews
 
-- 2017\. "Latin Einstein on the Beach." *University Bookman*. Review of R.T. Foster and D.P. McCarthy, *Ossa Latinitatis Sola, or, The Mere Bones of Latin according to the Thought & System of Reginald*. (Catholic University of American Press, 2016). [[link]](http://www.kirkcenter.org/index.php/bookman/article/latin-einstein-on-the-beach/){:.cv-link}
-- 2017\. *Classical World* 110.2. Review of B.Walters, Lucan: *Civil War* and S. Lombardo, Statius: *Achilleid*. (Hackett Publishing Company, 2015). DOI [10.1353/clw.2017.0016](https://doi.org/10.1353/clw.2017.0016). [[link]](http://muse.jhu.edu/article/648015){:.cv-link} [[pdf]](http://muse.jhu.edu/article/648015/pdf){:.cv-link}
-- 2012\. *Classical Outlook* 89.2. Review of P.L. Chambers, *The Natural Histories* of Pliny the Elder. (Univ. of Oklahoma Press, 2012). [[jstor]](https://www.jstor.org/stable/43940167){:.cv-link} [[sample]](../pliny-review){:.cv-link}
+- 2017\. "Latin Einstein on the Beach." *University Bookman*. Review of R.T. Foster and D.P. McCarthy, *Ossa Latinitatis Sola, or, The Mere Bones of Latin according to the Thought & System of Reginald*. (Catholic University of American Press, 2016). 
+- 2017\. *Classical World* 110.2. Review of B.Walters, Lucan: *Civil War* and S. Lombardo, Statius: *Achilleid*. (Hackett Publishing Company, 2015). DOI 10.1353/clw.2017.0016.  
+- 2012\. *Classical Outlook* 89.2. Review of P.L. Chambers, *The Natural Histories* of Pliny the Elder. (Univ. of Oklahoma Press, 2012).  
 
 ### Conferences
 - 2018\. *Future Philologies: Digital Directions in Text for Historical Languages*. Organizer. Institute for the Study of the Ancient World. April 20.
@@ -57,44 +54,44 @@ May 2017
 ### Conference Panels
 
 - 2017\. "Digital Approaches to Latin Vocabulary Acquisition." Organizer. CAAS 2017 Annual Meeting, New York City, NY. October 6.
-- 2017\. "Ancient Makerspaces: Digital Classics Workshop." Panel moderator. Annual Meeting of the Society of Classical Studies, Toronto, Ont. [[site]](http://bit.ly/ancientmakerspaces){:.cv-link}
+- 2017\. "Ancient Makerspaces: Digital Classics Workshop." Panel moderator. Annual Meeting of the Society of Classical Studies, Toronto, Ont. 
 
 ### Conference Papers
-- 2017\. "Creating Stopword Lists for Historical Languages." *Global Philology: Big Corpora of Historical Text*, Universität Leipzig. July 10. [[abstract]](../creating-stopword-lists){:.cv-link}
-- 2017\. "Virgil's Hardest Sentence?: Measuring Readability in Latin Poetry." *Midwest Classical Literature Consortium*, Ohio University. April 22. [[abstract]](../virgils-hardest-sentence){:.cv-link}
+- 2017\. "Creating Stopword Lists for Historical Languages." *Global Philology: Big Corpora of Historical Text*, Universität Leipzig. July 10. 
+- 2017\. "Virgil's Hardest Sentence?: Measuring Readability in Latin Poetry." *Midwest Classical Literature Consortium*, Ohio University. April 22. 
 <!--- - 2017\. "Backoff Tagging as a Philological Method." *Digital Antiquity Research Showcase*, Institute for the Study of the Ancient World. April 14. --->
-- 2017\. "Classical Language Toolkit and Measuring Readability in Latin Literature." *Global Philology Open Conference*, Universität Leipzig. February 22. [[slides]](http://www.dh.uni-leipzig.de/wo/events/global-philology-open-conference/burns-globalphilology-slides/){:.cv-link}
-- 2016\. "Erotic Distraction in Lucan’s *Bellum Civile*." Annual Meeting of the Society of Classical Studies, San Francisco, Ca. January 9. [[abstract]](../erotic-distraction){:.cv-link}
-- 2015\. "*Caesar Captivus*: Elegiac Enrichment in Lucan’s *Bellum Civile*." CAAS 2015 Annual Meeting, Wilmington, De. October 9. [[abstract]](../caesar-captivus){:.cv-link}
-<!--- - 2015\. "Measuring Allusive Density in Lucan’s *Bellum Civile* using Tesserae." Linked Ancient World Data Initiative Event: *Digital Antiquity Coffee House*. Institute for the Study of the Ancient World. October 2. [[notebook]](https://github.com/diyclassics/measuring-allusion/blob/master/code/isaw.ipynb) --->
-<!--- - 2015\. "From *Amicitia* to *Amor*: Lucan’s Elegiac Turn." *Love and Friendship in Greek and Roman Antiquity*, Boston University. March 21. [[abstract]](../from-amicitia-to-amor){:.cv-link} --->
-- 2014\. "*Carpe Iter*: A Case for Latin-themed Field Trips." CAAS 2014 Annual Meeting, Washington, D.C. October 10. [[abstract]](../carpe-iter){:.cv-link}
+- 2017\. "Classical Language Toolkit and Measuring Readability in Latin Literature." *Global Philology Open Conference*, Universität Leipzig. February 22. 
+- 2016\. "Erotic Distraction in Lucan’s *Bellum Civile*." Annual Meeting of the Society of Classical Studies, San Francisco, Ca. January 9. 
+- 2015\. "*Caesar Captivus*: Elegiac Enrichment in Lucan’s *Bellum Civile*." CAAS 2015 Annual Meeting, Wilmington, De. October 9. 
+<!--- - 2015\. "Measuring Allusive Density in Lucan’s *Bellum Civile* using Tesserae." Linked Ancient World Data Initiative Event: *Digital Antiquity Coffee House*. Institute for the Study of the Ancient World. October 2.  --->
+<!--- - 2015\. "From *Amicitia* to *Amor*: Lucan’s Elegiac Turn." *Love and Friendship in Greek and Roman Antiquity*, Boston University. March 21.  --->
+- 2014\. "*Carpe Iter*: A Case for Latin-themed Field Trips." CAAS 2014 Annual Meeting, Washington, D.C. October 10. 
 - 2014\. "Latin for the Hearing-Impaired." *Investigating Inequalities*, Graduate School Association Conference, Fordham University. April 5.
 - 2014\. "Digital Directions for a Concordance of Hellenistic Philosophy." (Co-presented with Prof. Brian Johnson, Fordham University.) *Publishing Text for a Digital Age*, Tufts University. March 28.
-- 2013\. "Lucian’s Ekphrasis of the Visible and the Invisible in *Imagines*." CAMWS 2013 Annual Meeting, Iowa City, Ia. April 20. [[abstract]](../lucians-ekphrasis-of-the-invisible){:.cv-link}
-- 2013\. "Distant Reading Alliteration in Latin Poetry." *Word, Space, Time: Digital Perspectives on the Classical World*, University at Buffalo. April 6. [[abstract]](../distant-reading-alliteration-in-latin-poetry){:.cv-link} [[code]](https://gist.github.com/pbartleby/5276544){:.cv-link}
-<!--- - 2013\. "*Pessime Planudes*: Scaliger’s *Cato* and the Polemics of Retranslation." *Beyond Words: Translation and the Classical World*, CUNY Graduate Center. March 8. [[abstract]](../pessime-planudes){:.cv-link} --->
+- 2013\. "Lucian’s Ekphrasis of the Visible and the Invisible in *Imagines*." CAMWS 2013 Annual Meeting, Iowa City, Ia. April 20. 
+- 2013\. "Distant Reading Alliteration in Latin Poetry." *Word, Space, Time: Digital Perspectives on the Classical World*, University at Buffalo. April 6.
+<!--- - 2013\. "*Pessime Planudes*: Scaliger’s *Cato* and the Polemics of Retranslation." *Beyond Words: Translation and the Classical World*, CUNY Graduate Center. March 8.  --->
 - 2013\. "A Non-Latin Script in the Digital Archive: Greek OCR and Google Books." *Remembering, Forgetting, Imagining: The Practices of Memory*, Digital Humanities roundtable, Fordham University. March 2.
-<!--- - 2012\. "*Laudatio*, Lineage and Legacy in Cicero’s *Brutus*." Exegi Monumentum Aere Perennius*: Self-Promotion in the Ancient World*, University at Buffalo. October 20. [[abstract]](../laudatio-lineage-and-legacy){:.cv-link} --->
-<!--- - 2012\. "The Poet Who Dreamt He Was a Poet: Lucretius and the Problem of Inspiration." *And Now for Something Completely Different: Transformation and Transcendence in Antiquity*, University of Wisconsin-Madison. October 13. [[abstract]](../the-poet-who-dreamt){:.cv-link} --->
-- 2011\. "Short on Erotics: Eros as Epic Hero in Apollonius Rhodius’ *Argonautica* 3.275-298." *Desire: From Eros to Eroticism*, CUNY Graduate Center, Department of Comparative Literature. November 11. [[abstract]](../short-on-erotics){:.cv-link}
-<!--- - 2011\. "Dice Play and Wordplay in Apollonius Rhodius’ *Argonautica* 3.111-128." *Why So Serious?: The Past and Its Diversions*, University of Michigan. April 16. [[abstract]](../dice-play-and-wordplay){:.cv-link} --->
-<!--- - 2010\. "The Hyper-Alexandrianism of Virgilian Centos and Girl Talk's Mashups." *All Roads Lead From Rome*, Rutgers University. April 9. [[abstract]](../hyper-alexandrianism){:.cv-link} --->
+<!--- - 2012\. "*Laudatio*, Lineage and Legacy in Cicero’s *Brutus*." Exegi Monumentum Aere Perennius*: Self-Promotion in the Ancient World*, University at Buffalo. October 20.  --->
+<!--- - 2012\. "The Poet Who Dreamt He Was a Poet: Lucretius and the Problem of Inspiration." *And Now for Something Completely Different: Transformation and Transcendence in Antiquity*, University of Wisconsin-Madison. October 13.  --->
+- 2011\. "Short on Erotics: Eros as Epic Hero in Apollonius Rhodius’ *Argonautica* 3.275-298." *Desire: From Eros to Eroticism*, CUNY Graduate Center, Department of Comparative Literature. November 11. 
+<!--- - 2011\. "Dice Play and Wordplay in Apollonius Rhodius’ *Argonautica* 3.111-128." *Why So Serious?: The Past and Its Diversions*, University of Michigan. April 16.  --->
+<!--- - 2010\. "The Hyper-Alexandrianism of Virgilian Centos and Girl Talk's Mashups." *All Roads Lead From Rome*, Rutgers University. April 9.  --->
 
 ### Conference Posters
 
-- 2017\. "Mapping Linked Data Subject Headings in the Library Catalog." DH2017, Montreal, Quebec. August 11. Co-written with D. Ratzan, T. Elliot, and G. Mckee. [[abstract]](../mapping-linked-data-subject-headings){:.cv-link}
-- 2014\. "Distant Reading Alliteration in Latin Literature." Annual Meeting of the American Philological Association, Chicago, Il. January 4. [[abstract]](../distant-reading-alliteration-in-latin-literature){:.cv-link}
+- 2017\. "Mapping Linked Data Subject Headings in the Library Catalog." DH2017, Montreal, Quebec. August 11. Co-written with D. Ratzan, T. Elliot, and G. Mckee. 
+- 2014\. "Distant Reading Alliteration in Latin Literature." Annual Meeting of the American Philological Association, Chicago, Il. January 4. 
 
 ### Invited Talks
 - 2017\. "Exploring Diction and Topics in Latin Love Elegy." *Digital Propertius Project*, Department of Classics, Yale University. May 18.
 <!--- - 2017\. "*Fabulae Psittaci*: Parrot Anecdotes in Greek and Latin Literature". *Circle Through New York* exhibition, Insitute for the Study of the Ancient World. May 12. --->
 <!--- - 2017\. "*Descriptio Psittaci*: Looking at Parrots from Aristotle to Gesner". *Circle Through New York* exhibition, Insitute for the Study of the Ancient World. May 12. --->
 <!--- - 2017\. "A (Cautious) Defense of Google Translate for Latin". Marymount School Latin Club. May 3. --->
-- 2016\. "Cicero's Hardest Sentence?: Measuring Readability in Latin Literature". Drew University Classics Department. December 1. [[abstract]](../ciceros-hardest-sentence){:.cv-link} [[code]](https://github.com/diyclassics/readability/blob/master/Cicero%20Readability%20Final.ipynb){:.cv-link}
+- 2016\. "Cicero's Hardest Sentence?: Measuring Readability in Latin Literature". Drew University Classics Department. December 1.  
 
-<!--- - 2016\. "What is PubSyr, or Why I Made a Latin Twitterbot". Marymount School Latin Club. May 12.
-- 2015\. "Taking Latin Prose Comp (By Strategy): A Latin Translation of *Oblique Strategies*." Marymount School Latin Club. April 14. [[slides]](../assets/pdfs/taking-latin-prose-comp.pdf){:.cv-link} --->
+<!--- - 2016\. "What is PubSyr, or Why I Made a Latin Twitterbot". Marymount School Latin Club. May 12. --->
+<!--- - 2015\. "Taking Latin Prose Comp (By Strategy): A Latin Translation of *Oblique Strategies*." Marymount School Latin Club. April 14.  --->
 <!--- - 2012\. "Some Poetic and Artistic Frames in Theocritus." Co-presented with Carolyn Laferriere. *Within the Frame: A Critical Metaphor in Art and Literature*, The Classics Work in Progress Group, Yale University. January 27. --->
 
 <!--- 
@@ -106,19 +103,19 @@ May 2017
 
 ### Digital Humanities Projects
 
-- 2015-present. The Classical Language Toolkit (CLTK). Core member. [[link]](http://cltk.org){:.cv-link}.
-<!--- - 2014-2016. A Concordance of Hellenistic Philosophy. With Brian Johnson, Department of Philosophy, Fordham University. [[link]](https://hellenistic.ace.fordham.edu){:.cv-link}. --->
+- 2015-present. The Classical Language Toolkit (CLTK). Core member.
+<!--- - 2014-2016. A Concordance of Hellenistic Philosophy. With Brian Johnson, Department of Philosophy, Fordham University. --->
 
 ### Open Access Writing
 
 #### Editorials
 
-- 2017\. "The Ancient Case Against Programming 'Languages'" *Eidolon* April 24. [[link]](https://eidolon.pub/the-ancient-case-against-programming-languages-b8d253ea6e64){:.cv-link}.
+- 2017\. "The Ancient Case Against Programming 'Languages'" *Eidolon* April 24.
 
 #### Web Tutorials
 
-- 2013\. "[Understanding Regular Expressions](http://programminghistorian.org/lessons/understanding-regular-expressions)." *The Programming Historian* 2. Technical Reviewer.
-- 2013\. "[Cleaning Data with OpenRefine](http://programminghistorian.org/lessons/cleaning-data-with-openrefine)." *The Programming Historian* 2. Technical Reviewer.
+- 2013\. "Understanding Regular Expressions." *The Programming Historian* 2. Technical Reviewer.
+- 2013\. "Cleaning Data with OpenRefine." *The Programming Historian* 2. Technical Reviewer.
 
 ### Service
 
@@ -169,8 +166,8 @@ May 2017
 <!---
 ### Professional Experience
 
-- 2010\. Proofreading Latin and Greek citations. Peppard, M. *The Son of God in the Roman World: Divine Sonship in Its Social and Political Context*. Oxford, 2011. [[site]](http://www.worldcat.org/title/son-of-god-in-the-roman-world-divine-sonship-in-its-social-and-political-context/oclc/693810866){:.cv-link}
-- 2008\. Proofreading, compiling index locorum, checking references and bibliography. McGowan, M. *Ovid in Exile: Power and Poetic Redress in the* Tristia *and* Epistulae ex Ponto. Brill, 2009. [[site]](http://www.worldcat.org/title/ovid-in-exile-power-and-poetic-redress-in-the-tristia-and-epistulae-ex-ponto/oclc/567444496){:.cv-link}
+- 2010\. Proofreading Latin and Greek citations. Peppard, M. *The Son of God in the Roman World: Divine Sonship in Its Social and Political Context*. Oxford, 2011. 
+- 2008\. Proofreading, compiling index locorum, checking references and bibliography. McGowan, M. *Ovid in Exile: Power and Poetic Redress in the* Tristia *and* Epistulae ex Ponto. Brill, 2009. 
 --->
 
 ### Professional Activities
