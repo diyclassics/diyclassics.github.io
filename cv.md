@@ -47,9 +47,12 @@ May 2017
 
 #### Book Reviews
 
-- 2017\. "Latin Einstein on the Beach." *University Bookman*. Review of R.T. Foster and D.P. McCarthy, *Ossa Latinitatis Sola, or, The Mere Bones of Latin according to the Thought & System of Reginald. (Catholic University of American Press, 2016). [[link]](http://www.kirkcenter.org/index.php/bookman/article/latin-einstein-on-the-beach/){:.cv-link}
+- 2017\. "Latin Einstein on the Beach." *University Bookman*. Review of R.T. Foster and D.P. McCarthy, *Ossa Latinitatis Sola, or, The Mere Bones of Latin according to the Thought & System of Reginald*. (Catholic University of American Press, 2016). [[link]](http://www.kirkcenter.org/index.php/bookman/article/latin-einstein-on-the-beach/){:.cv-link}
 - 2017\. *Classical World* 110.2. Review of B.Walters, Lucan: *Civil War* and S. Lombardo, Statius: *Achilleid*. (Hackett Publishing Company, 2015). DOI [10.1353/clw.2017.0016](https://doi.org/10.1353/clw.2017.0016). [[link]](http://muse.jhu.edu/article/648015){:.cv-link} [[pdf]](http://muse.jhu.edu/article/648015/pdf){:.cv-link}
 - 2012\. *Classical Outlook* 89.2. Review of P.L. Chambers, *The Natural Histories* of Pliny the Elder. (Univ. of Oklahoma Press, 2012). [[jstor]](https://www.jstor.org/stable/43940167){:.cv-link} [[sample]](../pliny-review){:.cv-link}
+
+### Conferences
+- 2018\. *Future Philologies: Digital Directions in Text for Historical Languages*. Organizer. Institute for the Study of the Ancient World. April 20.
 
 ### Conference Panels
 
@@ -66,12 +69,12 @@ May 2017
 <!--- - 2015\. "Measuring Allusive Density in Lucan’s *Bellum Civile* using Tesserae." Linked Ancient World Data Initiative Event: *Digital Antiquity Coffee House*. Institute for the Study of the Ancient World. October 2. [[notebook]](https://github.com/diyclassics/measuring-allusion/blob/master/code/isaw.ipynb) --->
 <!--- - 2015\. "From *Amicitia* to *Amor*: Lucan’s Elegiac Turn." *Love and Friendship in Greek and Roman Antiquity*, Boston University. March 21. [[abstract]](../from-amicitia-to-amor){:.cv-link} --->
 - 2014\. "*Carpe Iter*: A Case for Latin-themed Field Trips." CAAS 2014 Annual Meeting, Washington, D.C. October 10. [[abstract]](../carpe-iter){:.cv-link}
-- 2014\. "Latin for the Hearing-Impaired." Graduate School Association Conference on Inequality, Fordham University.
+- 2014\. "Latin for the Hearing-Impaired." *Investigating Inequalities*, Graduate School Association Conference, Fordham University. April 5.
 - 2014\. "Digital Directions for a Concordance of Hellenistic Philosophy." (Co-presented with Prof. Brian Johnson, Fordham University.) *Publishing Text for a Digital Age*, Tufts University. March 28.
 - 2013\. "Lucian’s Ekphrasis of the Visible and the Invisible in *Imagines*." CAMWS 2013 Annual Meeting, Iowa City, Ia. April 20. [[abstract]](../lucians-ekphrasis-of-the-invisible){:.cv-link}
 - 2013\. "Distant Reading Alliteration in Latin Poetry." *Word, Space, Time: Digital Perspectives on the Classical World*, University at Buffalo. April 6. [[abstract]](../distant-reading-alliteration-in-latin-poetry){:.cv-link} [[code]](https://gist.github.com/pbartleby/5276544){:.cv-link}
 <!--- - 2013\. "*Pessime Planudes*: Scaliger’s *Cato* and the Polemics of Retranslation." *Beyond Words: Translation and the Classical World*, CUNY Graduate Center. March 8. [[abstract]](../pessime-planudes){:.cv-link} --->
-- 2013\. "A Non-Latin Script in the Digital Archive: Greek OCR and Google Books." *Remembering, Forgetting, Imagining: The Practices of Memory*, Digital Humanities roundtable, Fordham University.
+- 2013\. "A Non-Latin Script in the Digital Archive: Greek OCR and Google Books." *Remembering, Forgetting, Imagining: The Practices of Memory*, Digital Humanities roundtable, Fordham University. March 2.
 <!--- - 2012\. "*Laudatio*, Lineage and Legacy in Cicero’s *Brutus*." Exegi Monumentum Aere Perennius*: Self-Promotion in the Ancient World*, University at Buffalo. October 20. [[abstract]](../laudatio-lineage-and-legacy){:.cv-link} --->
 <!--- - 2012\. "The Poet Who Dreamt He Was a Poet: Lucretius and the Problem of Inspiration." *And Now for Something Completely Different: Transformation and Transcendence in Antiquity*, University of Wisconsin-Madison. October 13. [[abstract]](../the-poet-who-dreamt){:.cv-link} --->
 - 2011\. "Short on Erotics: Eros as Epic Hero in Apollonius Rhodius’ *Argonautica* 3.275-298." *Desire: From Eros to Eroticism*, CUNY Graduate Center, Department of Comparative Literature. November 11. [[abstract]](../short-on-erotics){:.cv-link}
@@ -92,7 +95,7 @@ May 2017
 - 2016\. "Cicero's Hardest Sentence?: Measuring Readability in Latin Literature". Drew University Classics Department. December 1. [[abstract]](../ciceros-hardest-sentence){:.cv-link} [[code]](https://github.com/diyclassics/readability/blob/master/Cicero%20Readability%20Final.ipynb){:.cv-link}
 
 <!--- - 2016\. "What is PubSyr, or Why I Made a Latin Twitterbot". Marymount School Latin Club. May 12.
-- 2015\. "Taking Latin Prose Comp (By Strategy): A Latin Translation of *Oblique Strategies*. Marymount School Latin Club. April 14. [[slides]](../assets/pdfs/taking-latin-prose-comp.pdf){:.cv-link} --->
+- 2015\. "Taking Latin Prose Comp (By Strategy): A Latin Translation of *Oblique Strategies*." Marymount School Latin Club. April 14. [[slides]](../assets/pdfs/taking-latin-prose-comp.pdf){:.cv-link} --->
 <!--- - 2012\. "Some Poetic and Artistic Frames in Theocritus." Co-presented with Carolyn Laferriere. *Within the Frame: A Critical Metaphor in Art and Literature*, The Classics Work in Progress Group, Yale University. January 27. --->
 
 <!--- 
@@ -120,6 +123,7 @@ May 2017
 
 ### Service
 
+- 2016-present. Committe for Public Information and Media Relations. Society for Classical Studies.
 - 2016\. Program Committee. Florida Artificial Intelligence Research Society 30th International Conference, special track for "Natural Language Processing of Ancient and other Low-resource Languages."
 - 2016\. Steering Group. NYC Digital Humanities.
 - 2015-present. Steering Committee. Digital Classics Association.
