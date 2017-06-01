@@ -196,7 +196,7 @@ May 2017
 
 ### Computer skills
 
-- Programming: Python (esp. NLTK), Jupyter notebooks; R; regular expressions <!---CODING: Add Ruby, PHP, shell scripting; SVN? --->
+- Programming: Python (esp. NLTK), Jupyter notebooks; R; regular expressions. <!---CODING: Add Ruby, PHP, shell scripting; SVN? --->
 - Relational database design: SQL, Postgresql. <!---Database: Add MySQL; RDF, triplestores, SPARQL --->
 - Markup: XML, HTML5, and CSS3. <!--- XSLT --->
 - Web development: Javascript/jQuery (esp. Leaflet.js); Jekyll; Flask, Jinja2; Heroku.
