@@ -201,7 +201,7 @@ May 2017
 - Markup: XML, HTML5, and CSS3. <!--- XSLT --->
 - Web development: Javascript/jQuery (esp. Leaflet.js); Jekyll; Flask, Jinja2; Heroku.
 - Open source development: Git/GitHub, TravisCI.
-- Content management: Wordpress, Omeka. <!---CMS: Add Drupal --->
+- Content management: Wordpress; Omeka; DSpace (via NYU Faculty Digital Archive), including working with Simple Archive Format. <!---CMS: Add Drupal --->
 
 <!---WEBCONFIG: Add Apache, Tomcat --->
 <!---DIGITAL LIBRARY: Add SOLR, Blacklight, Neatline --->
@@ -212,8 +212,12 @@ May 2017
 
 <!--- WORTH INCLUDING ANYMORE? VBA for MS Access, VBA for MS Excel --->
 
+<!---
+
 ### References
 
 - David Ratzan. Head Librarian, Institute for the Study of the Ancient World. david.ratzan@nyu.edu. (212) 992-7832.
 - Matthew McGowan. Associate Professor, Fordham University. mamcgowan@fordham.edu. (718) 817-3031.
 - Neil Coffee. Associate Professor, University at Buffalo. ncoffee@buffalo.edu. (716) 645-2154.
+
+--->
