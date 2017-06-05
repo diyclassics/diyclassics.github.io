@@ -198,8 +198,8 @@ May 2017
 
 - Programming: Python (esp. NLTK), Jupyter notebooks; R; regular expressions. <!---CODING: Add Ruby, PHP, shell scripting; SVN? --->
 - Relational database design: SQL, Postgresql. <!---Database: Add MySQL; RDF, triplestores, SPARQL --->
-- Markup: XML, HTML5, and CSS3. <!--- XSLT --->
-- Web development: Javascript/jQuery (esp. Leaflet.js); Jekyll; Flask, Jinja2; Heroku.
+- Markup: XML, TEI. <!--- XSLT --->
+- Web development: HTML 5, CSS3, Javascript/jQuery (esp. Leaflet.js); Jekyll; Flask, Jinja2; Heroku.
 - Open source development: Git/GitHub, TravisCI.
 - Content management: Wordpress; Omeka; DSpace (via NYU Faculty Digital Archive), including working with Simple Archive Format. <!---CMS: Add Drupal --->
 
