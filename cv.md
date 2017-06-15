@@ -45,8 +45,9 @@ May 2017
 - "Creating Stopword Lists for Historical Languages"
 - "Bootstrapping Linked Open Data in Library Catalog Records"
 
-#### Book Reviews
+#### Reviews
 
+- 2017\. Review of "Opera Latina". *Society for Classical Studies Blog* .forthcoming.
 - 2017\. "Latin Einstein on the Beach." *University Bookman*. Review of R.T. Foster and D.P. McCarthy, *Ossa Latinitatis Sola, or, The Mere Bones of Latin according to the Thought & System of Reginald*. (Catholic University of American Press, 2016). [[link]](http://www.kirkcenter.org/index.php/bookman/article/latin-einstein-on-the-beach/){:.cv-link}
 - 2017\. *Classical World* 110.2. Review of B.Walters, Lucan: *Civil War* and S. Lombardo, Statius: *Achilleid*. (Hackett Publishing Company, 2015). DOI [10.1353/clw.2017.0016](https://doi.org/10.1353/clw.2017.0016). [[link]](http://muse.jhu.edu/article/648015){:.cv-link} [[pdf]](http://muse.jhu.edu/article/648015/pdf){:.cv-link}
 - 2012\. *Classical Outlook* 89.2. Review of P.L. Chambers, *The Natural Histories* of Pliny the Elder. (Univ. of Oklahoma Press, 2012). [[jstor]](https://www.jstor.org/stable/43940167){:.cv-link} [[sample]](../pliny-review){:.cv-link}
@@ -186,6 +187,15 @@ May 2017
 - 2011\. Co-organizer of "The Caffeinated Classicist," a series of professional development workshops for Fordham University graduate students in Classics.
 - 2010\. Co-organizer of "Digital Practicum in Classics," a workshop on for Fordham College undergraduate classics majors.
 - 2007\. Studied under Fr. Reginald Foster at Aestiva Romae Latinitas.
+--->
+
+<!---
+
+### Professional Organizations
+
+- Society for Classical Studies
+- Classical Association of the Atlantic States
+
 --->
 
 <!---
