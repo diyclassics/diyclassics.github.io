@@ -12,7 +12,7 @@ patrick.j.burns@nyu.edu
 
 {:.cv-info}
 **Curriculum Vitae**  
-May 2017  
+June 2017  
 
 ### Employment
 
