@@ -1,7 +1,7 @@
 ---
 title: "Ancient MakerSpaces Website"
 layout: post
-date: 2016-01-07 22:10
+date: 2017-01-07 22:10
 tag: isaw, web-design, jekyll, scs
 image: /assets/images/jekyll-logo-light-solid.png
 headerImage: false
