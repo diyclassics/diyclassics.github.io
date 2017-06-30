@@ -17,6 +17,6 @@ jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="../assets/images/
 author: patrickburns
 externalLink: false
 ---
-![Screenshot](../assets/images/ams-website.png)
+[![Screenshot](../assets/images/ams-website.png)](https://diyclassics.github.io/ams/)
 
 Jekyll-based landing page to promote Ancient MakerSpaces at the 2017 Annual Meeting of the Society of Classical Studies. The live version of the site is available at [https://diyclassics.github.io/ams/](https://diyclassics.github.io/ams/).
