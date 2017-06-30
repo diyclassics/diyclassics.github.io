@@ -2,7 +2,7 @@
 title: "Ancient MakerSpaces Website"
 layout: post
 date: 2016-01-07 22:10
-tag: cltk
+tag: isaw, web-design, jekyll, scs
 image: /assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true
