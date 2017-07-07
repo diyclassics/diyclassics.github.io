@@ -1,7 +1,7 @@
 ---
 title: "Creating Stopword Lists for Historical Languages"
 layout: paper
-date: 2017-01-01 00:00
+date: 2017-07-07 00:00
 tag: paper
 image: /assets/images/jekyll-logo-light-solid.png
 headerImage: false
@@ -23,7 +23,7 @@ Stopwords are words that are filtered from documents prior to text analysis task
 
 I propose to use the time at the Global Philology Big Corpora of Historical Text seminar at Universität Leipzig on July 10-11 for developing best practices for stopword list creation for Latin, Greek, and other historical languages. I will review recent publications on stopword list creation in other languages, replicate corpus-based experiments based on this literature, and work with seminar participants to arrive at the appropriate methods for developing similar lists in our target languages.
 
-The outcome of the seminar would be an article presenting results of stopword list creation methods for Latin as well as a white paper suggesting the best path forward for other languages represented in the Global Philology project. These results, i.e. the stopword list istelf, would also be “published” in 1. the Classical Language Toolkit, 2. a branch of the natural language processing tool spaCy that I am developing for the Latin language, and 3. other open-source venues such as stopwords-json and stop-words. Furthermore, the stop word dataset would be available for use under a CC0 for use in Open Greek and Latin and related projects. By ensuring that the Latin stopword list is properly documented, version controlled, and citable, I am for the RAD paradigm with this dataset, that is it will be replicable, aggregable, and data-driven, and as such will be better suited to be included in other text analysis projects.
+The outcome of the seminar would be an article presenting results of stopword list creation methods for Latin as well as a white paper suggesting the best path forward for other languages represented in the Global Philology project. These results, i.e. the stopword list istelf, would also be “published” in 1. the Classical Language Toolkit, 2. a branch of the natural language processing tool spaCy that I am developing for the Latin language, and 3. other open-source venues such as stopwords-json and stop-words. Furthermore, the stop word dataset would be available for use under a CC0 for use in Open Greek and Latin and related projects. By ensuring that the Latin stopword list is properly documented, version controlled, and citable, I aim for the RAD paradigm with this dataset, that is it will be replicable, aggregable, and data-driven, and as such will be better suited to be included in other text analysis projects.
 
 {:.paper-section-heading}
 ## References
