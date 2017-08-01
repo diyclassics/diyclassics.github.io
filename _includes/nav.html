@@ -45,6 +45,14 @@
                     <a class="link" href="{{ site.url }}/syllabus">Syllabuses</a>
                 </li>
             {% endif %}
+        {% endif %}
+
+        {% if site.calendar == true %}
+            {% if page.title != "Calendar" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/calendar">Calendar</a>
+                </li>
+            {% endif %}
         {% endif %}   
 
         {% if site.about == true %}
