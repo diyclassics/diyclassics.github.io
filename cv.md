@@ -1,6 +1,6 @@
 ---
 title: CV
-layout: cv
+layout: calendar
 ---
 
 {:.name}
