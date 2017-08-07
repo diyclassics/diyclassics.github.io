@@ -37,7 +37,7 @@ August 2017
 
 #### Articles
 
-- 2017\. "Measuring and Mapping Intergeneric Allusion in Latin Poetry using Tesserae," *Journal of Data Mining and Digital Humanities*. Special Issue on Computer-Aided Processing of Intertextuality in Ancient Languages. [[paper]](http://jdmdh.episciences.org/paper/view?id=3813){:.cv-link}
+- 2017\. "Measuring and Mapping Intergeneric Allusion in Latin Poetry using Tesserae," *Journal of Data Mining and Digital Humanities*. Special Issue on Computer-Aided Processing of Intertextuality in Ancient Languages. [[paper]](https://hal.archives-ouvertes.fr/hal-01282568v4/document){:.cv-link}
 
 #### Manuscripts under review
 
