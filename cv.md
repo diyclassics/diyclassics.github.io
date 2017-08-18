@@ -171,12 +171,10 @@ August 2017
 - Introduction to Latin I (Spring 2008)
 --->
 
-<!---
 ### Professional Experience
 
 - 2010\. Proofreading Latin and Greek citations. Peppard, M. *The Son of God in the Roman World: Divine Sonship in Its Social and Political Context*. Oxford, 2011. [[site]](http://www.worldcat.org/title/son-of-god-in-the-roman-world-divine-sonship-in-its-social-and-political-context/oclc/693810866){:.cv-link}
 - 2008\. Proofreading, compiling index locorum, checking references and bibliography. McGowan, M. *Ovid in Exile: Power and Poetic Redress in the* Tristia *and* Epistulae ex Ponto. Brill, 2009. [[site]](http://www.worldcat.org/title/ovid-in-exile-power-and-poetic-redress-in-the-tristia-and-epistulae-ex-ponto/oclc/567444496){:.cv-link}
---->
 
 ### Professional Activities
 
@@ -192,14 +190,11 @@ August 2017
 - 2007\. Studied under Fr. Reginald Foster at Aestiva Romae Latinitas.
 --->
 
-<!---
-
 ### Professional Organizations
 
 - Society for Classical Studies
 - Classical Association of the Atlantic States
-
---->
+- Forum for Classical Librarians and Scholarly Communications
 
 <!---
 ### Outreach
