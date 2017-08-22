@@ -4,10 +4,13 @@ layout: post
 date: 2017-08-21 22:10
 tag:
 - isaw
-- isaw-library
-- teach
+- teaching
 - digital-humanities
+- digital-classics
 - python
+- 3d-modeling
+- xml
+- visualization
 #image: /assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true
