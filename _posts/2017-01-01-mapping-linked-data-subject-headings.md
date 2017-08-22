@@ -15,7 +15,7 @@ externalLink: false
 
 # Mapping Linked Data Subject Headings in the Library Catalog
 Abstract for poster given at DH2017 in Montreal, Quebec.  
-August 11, 2017  
+August 9, 2017  
 
 {:.paper-section-heading}
 ## Abstract 
