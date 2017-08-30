@@ -88,4 +88,10 @@
             <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
         </a>
     {% endif %}
+
+    {% if site.hcommons %}
+        <a class="link" data-title="hcommons.org/members/{{ site.hcommons }}" href="https://hcommons.org/members/{{ site.hcommons }}" target="_blank">
+            <svg class="icon icon-hcommons"><use xlink:href="#icon-hcommons"></use></svg>
+        </a>
+    {% endif %}
 </div>
