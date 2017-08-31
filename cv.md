@@ -60,7 +60,8 @@ August 2017
 
 ### Conference Panels
 
-- 2017\. "Digital Approaches to Latin Vocabulary Acquisition." Organizer. CAAS 2017 Annual Meeting, New York City, NY. October 6.
+- 2018\. "Ancient Makerspaces: Digital Classics Workshop." Organizer. Annual Meeting of the Society of Classical Studies, Boston, MA. January 6.
+- 2017\. "Digital Approaches to Latin Vocabulary Acquisition." Organizer. Classical Association of the Atlantic States Annual Meeting, New York City, NY. October 6.
 - 2017\. "Ancient Makerspaces: Digital Classics Workshop." Panel moderator. Annual Meeting of the Society of Classical Studies, Toronto, Ont. [[site]](http://bit.ly/ancientmakerspaces){:.cv-link}
 
 ### Conference Papers
