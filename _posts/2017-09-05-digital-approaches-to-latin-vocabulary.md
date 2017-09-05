@@ -19,7 +19,7 @@ jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="../assets/images/
 author: patrickburns
 externalLink: false
 ---
-![Screenshot](../assets/images/digital-approaches-latin-vocabulary.jpg)
+<!--- ![Screenshot](../assets/images/digital-approaches-latin-vocabulary.jpg) --->
 
 ## Digital Approaches to Latin Vocabulary
 *Panel at the 2017 Annual Meeting of the Classical Association of the Atlantic States*  
