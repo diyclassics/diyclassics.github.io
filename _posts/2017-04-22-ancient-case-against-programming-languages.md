@@ -5,7 +5,7 @@ date: 2017-04-22 22:10
 tag: writing
 #image: /assets/images/jekyll-logo-light-solid.png
 headerImage: false
-projects: true
+projects: false
 hidden: true # don't count this post in blog pagination
 description: "Argument for the separation of natural language and programming language instruction in educational policy."
 # New jemoji
