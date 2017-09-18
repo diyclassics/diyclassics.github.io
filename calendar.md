@@ -6,8 +6,9 @@ layout: calendar
 # Calendar
 
 ### October 2017
-- 10.6.17 Panel: *Digital Approaches to Latin Vocabulary Learning*. 2017 Annual Meeting of the Classical Association of the Atlantic States. Marriott East. New York, NY.
+- 10.6.17 Panel: *Digital Approaches to Latin Vocabulary Learning*. 2017 Annual Meeting of the Classical Association of the Atlantic States. Marriott East. New York, NY. [[abstract]](../digital-approaches-to-latin-vocabulary){:.cv-link}
 - 10.6.17 Talk: *Latin in Unusual Places*. 2017 Annual Meeting of the Classical Association of the Atlantic States. Marriott East. New York, NY.<!--- [[abstract]](../amor-belli){:.cv-link}--->
+- 10.17.17 Talk: *Mapping Library Subject Headings with the HathiTrust Extracted Features Dataset*. Digital Publication in Mediterranean Archaeology: Current Practice and Common Goals, Institute for the Study of the Ancient World. New York, NY.  
 
 ### January 2018
 - 1.6.18 Workshop: *Ancient MakerSpaces*. 2018 Annual Meeting of the Society for Classical Studies. Boston, Ma.
