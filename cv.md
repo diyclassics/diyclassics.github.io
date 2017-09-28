@@ -10,9 +10,12 @@ layout: calendar
 patrick.j.burns@nyu.edu  
 (212) 992-7811  
 
+{:.cv-orcid}
+ORCID 0000-0003-2158-866X  
+
 {:.cv-info}
 **Curriculum Vitae**  
-August 2017  
+October 2017  
 
 ### Employment
 
@@ -128,9 +131,10 @@ August 2017
 
 ### Service
 
+- 2017\. Reviewer for *DSH: Digital Scholarship in the Humanities*.
 - 2016-present. Committee for Public Information and Media Relations. Society for Classical Studies.
 - 2016\. Program Committee. Florida Artificial Intelligence Research Society 30th International Conference, special track for "Natural Language Processing of Ancient and other Low-resource Languages."
-- 2016\. Steering Group. NYC Digital Humanities.
+- 2016-present. Steering Group. NYC Digital Humanities.
 - 2015-present. Steering Committee. Digital Classics Association.
 
 ### Awards and Honors
