@@ -1,5 +1,5 @@
 ---
-title: "The Ancient Case Against 'Programming' Languages. Eidolon."
+title: "The Ancient Case Against 'Programming' Languages"
 layout: post
 date: 2017-04-22 22:10
 tag: writing
@@ -13,10 +13,12 @@ jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="../assets/images/
 author: patrickburns
 externalLink: false
 ---
-![Screenshot](https://cdn-images-1.medium.com/max/2000/1*uQd1Ut-lhiIXTSn7J7Lgig.png)
+
 
 ### The Ancient Case Against "Programming" Languages
 Published in *[Eidolon](https://eidolon.pub/)*, April 2017.
+
+![Screenshot](https://cdn-images-1.medium.com/max/2000/1*uQd1Ut-lhiIXTSn7J7Lgig.png)
 
 When Apple CEO Tim Cook addressed an audience of tech executives, venture capitalists, and policy makers at a “startup fest” event in Amsterdam, he took the opportunity to weigh in on the future of language instruction: “[coding] is just another language, and just like any other language it should be taught in schools.” Similar rhetoric can be heard in state legislatures across the country. The Florida senate passed Bill SB 468 last year allowing students to satisfy “language” requirements with coding classes, and similar measures have come up in Texas, Kentucky, and New Mexico.
 
