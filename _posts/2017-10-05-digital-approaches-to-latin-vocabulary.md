@@ -1,7 +1,7 @@
 ---
 title: "Digital Approaches to Latin Vocabulary"
 layout: post
-date: 2017-09-05 22:10
+date: 2017-10-05 22:10
 tag:
 - latin
 - vocabulary
@@ -62,5 +62,3 @@ Topic modeling helps to cluster large corpora using statistical inference. I wro
 - Rydberg-Cox, J. A, and A. Mahoney. 2002. “Vocabulary Building in the Perseus Digital Library.” CO 79(4): 145–149.
 - Trzaskoma, S. 2011. “Innovation in Recent Intermediate Greek Textbooks?” Teaching Classical Languages 3(1): 63-70.
 - Vanderpool, E. 2016. “A Digital Bridge to Authentic Latin: Eutropius for a New Generation.” Thesis, Monmouth College.
-
-Photo credit: Detail from Diederich's 1939 *The frequency of Latin words and their endings*.
