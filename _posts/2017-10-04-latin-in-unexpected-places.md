@@ -1,5 +1,5 @@
 ---
-title: "Latin in Unexpected Places: The Paideia Itinera Program"
+title: "Latin in Unexpected Places"
 layout: post
 date: 2017-10-04 22:10
 tag: paper
