@@ -46,10 +46,18 @@ October 2017
 
 - 2017\. &quot;The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code,&quot; *Classics@*, special issue on ancient literacies. Co-written with K. Johnson and L. Hollis. [[abstract]](../future-of-ancient-literacy){:.cv-link}
 
+#### Manuscripts in submission
+
+- "*Carpe Iter*: A Case for Latin-themed Field Trips," *Teaching Classical Languages*
+
 #### Manuscripts in preparation
-- "Venus and *venus* in Lucan's *Bellum civile*"
+
+- "Venus and venus in Lucan’s *Bellum civile*"
+- "Negativity and Negative Diction in Persius"
+- "A Pun on Argo in Apollonius Rhodius, *Argonautica* 1.1"
 - "Creating Stopword Lists for Historical Languages"
 - "Bootstrapping Linked Open Data in Library Catalog Records"
+
 
 #### Reviews
 
@@ -68,6 +76,9 @@ October 2017
 - 2017\. "Ancient Makerspaces: Digital Classics Workshop." Panel moderator. Annual Meeting of the Society of Classical Studies, Toronto, Ont. [[site]](http://bit.ly/ancientmakerspaces){:.cv-link}
 
 ### Conference Papers
+
+- 2017\. “Mapping Library Subject Headings with the HathiTrust Extracted Features Dataset.” *Digital Publication in Mediterranean Archaeology*, Institute for the Study of the Ancient World. October 20.
+- 2017\. “Latin in Unexpected Places.” CAAS 2017 Annual Meeting, New York, NY. October 8. [[abstract]](../latin-in-unexpected-places){:.cv-link}
 - 2017\. "Creating Stopword Lists for Historical Languages." *Global Philology: Big Corpora of Historical Text*, Universität Leipzig. July 10. [[abstract]](../creating-stopword-lists){:.cv-link}
 - 2017\. "Virgil's Hardest Sentence?: Measuring Readability in Latin Poetry." *Midwest Classical Literature Consortium*, Ohio University. April 22. [[abstract]](../virgils-hardest-sentence){:.cv-link}
 <!--- - 2017\. "Backoff Tagging as a Philological Method." *Digital Antiquity Research Showcase*, Institute for the Study of the Ancient World. April 14. --->
@@ -131,9 +142,10 @@ October 2017
 
 ### Service
 
+- 2017-present. Program Committee, reviewer. *DH2018* conference.
 - 2017\. Reviewer for *DSH: Digital Scholarship in the Humanities*.
 - 2016-present. Committee for Public Information and Media Relations. Society for Classical Studies.
-- 2016\. Program Committee. Florida Artificial Intelligence Research Society 30th International Conference, special track for "Natural Language Processing of Ancient and other Low-resource Languages."
+- 2016\. Program Committee, reviewer. Florida Artificial Intelligence Research Society 30th International Conference, special track for "Natural Language Processing of Ancient and other Low-resource Languages."
 - 2016-present. Steering Group. NYC Digital Humanities.
 - 2015-present. Steering Committee. Digital Classics Association.
 
@@ -209,7 +221,7 @@ October 2017
 
 ### Computer skills
 
-- Programming: Python (esp. NLTK), Jupyter notebooks; R; regular expressions. <!---CODING: Add Ruby, PHP, shell scripting; SVN? --->
+- Programming: Python (esp. NLTK, BeautifulSoup), Jupyter notebooks; R; regular expressions. <!---CODING: Add Ruby, PHP, shell scripting; SVN? --->
 - Relational database design: SQL, Postgresql. <!---Database: Add MySQL; RDF, triplestores, SPARQL --->
 - Markup: XML, TEI. <!--- XSLT --->
 - Web development: HTML 5, CSS3, Javascript/jQuery (esp. Leaflet.js); Jekyll; Flask, Jinja2; Heroku.
