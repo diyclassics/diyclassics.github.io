@@ -49,6 +49,7 @@ October 2017
 #### Manuscripts in submission
 
 - "*Carpe Iter*: A Case for Latin-themed Field Trips," *Teaching Classical Languages*
+- "Building a Digital Philology Pipeline with the Classical Language Toolkit,” chapter in *Digital Classical Philology*, ed. M. Berti. DeGruyter.
 
 #### Manuscripts in preparation
 
@@ -211,11 +212,13 @@ October 2017
 
 - Society for Classical Studies
 - Classical Association of the Atlantic States
+- Alliance of Digital Humanities Organizations
 - Forum for Classical Librarians and Scholarly Communications
 
 <!---
 ### Outreach
-
+--->
+<!---
 - 2013\. Nu School Classics. Introduction for preschoolers to the Greek alphabet with storytelling and art projects. Amazing Magic Beans Learning Center. Sunnyside, NY.
 --->
 
