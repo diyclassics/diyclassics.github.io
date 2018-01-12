@@ -21,7 +21,7 @@ author: patrickburns
 externalLink: false
 ---
 ![Screenshot](../assets/images/cltk-python.png)  
-This is a ongoing project to collect online resources for anybody looking to get started with working with Python for historical languages, esp. using the [Classical Language Toolkit](cltk.org). If you have suggestions for this lists, email me at patrick[at]diyclassics[dot]org.
+This is a ongoing project to collect online resources for anybody looking to get started with working with Python for historical languages, esp. using the [Classical Language Toolkit](http://cltk.org). If you have suggestions for this lists, email me at patrick[at]diyclassics[dot]org.
 
 - Getting started with NLP, practice: Bird/Klein/Loper, Natural Language Processing with Python (“NLTK Book”): [http://nltk.org/book/](http://nltk.org/book/), esp. Chs. 1-7; good exercises too; Ch. 4 is a good introduction to Python in general 
 - Getting started with NLP, theory (not Python specific): Jurafsky/Manning, Stanford Intro to NLP course videos: [https://www.youtube.com/watch?v=nfoudtpBV68](https://www.youtube.com/watch?v=nfoudtpBV68)
