@@ -1,5 +1,5 @@
 ---
-title: "Getting Started with Python/CLTK for Historial Languages"
+title: "Getting Started with Python/CLTK for Historical Languages"
 layout: post
 date: 2018-01-11 22:10
 tag:
