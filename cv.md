@@ -107,6 +107,8 @@ October 2017
 - 2014\. "Distant Reading Alliteration in Latin Literature." Annual Meeting of the American Philological Association, Chicago, Il. January 4. [[abstract]](../distant-reading-alliteration-in-latin-literature){:.cv-link}
 
 ### Invited Talks
+
+- 2018\. "Becoming a Digital Humanist in Graduate School." *Deconstructing the Open Greek and Latin Project: The First Thousand Years of Greek*, Tufts University. January 3.
 - 2017\. "Latin in Unexpected Places." *Paideia Outreach in the CAAS Region*, CAAS 2017 Annual Meeting, New York City, NY. October 7.
 - 2017\. "Exploring Diction and Topics in Latin Love Elegy." *Digital Propertius Project*, Department of Classics, Yale University. May 18.
 <!--- - 2017\. "*Fabulae Psittaci*: Parrot Anecdotes in Greek and Latin Literature". *Circle Through New York* exhibition, Insitute for the Study of the Ancient World. May 12. --->
@@ -224,7 +226,7 @@ October 2017
 
 ### Computer skills
 
-- Programming: Python (esp. NLTK, BeautifulSoup), Jupyter notebooks; R; regular expressions. <!---CODING: Add Ruby, PHP, shell scripting; SVN? --->
+- Programming: Python (esp. NLTK, BeautifulSoup, Pandas), Jupyter notebooks; R; regular expressions. <!---CODING: Add Ruby, PHP, shell scripting; SVN? --->
 - Relational database design: SQL, Postgresql. <!---Database: Add MySQL; RDF, triplestores, SPARQL --->
 - Markup: XML, TEI. <!--- XSLT --->
 - Web development: HTML 5, CSS3, Javascript/jQuery (esp. Leaflet.js); Jekyll; Flask, Jinja2; Heroku.
