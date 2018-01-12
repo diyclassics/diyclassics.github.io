@@ -20,7 +20,7 @@ jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="../assets/images/
 author: patrickburns
 externalLink: false
 ---
-
+![Screenshot](../assets/images/cltk-python.png)  
 This is a ongoing project to collect online resources for anybody looking to get started with working with Python for historical languages, esp. using the [Classical Language Toolkit](cltk.org). If you have suggestions for this lists, email me at patrick[at]diyclassics[dot]org.
 
 - Getting started with NLP, practice: Bird/Klein/Loper, Natural Language Processing with Python (“NLTK Book”): [nltk.org/book/](nltk.org/book/), esp. Chs. 1-7; good exercises too; Ch. 4 is a good introduction to Python in general 
@@ -32,4 +32,4 @@ This is a ongoing project to collect online resources for anybody looking to get
 - My own Python/Latin/CLTK experiments can be found at the Disiecta Membra blog: [disiectamembra.wordpress.com](disiectamembra.wordpress.com)
 - D. Sturgeon's Digital Sinology tutorials come to mind for Python/Classical Chinese text work: [https://digitalsinology.org/classical-chinese-digital-humanities/](https://digitalsinology.org/classical-chinese-digital-humanities/)
 
-Based on the following Twitter [thread](https://twitter.com/diyclassics/status/951499464799346688).
+Based on the following Twitter thread: [https://twitter.com/diyclassics/status/951499464799346688](https://twitter.com/diyclassics/status/951499464799346688).
