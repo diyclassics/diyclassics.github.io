@@ -5,15 +5,21 @@ layout: calendar
 
 # Calendar
 
+### February 2018
+- 2.6.18 Workshop: Building a text analysis pipeline with Python. NYCDH Week. Pace Babble Lab. New York, NY.
+
 ### April 2018
 
 - 4.20.18 Conference: *Future Philologies: Digital Approaches to Historical Language Text*. Institute for the Study of the Ancient World. New York, NY.
+
+### August 2018
+- 8.7.18 Paper: *Carpe DM: Twitter & the Rise of the Social Scholiast* 5000 Years of Comments: The Development of Commentary from Ancient Mesopotamia to the Age of Information, Center for Hellenic Studies. Washington, D.C.
 
 ## Past talks
 
 ### August 2017
 
-- 8.9.17 Poster: * Mapping Linked Data Subject Headings in the Library
+- 8.9.17 Poster: *Mapping Linked Data Subject Headings in the Library
  Catalog*. DH2017. Montreal, Quebec. 5:00pm. [[abstract]](../mapping-linked-data-subject-headings){:.cv-link}
  
 ### October 2017
