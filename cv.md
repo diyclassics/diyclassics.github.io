@@ -46,10 +46,19 @@ October 2017
 
 - 2017\. &quot;The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code,&quot; *Classics@*, special issue on ancient literacies. Co-written with K. Johnson and L. Hollis. [[abstract]](../future-of-ancient-literacy){:.cv-link}
 
+#### Manuscripts in submission
+
+- "*Carpe Iter*: A Case for Latin-themed Field Trips," *Teaching Classical Languages*
+- "Building a Digital Philology Pipeline with the Classical Language Toolkit,” chapter in *Digital Classical Philology*, ed. M. Berti. DeGruyter.
+
 #### Manuscripts in preparation
-- "Venus and *venus* in Lucan's *Bellum civile*"
+
+- "Venus and venus in Lucan’s *Bellum civile*"
+- "Negativity and Negative Diction in Persius"
+- "A Pun on Argo in Apollonius Rhodius, *Argonautica* 1.1"
 - "Creating Stopword Lists for Historical Languages"
 - "Bootstrapping Linked Open Data in Library Catalog Records"
+
 
 #### Reviews
 
@@ -68,6 +77,9 @@ October 2017
 - 2017\. "Ancient Makerspaces: Digital Classics Workshop." Panel moderator. Annual Meeting of the Society of Classical Studies, Toronto, Ont. [[site]](http://bit.ly/ancientmakerspaces){:.cv-link}
 
 ### Conference Papers
+
+- 2017\. “Mapping Library Subject Headings with the HathiTrust Extracted Features Dataset.” *Digital Publication in Mediterranean Archaeology*, Institute for the Study of the Ancient World. October 20.
+- 2017\. “Latin in Unexpected Places.” CAAS 2017 Annual Meeting, New York, NY. October 8. [[abstract]](../latin-in-unexpected-places){:.cv-link}
 - 2017\. "Creating Stopword Lists for Historical Languages." *Global Philology: Big Corpora of Historical Text*, Universität Leipzig. July 10. [[abstract]](../creating-stopword-lists){:.cv-link}
 - 2017\. "Virgil's Hardest Sentence?: Measuring Readability in Latin Poetry." *Midwest Classical Literature Consortium*, Ohio University. April 22. [[abstract]](../virgils-hardest-sentence){:.cv-link}
 <!--- - 2017\. "Backoff Tagging as a Philological Method." *Digital Antiquity Research Showcase*, Institute for the Study of the Ancient World. April 14. --->
@@ -95,6 +107,8 @@ October 2017
 - 2014\. "Distant Reading Alliteration in Latin Literature." Annual Meeting of the American Philological Association, Chicago, Il. January 4. [[abstract]](../distant-reading-alliteration-in-latin-literature){:.cv-link}
 
 ### Invited Talks
+
+- 2018\. "Becoming a Digital Humanist in Graduate School." *Deconstructing the Open Greek and Latin Project: The First Thousand Years of Greek*, Tufts University. January 3.
 - 2017\. "Latin in Unexpected Places." *Paideia Outreach in the CAAS Region*, CAAS 2017 Annual Meeting, New York City, NY. October 7.
 - 2017\. "Exploring Diction and Topics in Latin Love Elegy." *Digital Propertius Project*, Department of Classics, Yale University. May 18.
 <!--- - 2017\. "*Fabulae Psittaci*: Parrot Anecdotes in Greek and Latin Literature". *Circle Through New York* exhibition, Insitute for the Study of the Ancient World. May 12. --->
@@ -131,9 +145,10 @@ October 2017
 
 ### Service
 
+- 2017-present. Program Committee, reviewer. *DH2018* conference.
 - 2017\. Reviewer for *DSH: Digital Scholarship in the Humanities*.
 - 2016-present. Committee for Public Information and Media Relations. Society for Classical Studies.
-- 2016\. Program Committee. Florida Artificial Intelligence Research Society 30th International Conference, special track for "Natural Language Processing of Ancient and other Low-resource Languages."
+- 2016\. Program Committee, reviewer. Florida Artificial Intelligence Research Society 30th International Conference, special track for "Natural Language Processing of Ancient and other Low-resource Languages."
 - 2016-present. Steering Group. NYC Digital Humanities.
 - 2015-present. Steering Committee. Digital Classics Association.
 
@@ -199,17 +214,19 @@ October 2017
 
 - Society for Classical Studies
 - Classical Association of the Atlantic States
+- Alliance of Digital Humanities Organizations
 - Forum for Classical Librarians and Scholarly Communications
 
 <!---
 ### Outreach
-
+--->
+<!---
 - 2013\. Nu School Classics. Introduction for preschoolers to the Greek alphabet with storytelling and art projects. Amazing Magic Beans Learning Center. Sunnyside, NY.
 --->
 
 ### Computer skills
 
-- Programming: Python (esp. NLTK), Jupyter notebooks; R; regular expressions. <!---CODING: Add Ruby, PHP, shell scripting; SVN? --->
+- Programming: Python (esp. NLTK, BeautifulSoup, Pandas), Jupyter notebooks; R; regular expressions. <!---CODING: Add Ruby, PHP, shell scripting; SVN? --->
 - Relational database design: SQL, Postgresql. <!---Database: Add MySQL; RDF, triplestores, SPARQL --->
 - Markup: XML, TEI. <!--- XSLT --->
 - Web development: HTML 5, CSS3, Javascript/jQuery (esp. Leaflet.js); Jekyll; Flask, Jinja2; Heroku.
