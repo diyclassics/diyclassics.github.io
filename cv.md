@@ -78,6 +78,8 @@ October 2017
 
 ### Conference Papers
 
+- 2018\. "Carpe DM: Twitter and the Rise of the Social Media Scholiast," *5000 Years of Comments: The Development of Commentary from Ancient Mesopotamia to the Age of Information*, Center for Hellenic Studies. August 7.
+- 2018\. "Backoff Tagging as a Philological Method," *DH2018*. Mexico City, Mex. June 26.  
 - 2017\. “Mapping Library Subject Headings with the HathiTrust Extracted Features Dataset.” *Digital Publication in Mediterranean Archaeology*, Institute for the Study of the Ancient World. October 20.
 - 2017\. “Latin in Unexpected Places.” CAAS 2017 Annual Meeting, New York, NY. October 8. [[abstract]](../latin-in-unexpected-places){:.cv-link}
 - 2017\. "Creating Stopword Lists for Historical Languages." *Global Philology: Big Corpora of Historical Text*, Universität Leipzig. July 10. [[abstract]](../creating-stopword-lists){:.cv-link}
@@ -108,6 +110,7 @@ October 2017
 
 ### Invited Talks
 
+- 2018\. "What is an 'Unpoetic' Word?: Reassessing Latin Literary Criticism with Digital Methods." University of Oklahoma. April 5.
 - 2018\. "Becoming a Digital Humanist in Graduate School." *Deconstructing the Open Greek and Latin Project: The First Thousand Years of Greek*, Tufts University. January 3.
 - 2017\. "Latin in Unexpected Places." *Paideia Outreach in the CAAS Region*, CAAS 2017 Annual Meeting, New York City, NY. October 7.
 - 2017\. "Exploring Diction and Topics in Latin Love Elegy." *Digital Propertius Project*, Department of Classics, Yale University. May 18.
