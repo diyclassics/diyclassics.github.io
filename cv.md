@@ -145,10 +145,11 @@ October 2017
 
 ### Service
 
-- 2017-present. Program Committee, reviewer. *DH2018* conference.
 - 2017\. Reviewer for *DSH: Digital Scholarship in the Humanities*.
+- 2017\. Google Summer of Code mentor. Classical Language Toolkit.
 - 2016-present. Committee for Public Information and Media Relations. Society for Classical Studies.
 - 2016\. Program Committee, reviewer. Florida Artificial Intelligence Research Society 30th International Conference, special track for "Natural Language Processing of Ancient and other Low-resource Languages."
+- 2016-present. Graduate Student Award selection committee. NYC Digital Humanities.
 - 2016-present. Steering Group. NYC Digital Humanities.
 - 2015-present. Steering Committee. Digital Classics Association.
 
