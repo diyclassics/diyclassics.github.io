@@ -25,6 +25,10 @@ I have presented on this topic at the [CAAS 2014 Annual Meeting](../carpe-iter) 
 
 Here is a list of resources (in progress!) that may be helpful to Latin teachers looking to leading field trips of their own. I will continue to update this page as I find more materials.
 
+### Articles/Notes
+
+- Burns, P.J. 2014. [*Suggestions for Organizing* Itinera Latina](https://www.dropbox.com/s/dph5xpo5az05vrs/suggestions-for-organizing-iz.pdf?dl=0){:target="_blank"}
+
 ### Programs
 
 - [*Iter Zoologicum* 2012 program](https://www.dropbox.com/s/yt8c0nzu9z0yrqz/IZ-2012-Program.pdf?dl=0){:target="_blank"}
