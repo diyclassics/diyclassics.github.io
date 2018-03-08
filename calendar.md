@@ -5,15 +5,14 @@ layout: calendar
 
 # Calendar
 
-### February 2018
-- 2.6.18 Workshop: Building a text analysis pipeline with Python. NYCDH Week. Pace Babble Lab. New York, NY.
-
 ### April 2018
 
 - 4.20.18 Conference: *Future Philologies: Digital Approaches to Historical Language Text*. Institute for the Study of the Ancient World. New York, NY.
 
 ### August 2018
 - 8.7.18 Paper: *Carpe DM: Twitter & the Rise of the Social Scholiast* 5000 Years of Comments: The Development of Commentary from Ancient Mesopotamia to the Age of Information, Center for Hellenic Studies. Washington, D.C.
+
+<hr/>
 
 ## Past talks
 
@@ -32,3 +31,7 @@ layout: calendar
 
 - 1.3.18 Workshop: *Deconstructing the Open Greek and Latin Project: The First Thousand Years of Greek*. Tufts University. Medford, Ma.
 - 1.6.18 Workshop: *Ancient MakerSpaces*. 2018 Annual Meeting of the Society for Classical Studies. Boston, Ma.
+
+### February 2018
+- 2.6.18 Workshop: Building a text analysis pipeline with Python. NYCDH Week. Pace Babble Lab. New York, NY.
+
