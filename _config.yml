@@ -10,8 +10,7 @@ description: Academic portfolio
 external-image: false
 picture: assets/images/profile.jpg
 
-url: 
-# your url: http://USERNAME.github.io
+url: https://diyclassics.github.io
 
 permalink: /:title/
 
@@ -97,7 +96,7 @@ sass:
     sass_dir: _sass
     style: :compressed
 
-gems:
+plugins:
   - jemoji
   - jekyll-mentions
   - jekyll-seo-tag
