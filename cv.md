@@ -56,9 +56,8 @@ October 2017
 - "Venus and venus in Lucan’s *Bellum civile*"
 - "Negativity and Negative Diction in Persius"
 - "A Pun on Argo in Apollonius Rhodius, *Argonautica* 1.1"
-- "Creating Stopword Lists for Historical Languages"
+- "Creating Stoplists for Historical Languages"
 - "Bootstrapping Linked Open Data in Library Catalog Records"
-
 
 #### Reviews
 
@@ -110,6 +109,7 @@ October 2017
 
 ### Invited Talks
 
+- 2018\. "Backoff Lemmatization for Ancient Greek with the Classical Language Toolkit," 2018 Digital Classicist London Seminars Series. Institute of Classical Studies. London, England. July 27.
 - 2018\. "What is an 'Unpoetic' Word?: Reassessing Latin Literary Criticism with Digital Methods." University of Oklahoma. April 5.
 - 2018\. "Becoming a Digital Humanist in Graduate School." *Deconstructing the Open Greek and Latin Project: The First Thousand Years of Greek*, Tufts University. January 3.
 - 2017\. "Latin in Unexpected Places." *Paideia Outreach in the CAAS Region*, CAAS 2017 Annual Meeting, New York City, NY. October 7.
@@ -148,8 +148,9 @@ October 2017
 
 ### Service
 
+- 2018\. Google Summer of Code mentor for the Classical Language Toolkit project "Expanding the CLTK with Synonyms, Translations and Word Embeddings" (James Gawley).
 - 2017\. Reviewer for *DSH: Digital Scholarship in the Humanities*.
-- 2017\. Google Summer of Code mentor. Classical Language Toolkit.
+- 2017\. Google Summer of Code mentor for the Classical Language Toolkit project "Adding CLTK Functionality for Old and Middle French" (Natasha Voake).
 - 2016-present. Committee for Public Information and Media Relations. Society for Classical Studies.
 - 2016\. Program Committee, reviewer. Florida Artificial Intelligence Research Society 30th International Conference, special track for "Natural Language Processing of Ancient and other Low-resource Languages."
 - 2016-present. Graduate Student Award selection committee. NYC Digital Humanities.
