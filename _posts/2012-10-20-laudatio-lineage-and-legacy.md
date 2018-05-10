@@ -3,7 +3,7 @@ title: "Laudatio, Lineage, and Legacy in Cicero's Brutus"
 layout: paper
 date: 2012-10-20 00:00
 tag: paper
-image: /assets/images/jekyll-logo-light-solid.png
+image: 
 headerImage: false
 projects: false
 hidden: true # don't count this post in blog pagination
