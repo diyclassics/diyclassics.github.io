@@ -77,6 +77,7 @@ October 2017
 
 ### Conference Papers
 
+- 018\. "Lucan's *tres libri*: A reconsideration of arrangement and argument in the Bellum civile," Classical Association of the Atlantic States Annual Meeting. Philadelphia, Pa. October 4.
 - 2018\. "Carpe DM: Twitter and the Rise of the Social Media Scholiast," *5000 Years of Comments: The Development of Commentary from Ancient Mesopotamia to the Age of Information*, Center for Hellenic Studies. August 7.
 - 2018\. "Backoff Tagging as a Philological Method," *DH2018*. Mexico City, Mex. June 26.  
 - 2017\. “Mapping Library Subject Headings with the HathiTrust Extracted Features Dataset.” *Digital Publication in Mediterranean Archaeology*, Institute for the Study of the Ancient World. October 20.
