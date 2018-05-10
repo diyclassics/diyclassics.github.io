@@ -3,7 +3,7 @@ title: "Measuring and Mapping Intergeneric Allusion in Latin Poetry using Tesser
 layout: paper
 date: 2017-08-01 00:00
 tag: writing
-image: /assets/images/jekyll-logo-light-solid.png
+image: 
 headerImage: false
 projects: false
 hidden: true # don't count this post in blog pagination

@@ -7,7 +7,7 @@ tag:
 - translation
 - brian-eno
 - peter-schmidt
-image: /assets/images/jekyll-logo-light-solid.png
+image: 
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination

@@ -3,7 +3,7 @@ title: "CLTK Backoff Latin Lemmatizer"
 layout: post
 date: 2016-08-01 22:10
 tag: cltk
-image: /assets/images/jekyll-logo-light-solid.png
+image: 
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination

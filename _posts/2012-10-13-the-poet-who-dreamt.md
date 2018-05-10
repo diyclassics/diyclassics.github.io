@@ -3,7 +3,7 @@ title: "The Poet Who Dreamt He Was a Poet: Dream, Text and the Problem of Inspir
 layout: paper
 date: 2012-10-13 00:00
 tag: paper
-image: /assets/images/jekyll-logo-light-solid.png
+image: 
 headerImage: false
 projects: false
 hidden: true # don't count this post in blog pagination

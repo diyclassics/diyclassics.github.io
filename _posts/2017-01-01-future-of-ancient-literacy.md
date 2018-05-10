@@ -3,7 +3,7 @@ title: "The Future of Ancient Literacy: Classical Language Toolkit and Google Su
 layout: paper
 date: 2017-01-01 00:00
 tag: paper
-image: /assets/images/jekyll-logo-light-solid.png
+image: 
 headerImage: false
 projects: false
 hidden: true # don't count this post in blog pagination

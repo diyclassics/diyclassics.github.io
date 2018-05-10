@@ -3,7 +3,7 @@ title: "Short on Erotics: Eros as Epic Hero in Apollonius Rhodius’ Argonautica
 layout: paper
 date: 2011-11-11 00:00
 tag: paper
-image: /assets/images/jekyll-logo-light-solid.png
+image: 
 headerImage: false
 projects: false
 hidden: true # don't count this post in blog pagination

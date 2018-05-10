@@ -3,7 +3,7 @@ title: "Latin Einstein on the Beach"
 layout: post
 date: 2017-04-15 22:10
 tag: writing
-#image: /assets/images/jekyll-logo-light-solid.png
+#image: 
 headerImage: false
 projects: false
 hidden: true # don't count this post in blog pagination
