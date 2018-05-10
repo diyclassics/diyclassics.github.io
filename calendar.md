@@ -5,12 +5,21 @@ layout: calendar
 
 # Calendar
 
-### April 2018
+### June 2018
 
-- 4.20.18 Conference: *Future Philologies: Digital Approaches to Historical Language Text*. Institute for the Study of the Ancient World. New York, NY.
+- 6.26.18 Short Paper: Backoff Lemmatization as a Philological Method. *DH2018*. Mexico City, Mex.
+
+### July 2018
+
+- 7.27.18 Presentation: Backoff Lemmatization for Ancient Greek with the Classical Language Toolkit. Digital Classicist London. London, UK. 
 
 ### August 2018
+
 - 8.7.18 Paper: *Carpe DM: Twitter & the Rise of the Social Scholiast* 5000 Years of Comments: The Development of Commentary from Ancient Mesopotamia to the Age of Information, Center for Hellenic Studies. Washington, D.C.
+
+### October 2018
+
+- 10.4.18 Paper: Lucan's *tres libri*: A reconsideration of arrangement and argument in the Bellum civile. Classical Association of the Atlantic States Annual Meeting. Philadelphia, Pa.
 
 <hr/>
 
@@ -34,4 +43,10 @@ layout: calendar
 
 ### February 2018
 - 2.6.18 Workshop: Building a text analysis pipeline with Python. NYCDH Week. Pace Babble Lab. New York, NY.
+
+
+### April 2018
+
+- 4.5.18 Paper: *What is an *Unpoetic* Word?: Reassessing Latin Literary Criticism Through Digital Methods* University of Oklahoma. Norman, Ok.
+- 4.20.18 Conference: *Future Philologies: Digital Approaches to Historical Language Text*. Institute for the Study of the Ancient World. New York, NY.
 
