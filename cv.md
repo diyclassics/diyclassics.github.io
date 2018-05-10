@@ -15,7 +15,7 @@ ORCID 0000-0003-2158-866X
 
 {:.cv-info}
 **Curriculum Vitae**  
-October 2017  
+May 2018  
 
 ### Employment
 
