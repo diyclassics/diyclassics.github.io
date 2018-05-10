@@ -3,7 +3,7 @@ title: "Virgil’s Hardest Sentence?: Measuring Readability in Latin Poetry"
 layout: paper
 date: 2017-04-22 00:00
 tag: paper
-image: /assets/images/jekyll-logo-light-solid.png
+image: 
 headerImage: false
 projects: false
 hidden: true # don't count this post in blog pagination

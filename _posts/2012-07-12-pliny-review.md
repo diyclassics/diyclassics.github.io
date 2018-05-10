@@ -3,7 +3,7 @@ title: "Review of P.L. Chambers's The Natural Histories of Pliny the Elder"
 layout: paper
 date: 2012-07-12 00:00
 tag: paper
-image: /assets/images/jekyll-logo-light-solid.png
+image: 
 headerImage: false
 projects: false
 hidden: true # don't count this post in blog pagination

@@ -3,7 +3,7 @@ title: "Cicero's Hardest Sentence?: Measuring Readability in Latin Literature"
 layout: paper
 date: 2016-12-01 00:00
 tag: paper
-image: /assets/images/jekyll-logo-light-solid.png
+image: 
 headerImage: false
 projects: false
 hidden: true # don't count this post in blog pagination

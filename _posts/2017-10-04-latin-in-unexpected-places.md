@@ -3,7 +3,7 @@ title: "Latin in Unexpected Places"
 layout: post
 date: 2017-10-04 22:10
 tag: paper
-#image: /assets/images/jekyll-logo-light-solid.png
+#image: 
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination

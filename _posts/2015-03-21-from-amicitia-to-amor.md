@@ -3,7 +3,7 @@ title: "From amicitia to amor: Lucan's Elegiac Turn"
 layout: paper
 date: 2015-03-21 00:00
 tag: paper
-image: /assets/images/jekyll-logo-light-solid.png
+image: 
 headerImage: false
 projects: false
 hidden: true # don't count this post in blog pagination

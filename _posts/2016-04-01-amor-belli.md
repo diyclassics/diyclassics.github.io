@@ -3,7 +3,7 @@ title: "Amor belli: Elegiac Diction and the Theme of Love in Lucan's Bellum civi
 layout: paper
 date: 2016-01-09 00:00
 tag: dissertation
-image: /assets/images/jekyll-logo-light-solid.png
+image: 
 headerImage: false
 projects: false
 hidden: true # don't count this post in blog pagination

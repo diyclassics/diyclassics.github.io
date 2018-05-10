@@ -3,7 +3,7 @@ title: "Dice Play and Wordplay in Apollonius Rhodius’ Argonautica 3.111-128"
 layout: paper
 date: 2011-04-16 00:00
 tag: paper
-image: /assets/images/jekyll-logo-light-solid.png
+image: 
 headerImage: false
 projects: false
 hidden: true # don't count this post in blog pagination

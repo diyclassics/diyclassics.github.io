@@ -10,7 +10,7 @@ tag:
 - classical chinese
 - natural language processing
 - text analysis
-image: /assets/images/jekyll-logo-light-solid.png
+image: 
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
