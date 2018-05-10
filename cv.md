@@ -53,7 +53,7 @@ October 2017
 
 #### Manuscripts in preparation
 
-- "Venus and venus in Lucan’s *Bellum civile*"
+- "Venus and *venus* in Lucan’s *Bellum civile*"
 - "Negativity and Negative Diction in Persius"
 - "A Pun on Argo in Apollonius Rhodius, *Argonautica* 1.1"
 - "Creating Stoplists for Historical Languages"
@@ -159,6 +159,7 @@ October 2017
 
 ### Awards and Honors
 
+- 2018\. *DH2018* ADHO Bursary. 
 - 2016\. Google Summer of Code stipend for development on "Latin/Greek Backoff Lemmatizer" for the Classical Language Toolkit.
 <!--- - 2016\. Fordham University, Graduate School of Arts &amp; Sciences, Alumni Dissertation Fellowship. --->
 <!--- - 2015\. Fordham University, Graduate School of Arts &amp; Sciences. Research Fellowship. --->
@@ -217,10 +218,11 @@ October 2017
 
 ### Professional Organizations
 
-- Society for Classical Studies
-- Classical Association of the Atlantic States
-- Alliance of Digital Humanities Organizations
-- Forum for Classical Librarians and Scholarly Communications
+- Society for Classical Studies (SCS)
+- Classical Association of the Atlantic States (CAAS)
+- Alliance of Digital Humanities Organizations (ADHO)
+- Forum for Classical Librarians and Scholarly Communications (FCLSC)
+- New York City Digital Humanities (NYCDH)
 
 <!---
 ### Outreach
@@ -229,9 +231,14 @@ October 2017
 - 2013\. Nu School Classics. Introduction for preschoolers to the Greek alphabet with storytelling and art projects. Amazing Magic Beans Learning Center. Sunnyside, NY.
 --->
 
+### Community Service
+- 2016-present. Parent Representative for the PS150Q Dual Language PTA Subcommittee. Sunnyside, NY. 
+- 2012-2013. Secretary. Sunnyside Gardens Community Association. Sunnyside, NY.
+
+
 ### Computer skills
 
-- Programming: Python (esp. NLTK, BeautifulSoup, Pandas), Jupyter notebooks; R; regular expressions. <!---CODING: Add Ruby, PHP, shell scripting; SVN? --->
+- Programming: Python (esp. NLTK, Gensim, Pandas/scikit-learn), Jupyter notebooks/Binder; R; regular expressions. <!---CODING: Add Ruby, PHP, shell scripting; SVN? --->
 - Relational database design: SQL, Postgresql. <!---Database: Add MySQL; RDF, triplestores, SPARQL --->
 - Markup: XML, TEI. <!--- XSLT --->
 - Web development: HTML 5, CSS3, Javascript/jQuery (esp. Leaflet.js); Jekyll; Flask, Jinja2; Heroku.
