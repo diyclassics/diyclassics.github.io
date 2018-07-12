@@ -61,6 +61,7 @@ May 2018
 
 #### Reviews
 
+- 2018\. "Permanent Like Achilles." *University Bookman*. Review of R.F. Thomas, *Why Bob Dylan Matters*. (HarperCollins, 2017). [[link]](https://kirkcenter.org/reviews/permanent-like-achilles/){:.cv-link}
 - 2017\. Review of "Opera Latina". *Society for Classical Studies Blog*. [[link]](https://classicalstudies.org/scs-blog/patrick-j-burns/review-opera-latina){:.cv-link}
 - 2017\. "Latin Einstein on the Beach." *University Bookman*. Review of R.T. Foster and D.P. McCarthy, *Ossa Latinitatis Sola, or, The Mere Bones of Latin according to the Thought & System of Reginald*. (Catholic University of American Press, 2016). [[link]](http://www.kirkcenter.org/index.php/bookman/article/latin-einstein-on-the-beach/){:.cv-link}
 - 2017\. *Classical World* 110.2. Review of B.Walters, Lucan: *Civil War* and S. Lombardo, Statius: *Achilleid*. (Hackett Publishing Company, 2015). DOI [10.1353/clw.2017.0016](https://doi.org/10.1353/clw.2017.0016). [[link]](http://muse.jhu.edu/article/648015){:.cv-link} [[pdf]](http://muse.jhu.edu/article/648015/pdf){:.cv-link}
