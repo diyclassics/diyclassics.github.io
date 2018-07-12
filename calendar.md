@@ -5,10 +5,6 @@ layout: calendar
 
 # Calendar
 
-### June 2018
-
-- 6.26.18 Short Paper: Backoff Lemmatization as a Philological Method. *DH2018*. Mexico City, Mex.
-
 ### July 2018
 
 - 7.27.18 Presentation: Backoff Lemmatization for Ancient Greek with the Classical Language Toolkit. Digital Classicist London. London, UK. 
@@ -49,4 +45,8 @@ layout: calendar
 
 - 4.5.18 Paper: *What is an *Unpoetic* Word?: Reassessing Latin Literary Criticism Through Digital Methods* University of Oklahoma. Norman, Ok.
 - 4.20.18 Conference: *Future Philologies: Digital Approaches to Historical Language Text*. Institute for the Study of the Ancient World. New York, NY.
+
+### June 2018
+
+- 6.26.18 Short Paper: Backoff Lemmatization as a Philological Method. *DH2018*. Mexico City, Mex.
 

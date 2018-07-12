@@ -66,6 +66,12 @@ May 2018
 - 2017\. *Classical World* 110.2. Review of B.Walters, Lucan: *Civil War* and S. Lombardo, Statius: *Achilleid*. (Hackett Publishing Company, 2015). DOI [10.1353/clw.2017.0016](https://doi.org/10.1353/clw.2017.0016). [[link]](http://muse.jhu.edu/article/648015){:.cv-link} [[pdf]](http://muse.jhu.edu/article/648015/pdf){:.cv-link}
 - 2012\. *Classical Outlook* 89.2. Review of P.L. Chambers, *The Natural Histories* of Pliny the Elder. (Univ. of Oklahoma Press, 2012). [[jstor]](https://www.jstor.org/stable/43940167){:.cv-link} [[sample]](../pliny-review){:.cv-link}
 
+### Academic Development
+
+#### Language Models
+
+- 2018\. Latin language model for spaCy. [[code]](https://github.com/diyclassics/latin-spacy-models){:.cv-link}
+
 ### Conferences
 - 2018\. *Future Philologies: Digital Directions in Text for Historical Languages*. Organizer. Institute for the Study of the Ancient World. April 20.
 
@@ -77,7 +83,7 @@ May 2018
 
 ### Conference Papers
 
-- 018\. "Lucan's *tres libri*: A reconsideration of arrangement and argument in the Bellum civile," Classical Association of the Atlantic States Annual Meeting. Philadelphia, Pa. October 4.
+- 2018\. "Lucan's *tres libri*: A reconsideration of arrangement and argument in the Bellum civile," Classical Association of the Atlantic States Annual Meeting. Philadelphia, Pa. October 4.
 - 2018\. "Carpe DM: Twitter and the Rise of the Social Media Scholiast," *5000 Years of Comments: The Development of Commentary from Ancient Mesopotamia to the Age of Information*, Center for Hellenic Studies. August 7.
 - 2018\. "Backoff Tagging as a Philological Method," *DH2018*. Mexico City, Mex. June 26.  
 - 2017\. “Mapping Library Subject Headings with the HathiTrust Extracted Features Dataset.” *Digital Publication in Mediterranean Archaeology*, Institute for the Study of the Ancient World. October 20.
