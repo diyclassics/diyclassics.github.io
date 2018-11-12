@@ -15,7 +15,7 @@ ORCID 0000-0003-2158-866X
 
 {:.cv-info}
 **Curriculum Vitae**  
-May 2018  
+October 2018  
 
 ### Employment
 
@@ -42,9 +42,13 @@ May 2018
 
 - 2017\. "Measuring and Mapping Intergeneric Allusion in Latin Poetry using Tesserae," *Journal of Data Mining and Digital Humanities*. Special Issue on Computer-Aided Processing of Intertextuality in Ancient Languages. [[paper]](https://hal.archives-ouvertes.fr/hal-01282568v4/document){:.cv-link}
 
+#### Manuscripts in revision
+
+- 2018\. "Creating Stoplists for Historical Languages," *Digital Classics Online*
+
 #### Manuscripts under review
 
-- 2017\. &quot;The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code,&quot; *Classics@*, special issue on ancient literacies. Co-written with K. Johnson and L. Hollis. [[abstract]](../future-of-ancient-literacy){:.cv-link}
+- 2018\. &quot;The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code,&quot; *Classics@*, special issue on ancient literacies. Co-written with K. Johnson and L. Hollis. [[abstract]](../future-of-ancient-literacy){:.cv-link}
 
 #### Manuscripts in submission
 
@@ -56,7 +60,6 @@ May 2018
 - "Venus and *venus* in Lucan’s *Bellum civile*"
 - "Negativity and Negative Diction in Persius"
 - "A Pun on Argo in Apollonius Rhodius, *Argonautica* 1.1"
-- "Creating Stoplists for Historical Languages"
 - "Bootstrapping Linked Open Data in Library Catalog Records"
 
 #### Reviews
@@ -74,7 +77,7 @@ May 2018
 - 2018\. Latin language model for spaCy. [[code]](https://github.com/diyclassics/latin-spacy-models){:.cv-link}
 
 ### Conferences
-- 2018\. *Future Philologies: Digital Directions in Text for Historical Languages*. Organizer. Institute for the Study of the Ancient World. April 20.
+- 2018\. *Future Philologies: Digital Directions in Text for Historical Languages*. Organizer. Institute for the Study of the Ancient World. April 20. [[site]](https://diyclassics.github.io/future-philologies/){:.cv-link}
 
 ### Conference Panels
 
@@ -88,7 +91,6 @@ May 2018
 - 2018\. "Carpe DM: Twitter and the Rise of the Social Media Scholiast," *5000 Years of Comments: The Development of Commentary from Ancient Mesopotamia to the Age of Information*, Center for Hellenic Studies. August 7.
 - 2018\. "Backoff Tagging as a Philological Method," *DH2018*. Mexico City, Mex. June 26.  
 - 2017\. “Mapping Library Subject Headings with the HathiTrust Extracted Features Dataset.” *Digital Publication in Mediterranean Archaeology*, Institute for the Study of the Ancient World. October 20.
-- 2017\. “Latin in Unexpected Places.” CAAS 2017 Annual Meeting, New York, NY. October 8. [[abstract]](../latin-in-unexpected-places){:.cv-link}
 - 2017\. "Creating Stopword Lists for Historical Languages." *Global Philology: Big Corpora of Historical Text*, Universität Leipzig. July 10. [[abstract]](../creating-stopword-lists){:.cv-link}
 - 2017\. "Virgil's Hardest Sentence?: Measuring Readability in Latin Poetry." *Midwest Classical Literature Consortium*, Ohio University. April 22. [[abstract]](../virgils-hardest-sentence){:.cv-link}
 <!--- - 2017\. "Backoff Tagging as a Philological Method." *Digital Antiquity Research Showcase*, Institute for the Study of the Ancient World. April 14. --->
@@ -120,7 +122,7 @@ May 2018
 - 2018\. "Backoff Lemmatization for Ancient Greek with the Classical Language Toolkit," 2018 Digital Classicist London Seminars Series. Institute of Classical Studies. London, England. July 27.
 - 2018\. "What is an 'Unpoetic' Word?: Reassessing Latin Literary Criticism with Digital Methods." University of Oklahoma. April 5.
 - 2018\. "Becoming a Digital Humanist in Graduate School." *Deconstructing the Open Greek and Latin Project: The First Thousand Years of Greek*, Tufts University. January 3.
-- 2017\. "Latin in Unexpected Places." *Paideia Outreach in the CAAS Region*, CAAS 2017 Annual Meeting, New York City, NY. October 7.
+- 2017\. “Latin in Unexpected Places.” *Paideia Outreach in the CAAS Region*, CAAS 2017 Annual Meeting, New York, NY. October 8. [[abstract]](../latin-in-unexpected-places){:.cv-link}
 - 2017\. "Exploring Diction and Topics in Latin Love Elegy." *Digital Propertius Project*, Department of Classics, Yale University. May 18.
 <!--- - 2017\. "*Fabulae Psittaci*: Parrot Anecdotes in Greek and Latin Literature". *Circle Through New York* exhibition, Insitute for the Study of the Ancient World. May 12. --->
 <!--- - 2017\. "*Descriptio Psittaci*: Looking at Parrots from Aristotle to Gesner". *Circle Through New York* exhibition, Insitute for the Study of the Ancient World. May 12. --->
@@ -131,7 +133,7 @@ May 2018
 - 2015\. "Taking Latin Prose Comp (By Strategy): A Latin Translation of *Oblique Strategies*." Marymount School Latin Club. April 14. [[slides]](../assets/pdfs/taking-latin-prose-comp.pdf){:.cv-link} --->
 <!--- - 2012\. "Some Poetic and Artistic Frames in Theocritus." Co-presented with Carolyn Laferriere. *Within the Frame: A Critical Metaphor in Art and Literature*, The Classics Work in Progress Group, Yale University. January 27. --->
 
-<!--- 
+<!---
 ### Digital Humanities Workshops
 --->
 
@@ -158,7 +160,7 @@ May 2018
 ### Service
 
 - 2018\. Google Summer of Code mentor for the Classical Language Toolkit project "Expanding the CLTK with Synonyms, Translations and Word Embeddings" (James Gawley).
-- 2017\. Reviewer for *DSH: Digital Scholarship in the Humanities*.
+- 2017-present. Reviewer for *DSH: Digital Scholarship in the Humanities*.
 - 2017\. Google Summer of Code mentor for the Classical Language Toolkit project "Adding CLTK Functionality for Old and Middle French" (Natasha Voake).
 - 2016-present. Committee for Public Information and Media Relations. Society for Classical Studies.
 - 2016\. Program Committee, reviewer. Florida Artificial Intelligence Research Society 30th International Conference, special track for "Natural Language Processing of Ancient and other Low-resource Languages."
@@ -168,7 +170,7 @@ May 2018
 
 ### Awards and Honors
 
-- 2018\. *DH2018* ADHO Bursary. 
+- 2018\. *DH2018* ADHO Bursary.
 - 2016\. Google Summer of Code stipend for development on "Latin/Greek Backoff Lemmatizer" for the Classical Language Toolkit.
 <!--- - 2016\. Fordham University, Graduate School of Arts &amp; Sciences, Alumni Dissertation Fellowship. --->
 <!--- - 2015\. Fordham University, Graduate School of Arts &amp; Sciences. Research Fellowship. --->
@@ -241,7 +243,7 @@ May 2018
 --->
 
 ### Community Service
-- 2016-present. Parent Representative for the PS150Q Dual Language PTA Subcommittee. Sunnyside, NY. 
+- 2016-present. Parent Representative for the PS150Q Dual Language PTA Subcommittee. Sunnyside, NY.
 - 2012-2013. Secretary. Sunnyside Gardens Community Association. Sunnyside, NY.
 
 
