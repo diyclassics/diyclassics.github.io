@@ -9,7 +9,7 @@ tag:
 - panel
 - topic-modeling
 - language-learning
-#image: 
+#image:
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
