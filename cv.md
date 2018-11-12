@@ -141,6 +141,7 @@ May 2018
 ### Digital Humanities Projects
 
 - 2015-present. The Classical Language Toolkit (CLTK). Core member. [[link]](http://cltk.org){:.cv-link}.
+- 2016-present. *Digital Central Asian Archaeology* collection. Developer. [[link]](http://dcaa.hosting.nyu.edu/){:.cv-link}.
 <!--- - 2014-2016. A Concordance of Hellenistic Philosophy. With Brian Johnson, Department of Philosophy, Fordham University. [[link]](https://hellenistic.ace.fordham.edu){:.cv-link}. --->
 
 ### Open Access Writing
