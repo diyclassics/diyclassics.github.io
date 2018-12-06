@@ -40,11 +40,12 @@ October 2018
 
 #### Articles
 
-- 2017\. "Measuring and Mapping Intergeneric Allusion in Latin Poetry using Tesserae," *Journal of Data Mining and Digital Humanities*. Special Issue on Computer-Aided Processing of Intertextuality in Ancient Languages. [[paper]](https://hal.archives-ouvertes.fr/hal-01282568v4/document){:.cv-link}
+- 2018\. "Creating Stoplists for Historical Languages," *Digital Classics Online* 4(2) [[article]](https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/52124){:.cv-link}
+- 2017\. "Measuring and Mapping Intergeneric Allusion in Latin Poetry using Tesserae," *Journal of Data Mining and Digital Humanities*. Special Issue on Computer-Aided Processing of Intertextuality in Ancient Languages. [[article]](https://hal.archives-ouvertes.fr/hal-01282568v4/document){:.cv-link}
 
+<!---
 #### Manuscripts in revision
-
-- 2018\. "Creating Stoplists for Historical Languages," *Digital Classics Online*
+--->
 
 #### Manuscripts under review
 
@@ -119,6 +120,7 @@ October 2018
 
 ### Invited Talks
 
+- 2018\. "What is an 'Unpoetic' Word?: Reassessing Latin Literary Criticism with Digital Methods." University of Texas Austin. November 29.
 - 2018\. "Backoff Lemmatization for Ancient Greek with the Classical Language Toolkit," 2018 Digital Classicist London Seminars Series. Institute of Classical Studies. London, England. July 27.
 - 2018\. "What is an 'Unpoetic' Word?: Reassessing Latin Literary Criticism with Digital Methods." University of Oklahoma. April 5.
 - 2018\. "Becoming a Digital Humanist in Graduate School." *Deconstructing the Open Greek and Latin Project: The First Thousand Years of Greek*, Tufts University. January 3.
