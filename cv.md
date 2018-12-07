@@ -54,7 +54,6 @@ October 2018
 #### Manuscripts in submission
 
 - "*Carpe Iter*: A Case for Latin-themed Field Trips," *Teaching Classical Languages*
-- "Building a Digital Philology Pipeline with the Classical Language Toolkit,” chapter in *Digital Classical Philology*, ed. M. Berti. DeGruyter.
 
 #### Manuscripts in preparation
 
