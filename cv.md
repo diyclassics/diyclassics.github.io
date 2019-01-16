@@ -19,7 +19,7 @@ January 2019
 
 ### Employment
 
-- 2019-present. Postdoctoral Fellow. Quantitative Criticism Lab, University of Texas at Austin.
+- 2019-present. Postdoctoral Fellow. [Quantitative Criticism Lab](https://www.qcrit.org/), University of Texas at Austin.
 - 2016-2019. Assistant Research Scholar: Digital and Special Projects. [Institute for the Study of the Ancient World](http://isaw.nyu.edu) Library.
 
 ### Education
@@ -227,7 +227,7 @@ January 2019
 
 #### Editorial Work
 
-- 2016. Markup coding. Bagnall, R. et al. *Oasis City*. NYU Press, 2015. [[link]](http://dlib.nyu.edu/awdl/isaw/oasis-city/index.xhtml){:.cv-link}
+- 2016\. Markup coding. Bagnall, R. et al. *Oasis City*. NYU Press, 2015. [[link]](http://dlib.nyu.edu/awdl/isaw/oasis-city/index.xhtml){:.cv-link}
 - 2010\. Proofreading Latin and Greek citations. Peppard, M. *The Son of God in the Roman World: Divine Sonship in Its Social and Political Context*. Oxford, 2011. [[site]](http://www.worldcat.org/title/son-of-god-in-the-roman-world-divine-sonship-in-its-social-and-political-context/oclc/693810866){:.cv-link}
 - 2008\. Proofreading, compiling index locorum, checking references and bibliography. McGowan, M. *Ovid in Exile: Power and Poetic Redress in the* Tristia *and* Epistulae ex Ponto. Brill, 2009. [[site]](http://www.worldcat.org/title/ovid-in-exile-power-and-poetic-redress-in-the-tristia-and-epistulae-ex-ponto/oclc/567444496){:.cv-link}
 
