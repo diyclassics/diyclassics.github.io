@@ -3,7 +3,7 @@ title: "Creating Stopword Lists for Historical Languages"
 layout: paper
 date: 2017-07-07 00:00
 tag: paper
-image: 
+image:
 headerImage: false
 projects: false
 hidden: true # don't count this post in blog pagination
@@ -17,8 +17,10 @@ externalLink: false
 Abstract for paper delivered at the 'Global Philology: Big Corpora of Historical Text' seminar, Universität Leipzig.   
 July 10, 2017  
 
+**NB: The work presented in this conference paper has since been revised and published in *Digital Classics Online* 4(2). Please visit [this link](../constructing-stoplists) for the published article.**
+
 {:.paper-section-heading}
-## Abstract 
+## Abstract
 Stopwords are words that are filtered from documents prior to text analysis tasks, usually words that are either high frequency or semantically non-selective. Through the removal of such words, text analysis tasks, including supervised machine learning, clustering, information retrieval, and text summarization, benefit in areas like noise reduction, feature reduction, or speed optimization. There are stopwords lists available online for Latin and Greek, for example via the Perseus Project and stopwords-json, but these lists offer little documentation about their sources or creation. Moreover, since the Perseus list is not published as a self-contained dataset, it does not provide systematic version control or persistent identifiers for proper citation.
 
 I propose to use the time at the Global Philology Big Corpora of Historical Text seminar at Universität Leipzig on July 10-11 for developing best practices for stopword list creation for Latin, Greek, and other historical languages. I will review recent publications on stopword list creation in other languages, replicate corpus-based experiments based on this literature, and work with seminar participants to arrive at the appropriate methods for developing similar lists in our target languages.

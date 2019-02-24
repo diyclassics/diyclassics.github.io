@@ -15,11 +15,12 @@ ORCID 0000-0003-2158-866X
 
 {:.cv-info}
 **Curriculum Vitae**  
-October 2018  
+January 2019  
 
 ### Employment
 
-- 2016-present. Assistant Research Scholar: Digital and Special Projects. [Institute for the Study of the Ancient World](http://isaw.nyu.edu) Library.
+- 2019-present. Postdoctoral Fellow. [Quantitative Criticism Lab](https://www.qcrit.org/), University of Texas at Austin.
+- 2016-2019. Assistant Research Scholar: Digital and Special Projects. [Institute for the Study of the Ancient World](http://isaw.nyu.edu) Library.
 
 ### Education
 
@@ -40,11 +41,12 @@ October 2018
 
 #### Articles
 
-- 2017\. "Measuring and Mapping Intergeneric Allusion in Latin Poetry using Tesserae," *Journal of Data Mining and Digital Humanities*. Special Issue on Computer-Aided Processing of Intertextuality in Ancient Languages. [[paper]](https://hal.archives-ouvertes.fr/hal-01282568v4/document){:.cv-link}
+- 2018\. "Creating Stoplists for Historical Languages," *Digital Classics Online* 4(2) [[article]](https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/52124){:.cv-link}
+- 2017\. "Measuring and Mapping Intergeneric Allusion in Latin Poetry using Tesserae," *Journal of Data Mining and Digital Humanities*. Special Issue on Computer-Aided Processing of Intertextuality in Ancient Languages. [[article]](https://hal.archives-ouvertes.fr/hal-01282568v4/document){:.cv-link}
 
+<!---
 #### Manuscripts in revision
-
-- 2018\. "Creating Stoplists for Historical Languages," *Digital Classics Online*
+--->
 
 #### Manuscripts under review
 
@@ -52,8 +54,9 @@ October 2018
 
 #### Manuscripts in submission
 
+- “Autodidacticism and the Promises of Digital Classics,” chapter in *Digital Approaches to Teaching the Ancient Mediterranean*, ed. W. Caraher and S. Heath. Digital Press at U. North Dakota.
+- “Building a Digital Philology Pipeline with the Classical Language Toolkit,” chapter in *Digital Classical Philology*, ed. M. Berti. DeGruyter.
 - "*Carpe Iter*: A Case for Latin-themed Field Trips," *Teaching Classical Languages*
-- "Building a Digital Philology Pipeline with the Classical Language Toolkit,” chapter in *Digital Classical Philology*, ed. M. Berti. DeGruyter.
 
 #### Manuscripts in preparation
 
@@ -81,12 +84,14 @@ October 2018
 
 ### Conference Panels
 
-- 2018\. "Ancient Makerspaces: Digital Classics Workshop." Organizer. Annual Meeting of the Society of Classical Studies, Boston, MA. January 6.
-- 2017\. "Digital Approaches to Latin Vocabulary Acquisition." Organizer. Classical Association of the Atlantic States Annual Meeting, New York City, NY. October 6.
-- 2017\. "Ancient Makerspaces: Digital Classics Workshop." Panel moderator. Annual Meeting of the Society of Classical Studies, Toronto, Ont. [[site]](http://bit.ly/ancientmakerspaces){:.cv-link}
+- 2019\. "Ancient Makerspaces: Digital Classics Workshop." Co-organizer with David Ratzan. Annual Meeting of the Society of Classical Studies, Boston, MA. January 6. [[site]](http://diyclassics.github.io/ams-2019){:.cv-link}
+- 2018\. "Ancient Makerspaces: Digital Classics Workshop." Co-organizer with David Ratzan. Annual Meeting of the Society of Classical Studies, Boston, MA. January 6. [[site]](http://diyclassics.github.io/ams-2018){:.cv-link}
+- 2017\. "Digital Approaches to Latin Vocabulary Acquisition." Co-organizer with John Muccigrosso. Classical Association of the Atlantic States Annual Meeting, New York City, NY. October 6.
+- 2017\. "Ancient Makerspaces: Digital Classics Workshop." Co-organizer with David Ratzan, panel moderator. Annual Meeting of the Society of Classical Studies, Toronto, Ont. [[site]](http://bit.ly/ancientmakerspaces){:.cv-link}
 
 ### Conference Papers
 
+- 2019\. "Object-Oriented Philology," at Digital Classics Association session on *Reconnecting the Classics*. Society of Classical Studies Annual Meeting. San Diego, Ca. January 5.
 - 2018\. "Lucan's *tres libri*: A reconsideration of arrangement and argument in the Bellum civile," Classical Association of the Atlantic States Annual Meeting. Philadelphia, Pa. October 4.
 - 2018\. "Carpe DM: Twitter and the Rise of the Social Media Scholiast," *5000 Years of Comments: The Development of Commentary from Ancient Mesopotamia to the Age of Information*, Center for Hellenic Studies. August 7.
 - 2018\. "Backoff Tagging as a Philological Method," *DH2018*. Mexico City, Mex. June 26.  
@@ -119,6 +124,8 @@ October 2018
 
 ### Invited Talks
 
+- 2019\. "Reassessing Poeticness and Synonymity in Latin Poetry." University of California, Los Angeles. January 10.
+- 2018\. "What is an 'Unpoetic' Word?: Reassessing Latin Literary Criticism with Digital Methods." University of Texas at Austin. November 29.
 - 2018\. "Backoff Lemmatization for Ancient Greek with the Classical Language Toolkit," 2018 Digital Classicist London Seminars Series. Institute of Classical Studies. London, England. July 27.
 - 2018\. "What is an 'Unpoetic' Word?: Reassessing Latin Literary Criticism with Digital Methods." University of Oklahoma. April 5.
 - 2018\. "Becoming a Digital Humanist in Graduate School." *Deconstructing the Open Greek and Latin Project: The First Thousand Years of Greek*, Tufts University. January 3.
@@ -143,6 +150,10 @@ October 2018
 ### Digital Humanities Projects
 
 - 2015-present. The Classical Language Toolkit (CLTK). Core member. [[link]](http://cltk.org){:.cv-link}.
+- 2016-present. *ISAW Library Titles Map*. Developer.
+- 2016-present. *Digital Central Asian Archaeology* collection. Developer. [[link]](http://dcaa.hosting.nyu.edu/){:.cv-link}.
+- 2018-present. *Digital South Caucasus* collection. Developer.
+
 <!--- - 2014-2016. A Concordance of Hellenistic Philosophy. With Brian Johnson, Department of Philosophy, Fordham University. [[link]](https://hellenistic.ace.fordham.edu){:.cv-link}. --->
 
 ### Open Access Writing
@@ -207,8 +218,16 @@ October 2018
 - Introduction to Latin I (Spring 2008)
 --->
 
-### Professional Experience
+### Library and Scholarly Publication Experience
 
+#### Special Collections Work
+
+- 2017-present. *Digital South Caucasus Collection*. Developer.
+- 2016-present. *Digital Central Asian Archaeology Collection*. Developer. [[site]](http://dcaa.hosting.nyu.edu/){:.cv-link}
+
+#### Editorial Work
+
+- 2016\. Markup coding. Bagnall, R. et al. *Oasis City*. NYU Press, 2015. [[link]](http://dlib.nyu.edu/awdl/isaw/oasis-city/index.xhtml){:.cv-link}
 - 2010\. Proofreading Latin and Greek citations. Peppard, M. *The Son of God in the Roman World: Divine Sonship in Its Social and Political Context*. Oxford, 2011. [[site]](http://www.worldcat.org/title/son-of-god-in-the-roman-world-divine-sonship-in-its-social-and-political-context/oclc/693810866){:.cv-link}
 - 2008\. Proofreading, compiling index locorum, checking references and bibliography. McGowan, M. *Ovid in Exile: Power and Poetic Redress in the* Tristia *and* Epistulae ex Ponto. Brill, 2009. [[site]](http://www.worldcat.org/title/ovid-in-exile-power-and-poetic-redress-in-the-tristia-and-epistulae-ex-ponto/oclc/567444496){:.cv-link}
 
