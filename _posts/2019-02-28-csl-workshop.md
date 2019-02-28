@@ -26,12 +26,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {:.paper-section-heading}
 ## Resources
 - [Citation Style Language](https://citationstyles.org/)
+  - [CSL Primer](http://docs.citationstyles.org/en/1.0.1/primer.html)
+  - Authors [page](https://citationstyles.org/authors/)
+  - Contributors [page](https://github.com/citation-style-language/styles/blob/master/CONTRIBUTING.md)
 - Citation Style Language on [GitHub](https://github.com/citation-style-language)
   - Styles [repo](https://github.com/citation-style-language/styles)
 - [CSL Editor](editor.citationstyles.org/about/)
   - [Visual Editor](http://editor.citationstyles.org/visualEditor/)
   - [Code Editor](http://editor.citationstyles.org/codeEditor/)
 - [Zotero](https://www.zotero.org)
+  - Zotero [CSL Editing Guide](https://www.zotero.org/support/dev/citation_styles/style_editing_step-by-step)
 
 {:.paper-section-heading}
 ## Articles/posts/etc.
