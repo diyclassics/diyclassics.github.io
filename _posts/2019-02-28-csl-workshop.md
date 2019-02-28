@@ -40,3 +40,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {:.paper-section-heading}
 ## Articles/posts/etc.
 - *NatureJobs* blog post on the [CSL Editor](http://blogs.nature.com/naturejobs/2017/05/03/techblog-create-the-perfect-bibliography-with-the-csl-editor/)
+- *Ideophone* blog post on ["Simple citation style edits: the power of CSL"](Simple citation style edits: the power of CSL)
