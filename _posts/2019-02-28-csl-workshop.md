@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   - Contributors [page](https://github.com/citation-style-language/styles/blob/master/CONTRIBUTING.md)
 - Citation Style Language on [GitHub](https://github.com/citation-style-language)
   - Styles [repo](https://github.com/citation-style-language/styles)
-- [CSL Editor](editor.citationstyles.org/about/)
+- [CSL Editor](http://editor.citationstyles.org/about/)
   - [Visual Editor](http://editor.citationstyles.org/visualEditor/)
   - [Code Editor](http://editor.citationstyles.org/codeEditor/)
 - [Zotero](https://www.zotero.org)
@@ -43,4 +43,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {:.paper-section-heading}
 ## Articles/posts/etc.
 - *NatureJobs* blog post on the [CSL Editor](http://blogs.nature.com/naturejobs/2017/05/03/techblog-create-the-perfect-bibliography-with-the-csl-editor/)
-- *Ideophone* blog post on ["Simple citation style edits: the power of CSL"](Simple citation style edits: the power of CSL)
+- *Ideophone* blog post on ["Simple citation style edits: the power of CSL"](http://ideophone.org/zotero-citation-style-edit/)
