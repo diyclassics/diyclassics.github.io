@@ -50,12 +50,12 @@ January 2019
 
 #### Manuscripts under review
 
-- 2018\. &quot;The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code,&quot; *Classics@*, special issue on ancient literacies. Co-written with K. Johnson and L. Hollis. [[abstract]](../future-of-ancient-literacy){:.cv-link}
+- 2019\. “Building a Digital Philology Pipeline with the Classical Language Toolkit,” chapter in *Digital Classical Philology*, ed. M. Berti. DeGruyter.
+- Forthcoming. &quot;The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code,&quot; *Classics@*, special issue on ancient literacies. Co-written with K. Johnson and L. Hollis. [[abstract]](../future-of-ancient-literacy){:.cv-link}
 
 #### Manuscripts in submission
 
 - “Autodidacticism and the Promises of Digital Classics,” chapter in *Digital Approaches to Teaching the Ancient Mediterranean*, ed. W. Caraher and S. Heath. Digital Press at U. North Dakota.
-- “Building a Digital Philology Pipeline with the Classical Language Toolkit,” chapter in *Digital Classical Philology*, ed. M. Berti. DeGruyter.
 - "*Carpe Iter*: A Case for Latin-themed Field Trips," *Teaching Classical Languages*
 
 #### Manuscripts in preparation
@@ -91,6 +91,8 @@ January 2019
 
 ### Conference Papers
 
+- 2019\. "Crowdsourcing Open Educational Resources for Classics," at American Classical League Institute. New York, NY. June 29.
+- 2019\. "Multiplex Lemmatization with the Classical Language Toolkit," at the [First LiLa Workshop: Linguistic Resources & NLP Tools for Latin](https://lila-erc.eu/events/). Milan, Italy. June 3. [[abstract]](../multiplex-lemmatization){:.cv-link}
 - 2019\. "Object-Oriented Philology," at Digital Classics Association session on *Reconnecting the Classics*. Society of Classical Studies Annual Meeting. San Diego, Ca. January 5.
 - 2018\. "Lucan's *tres libri*: A reconsideration of arrangement and argument in the Bellum civile," Classical Association of the Atlantic States Annual Meeting. Philadelphia, Pa. October 4.
 - 2018\. "Carpe DM: Twitter and the Rise of the Social Media Scholiast," *5000 Years of Comments: The Development of Commentary from Ancient Mesopotamia to the Age of Information*, Center for Hellenic Studies. August 7.
@@ -121,6 +123,10 @@ January 2019
 
 - 2017\. "Mapping Linked Data Subject Headings in the Library Catalog." DH2017, Montreal, Quebec. August 11. Co-written with D. Ratzan, T. Elliot, and G. Mckee. [[abstract]](../mapping-linked-data-subject-headings){:.cv-link}
 - 2014\. "Distant Reading Alliteration in Latin Literature." Annual Meeting of the American Philological Association, Chicago, Il. January 4. [[abstract]](../distant-reading-alliteration-in-latin-literature){:.cv-link}
+
+### Conference Roundtables
+
+- 2019\. "Apollo vs. Python3: What Can Classics Learn from Computer Science (and Vice Versa)?" at American Classical League Institute. New York, NY. June 29.
 
 ### Invited Talks
 

@@ -2,7 +2,10 @@
 title: "Working with Citation Style Language and Zotero"
 layout: paper
 date: 2019-02-28 00:00
-tag: paper
+tag:
+- citation style language
+- workshop
+- isaw
 image:
 headerImage: false
 projects: true
