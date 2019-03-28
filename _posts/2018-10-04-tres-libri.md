@@ -1,9 +1,9 @@
 ---
 title: "Lucan's tres libri: A reconsideration of arrangement and argument in the Bellum civile"
 layout: paper
-date: 2018-5-1 00:00
+date: 2018-10-04 00:00
 tag: paper
-image: 
+image:
 headerImage: false
 projects: false
 hidden: true # don't count this post in blog pagination
@@ -18,7 +18,7 @@ Classical Association of the Atlantic States Annual Meeting
 October 4, 2018
 
 {:.paper-section-heading}
-## Abstract 
+## Abstract
 The order of composition for the books of Lucan's *Bellum civile* has long been a source of debate. The biographical tradition refers to “three books” published during his lifetime and, in an example of scholarly Ockham's razor, these are generally assumed to be Books 1-2-3. Yet, there is not consensus. Masters (1992) states the question directly—“Which three books were published?”— challenging the assertion by Rose (1966) that anything except 1-2-3 is “out of the question.” Other suggestions include 1-7-9 (Ussani 1901), 2-7-8 (Pichon 1912), and 1-2-7 (Duff 1964). Bruère (1951) mentions that it is perhaps not the first three books, but is also likely not the last three.
 
 In this paper I argue for a different arrangement, namely 7-8-9. I base this reading on three arguments from internal evidence: 1. the Battle of Pharsalus is the poem's centerpiece and it is inconceivable to have not been part of the work's original conception; 2. the close relationship between Book 3 and Book 4 in documenting the war's Western campaign suggests that they were composed in a coordinated manner; and 3. the unusual length and imbalanced content of Book 9, suggests a break in composition and rethinking of poetic design. In addition, with 7-8-9 assumed, a fourth closely related argument can be adduced, namely that Book 10, famously incomplete, provides several parallels to *Aeneid* 4, and accordingly makes sense as a book conceived as a structural allusion to its predecessor and the fourth book in its original design.
