@@ -2,7 +2,11 @@
 title: "Working with Citation Style Language and Zotero"
 layout: paper
 date: 2019-02-28 00:00
-tag: paper
+tag:
+- citation style Language
+- zotero
+- isaw
+- bibliography
 image:
 headerImage: false
 projects: true
@@ -21,7 +25,7 @@ February 28, 2019
 
 {:.paper-section-heading}
 ## Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This workshop will introduce participants to working with .csl (citation style language) files for the purposes of customizing their bibliographies. The emphasis will be on Zotero integration, but will be applicable to any bibliographic management software that makes use of .csl sheets.
 
 {:.paper-section-heading}
 ## Resources
