@@ -121,6 +121,7 @@ January 2019
 
 ### Conference Posters
 
+- 2019\. "Bringing a Shadow Library Into the Light: Soviet-Era Scholarship on Central Asia and 21st Century Digital Collections." ACRL 2019, Cleveland, OH. April 11. Co-written with G. Mckee and M. Naunton.
 - 2017\. "Mapping Linked Data Subject Headings in the Library Catalog." DH2017, Montreal, Quebec. August 11. Co-written with D. Ratzan, T. Elliot, and G. Mckee. [[abstract]](../mapping-linked-data-subject-headings){:.cv-link}
 - 2014\. "Distant Reading Alliteration in Latin Literature." Annual Meeting of the American Philological Association, Chicago, Il. January 4. [[abstract]](../distant-reading-alliteration-in-latin-literature){:.cv-link}
 
