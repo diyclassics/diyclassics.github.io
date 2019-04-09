@@ -44,13 +44,13 @@ January 2019
 - 2018\. "Creating Stoplists for Historical Languages," *Digital Classics Online* 4(2) [[article]](https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/52124){:.cv-link}
 - 2017\. "Measuring and Mapping Intergeneric Allusion in Latin Poetry using Tesserae," *Journal of Data Mining and Digital Humanities*. Special Issue on Computer-Aided Processing of Intertextuality in Ancient Languages. [[article]](https://hal.archives-ouvertes.fr/hal-01282568v4/document){:.cv-link}
 
-<!---
-#### Manuscripts in revision
---->
+
+#### Manuscripts in press
+
+- 2019\. “Building a Text Analysis Pipeline for Classical Languages,” chapter in *Digital Classical Philology*, ed. M. Berti. DeGruyter. [[abstract]](../pipeline){:.cv-link}
 
 #### Manuscripts under review
 
-- 2019\. “Building a Digital Philology Pipeline with the Classical Language Toolkit,” chapter in *Digital Classical Philology*, ed. M. Berti. DeGruyter.
 - Forthcoming. &quot;The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code,&quot; *Classics@*, special issue on ancient literacies. Co-written with K. Johnson and L. Hollis. [[abstract]](../future-of-ancient-literacy){:.cv-link}
 
 #### Manuscripts in submission
@@ -91,6 +91,7 @@ January 2019
 
 ### Conference Papers
 
+- 2019\. "Hacking Multi-word Named Entity Recognition on HathiTrust Extracted Features Data," at ACH2019. Pittsburgh, Pa. July 23. [[abstract]](../multiword-ner){:.cv-link}
 - 2019\. "Crowdsourcing Open Educational Resources for Classics," at American Classical League Institute. New York, NY. June 29.
 - 2019\. "Multiplex Lemmatization with the Classical Language Toolkit," at the [First LiLa Workshop: Linguistic Resources & NLP Tools for Latin](https://lila-erc.eu/events/). Milan, Italy. June 3. [[abstract]](../multiplex-lemmatization){:.cv-link}
 - 2019\. "Object-Oriented Philology," at Digital Classics Association session on *Reconnecting the Classics*. Society of Classical Studies Annual Meeting. San Diego, Ca. January 5.
