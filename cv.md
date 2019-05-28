@@ -19,6 +19,7 @@ June 2019
 ### Employment
 
 - 2019-present. Postdoctoral Fellow. [Quantitative Criticism Lab](https://www.qcrit.org/), University of Texas at Austin.
+- 2019-present. Library Adjunct. Institute for the Study of the Ancient World](http://isaw.nyu.edu) Library.
 - 2016-2019. Assistant Research Scholar: Digital and Special Projects. [Institute for the Study of the Ancient World](http://isaw.nyu.edu) Library.
 
 ### Education
@@ -50,7 +51,7 @@ June 2019
 
 #### Manuscripts under review
 
-- Forthcoming. &quot;The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code,&quot; *Classics@*, special issue on ancient literacies. Co-written with K. Johnson and L. Hollis. [[abstract]](../future-of-ancient-literacy){:.cv-link}
+- 2109\. &quot;The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code,&quot; *Classics@*, special issue on ancient literacies. Co-written with K. Johnson and L. Hollis. [[abstract]](../future-of-ancient-literacy){:.cv-link}
 
 #### Manuscripts in submission
 
@@ -83,6 +84,10 @@ June 2019
 - 2018\. *Future Philologies: Digital Directions in Text for Historical Languages*. Organizer. Institute for the Study of the Ancient World. April 20. [[site]](https://diyclassics.github.io/future-philologies/){:.cv-link}
 
 ### Conference Panels
+
+- 2019\. "Computational Tools & the Cross-Cultural Study of Literature." With Tanya Clement, Grace Fong, and Carrie Schroeder; moderated by Jacqueline Wernimont. *Digital Humanities Beyond Modern English*. Dartmouth College. April 25.
+
+### Conference Sessions
 
 - 2019\. "Ancient Makerspaces: Digital Classics Workshop." Co-organizer with David Ratzan. Annual Meeting of the Society of Classical Studies, Boston, MA. January 6. [[site]](http://diyclassics.github.io/ams-2019){:.cv-link}
 - 2018\. "Ancient Makerspaces: Digital Classics Workshop." Co-organizer with David Ratzan. Annual Meeting of the Society of Classical Studies, Boston, MA. January 6. [[site]](http://diyclassics.github.io/ams-2018){:.cv-link}
