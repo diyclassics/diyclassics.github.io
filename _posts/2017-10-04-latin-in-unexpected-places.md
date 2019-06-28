@@ -1,9 +1,9 @@
 ---
 title: "Latin in Unexpected Places"
-layout: post
+layout: paper
 date: 2017-10-04 22:10
 tag: paper
-#image: 
+#image:
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
