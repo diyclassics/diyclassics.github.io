@@ -1,6 +1,6 @@
 ---
 title: "Apollo vs. Python3: What Can Classics Learn from Computer Science (and Vice Versa)?"
-layout: paper
+layout: post
 date: 2019-06-27 00:00
 tag:
 - classics
