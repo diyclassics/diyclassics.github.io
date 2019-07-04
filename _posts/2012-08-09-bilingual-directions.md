@@ -6,6 +6,9 @@ tag:
 - latin
 - greek
 - teaching
+- Scaliger
+- digital Humanities
+- NEH
 image:
 headerImage: false
 projects: true
@@ -16,7 +19,7 @@ author: patrickburns
 externalLink: false
 ---
 
-# Bilingual Classics: A Pedagogical Angle
+# Bilingual Directions in Digital Classics
 Presentation at NEH Institute for Advanced Topics in the Digital Humanities on "Working with Text in the Digital Age" at Tufts University
 August 9, 2012
 
