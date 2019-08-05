@@ -7,15 +7,14 @@ layout: calendar
 # Patrick J. Burns
 
 {:.cv-address}
-patrick.j.burns@nyu.edu  
-(212) 992-7811  
+patrick@diyclassics.org    
 
 {:.cv-orcid}
 ORCID 0000-0003-2158-866X  
 
 {:.cv-info}
 **Curriculum Vitae**  
-May 2019  
+June 2019
 
 ### Employment
 
@@ -42,7 +41,7 @@ May 2019
 
 #### Articles
 
-- 2018\. "Creating Stoplists for Historical Languages," *Digital Classics Online* 4(2) [[article]](https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/52124){:.cv-link}
+- 2018\. "Creating Stoplists for Historical Languages," *Digital Classics Online* 4(2):4-20. [[article]](https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/52124){:.cv-link}
 - 2017\. "Measuring and Mapping Intergeneric Allusion in Latin Poetry using Tesserae," *Journal of Data Mining and Digital Humanities*. Special Issue on Computer-Aided Processing of Intertextuality in Ancient Languages. [[article]](https://hal.archives-ouvertes.fr/hal-01282568v4/document){:.cv-link}
 
 
@@ -81,7 +80,7 @@ May 2019
 - 2018\. Latin language model for spaCy. [[code]](https://github.com/diyclassics/latin-spacy-models){:.cv-link}
 
 ### Conferences
-
+<!-- - ADD DHBME? -->
 - 2018\. *Future Philologies: Digital Directions in Text for Historical Languages*. Organizer. Institute for the Study of the Ancient World. April 20. [[site]](https://diyclassics.github.io/future-philologies/){:.cv-link}
 
 ### Conference Panels
@@ -275,7 +274,7 @@ May 2019
 --->
 
 ### Community Service
-- 2016-present. Parent Representative for the PS150Q Dual Language PTA Subcommittee. Sunnyside, NY.
+- 2016-2018. Parent Representative for the PS150Q Dual Language PTA Subcommittee. Sunnyside, NY.
 - 2012-2013. Secretary. Sunnyside Gardens Community Association. Sunnyside, NY.
 
 
@@ -286,6 +285,8 @@ May 2019
 - Markup: XML, TEI. <!--- XSLT --->
 - Web development: HTML 5, CSS3, Javascript/jQuery (esp. Leaflet.js); Jekyll; Flask, Jinja2; Heroku.
 - Open source development: Git/GitHub, TravisCI.
+- Bibliographic support: CSL; Zotero translator development and automation (via pyZotero)
+- Layout: LaTeX; Overleaf.
 - Content management: Wordpress; Omeka; DSpace (via NYU Faculty Digital Archive), including working with Simple Archive Format. <!---CMS: Add Drupal --->
 
 <!---WEBCONFIG: Add Apache, Tomcat --->
@@ -293,9 +294,6 @@ May 2019
 <!---VISUALIZATION: Add D3.js --->
 <!---INFRASTRUCTURE: Add AWS --->
 <!---MAPPING: Add QGIS --->
-<!---LAYOUT: Add LaTeX --->
-
-<!--- WORTH INCLUDING ANYMORE? VBA for MS Access, VBA for MS Excel --->
 
 <!---
 
