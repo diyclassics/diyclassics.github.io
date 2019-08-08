@@ -19,7 +19,7 @@ August 2019
 ### Employment
 
 - 2019-present. Postdoctoral Fellow. [Quantitative Criticism Lab](https://www.qcrit.org/), University of Texas at Austin.
-- 2019-present. Library Adjunct. Institute for the Study of the Ancient World](http://isaw.nyu.edu) Library.
+- 2019-present. Library Adjunct. [Institute for the Study of the Ancient World](http://isaw.nyu.edu) Library.
 - 2016-2019. Assistant Research Scholar: Digital and Special Projects. [Institute for the Study of the Ancient World](http://isaw.nyu.edu) Library.
 
 ### Education
@@ -53,11 +53,11 @@ August 2019
 
 #### Manuscripts under review
 
-- 2109\. &quot;The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code,&quot; *Classics@*, special issue on ancient literacies. Co-written with K. Johnson and L. Hollis. [[abstract]](../future-of-ancient-literacy){:.cv-link}
+- 2019\. &quot;The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code,&quot; *Classics@*, special issue on ancient literacies. Co-written with K. Johnson and L. Hollis. [[abstract]](../future-of-ancient-literacy){:.cv-link}
+- 2019\. “Autodidacts and the 'Promise' of Digital Classics,” chapter in *Digital Approaches to Teaching the Ancient Mediterranean*, ed. W. Caraher and S. Heath. Digital Press at U. North Dakota.
 
 #### Manuscripts in submission
 
-- “Autodidacticism and the Promises of Digital Classics,” chapter in *Digital Approaches to Teaching the Ancient Mediterranean*, ed. W. Caraher and S. Heath. Digital Press at U. North Dakota.
 - "*Carpe Iter*: A Case for Latin-themed Field Trips," *Teaching Classical Languages*
 
 #### Manuscripts in preparation
