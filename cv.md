@@ -14,7 +14,7 @@ ORCID 0000-0003-2158-866X
 
 {:.cv-info}
 **Curriculum Vitae**  
-June 2019
+August 2019
 
 ### Employment
 
@@ -41,13 +41,15 @@ June 2019
 
 #### Articles
 
-- 2018\. "Creating Stoplists for Historical Languages," *Digital Classics Online* 4(2):4-20. [[article]](https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/52124){:.cv-link}
-- 2017\. "Measuring and Mapping Intergeneric Allusion in Latin Poetry using Tesserae," *Journal of Data Mining and Digital Humanities*. Special Issue on Computer-Aided Processing of Intertextuality in Ancient Languages. [[article]](https://hal.archives-ouvertes.fr/hal-01282568v4/document){:.cv-link}
+- 2018\. "Creating Stoplists for Historical Languages," *Digital Classics Online* 4(2):4-20. [[article]](https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/52124){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
+- 2017\. "Measuring and Mapping Intergeneric Allusion in Latin Poetry using Tesserae," *Journal of Data Mining and Digital Humanities*. Special Issue on Computer-Aided Processing of Intertextuality in Ancient Languages. [[article]](https://hal.archives-ouvertes.fr/hal-01282568v4/document){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 
+#### Chapters
 
-#### Manuscripts in press
+- 2019\. “Building a Text Analysis Pipeline for Classical Languages,” chapter in *Digital Classical Philology*, ed. M. Berti. DeGruyter. [[chapter]](http://bit.ly/dcp-burns){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 
-- 2019\. “Building a Text Analysis Pipeline for Classical Languages,” chapter in *Digital Classical Philology*, ed. M. Berti. DeGruyter. [[abstract]](../pipeline){:.cv-link}
+<!-- #### Manuscripts in press
+ -->
 
 #### Manuscripts under review
 
