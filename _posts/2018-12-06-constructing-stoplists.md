@@ -14,7 +14,7 @@ externalLink: false
 ---
 
 # Creating Stopword Lists for Historical Languages
-Abstract for article published in *Digital Classics Online* 4(2)  
+Abstract for article published in *Digital Classics Online* 4(2) <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>  
 December 6, 2018
 
 {:.paper-section-heading}
