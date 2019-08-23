@@ -1,7 +1,7 @@
 ---
 title: "Hacking Multi-word Named Entity Recognition on HathiTrust Extracted Features Data"
 layout: paper
-date: 2019-02-28 00:00
+date: 2019-07-26 00:00
 tag: paper
 image:
 headerImage: false
