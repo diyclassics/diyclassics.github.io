@@ -82,12 +82,13 @@ August 2019
 - 2018\. Latin language model for spaCy. [[code]](https://github.com/diyclassics/latin-spacy-models){:.cv-link}
 
 ### Conferences
-<!-- - ADD DHBME? -->
+- 2020\. *Digital Humanities Beyond Modern English*. Co-organizer with Pramit Chaudhuri and Joseph Dexter. University of Teaxs at Austin. April 25. [[site]](https://qcrit.github.io/dhbme/){:.cv-link}
+- 2019\. *Digital Humanities Beyond Modern English*. Co-organizer with Pramit Chaudhuri and Joseph Dexter. Dartmouth College. April 23-25. [[site]](https://qcrit.github.io/dhbme/){:.cv-link}
 - 2018\. *Future Philologies: Digital Directions in Text for Historical Languages*. Organizer. Institute for the Study of the Ancient World. April 20. [[site]](https://diyclassics.github.io/future-philologies/){:.cv-link}
 
 ### Conference Panels
 
-- 2019\. "Computational Tools & the Cross-Cultural Study of Literature." With Tanya Clement, Grace Fong, and Carrie Schroeder; moderated by Jacqueline Wernimont. *Digital Humanities Beyond Modern English*. Dartmouth College. April 25.
+- 2019\. "Computational Tools & the Cross-Cultural Study of Literature." Panelist with Tanya Clement, Grace Fong, and Carrie Schroeder; moderated by Jacqueline Wernimont. *Digital Humanities Beyond Modern English*. Dartmouth College. April 25.
 
 ### Conference Sessions
 
