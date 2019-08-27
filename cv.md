@@ -82,7 +82,7 @@ August 2019
 - 2018\. Latin language model for spaCy. [[code]](https://github.com/diyclassics/latin-spacy-models){:.cv-link}
 
 ### Conferences
-- 2020\. *Digital Humanities Beyond Modern English*. Co-organizer with Pramit Chaudhuri and Joseph Dexter. University of Teaxs at Austin. April 25. [[site]](https://qcrit.github.io/dhbme/){:.cv-link}
+- 2020\. *Digital Humanities Beyond Modern English*. Co-organizer with Pramit Chaudhuri and Joseph Dexter. University of Teaxs at Austin. April 11. [[site]](https://qcrit.github.io/dhbme/){:.cv-link}
 - 2019\. *Digital Humanities Beyond Modern English*. Co-organizer with Pramit Chaudhuri and Joseph Dexter. Dartmouth College. April 23-25. [[site]](https://qcrit.github.io/dhbme/){:.cv-link}
 - 2018\. *Future Philologies: Digital Directions in Text for Historical Languages*. Organizer. Institute for the Study of the Ancient World. April 20. [[site]](https://diyclassics.github.io/future-philologies/){:.cv-link}
 
@@ -120,13 +120,13 @@ August 2019
 - 2014\. "Digital Directions for a Concordance of Hellenistic Philosophy." (Co-presented with Prof. Brian Johnson, Fordham University.) *Publishing Text for a Digital Age*, Tufts University. March 28.
 - 2013\. "Lucian’s Ekphrasis of the Visible and the Invisible in *Imagines*." CAMWS 2013 Annual Meeting, Iowa City, Ia. April 20. [[abstract]](../lucians-ekphrasis-of-the-invisible){:.cv-link}
 - 2013\. "Distant Reading Alliteration in Latin Poetry." *Word, Space, Time: Digital Perspectives on the Classical World*, University at Buffalo. April 6. [[abstract]](../distant-reading-alliteration-in-latin-poetry){:.cv-link} [[code]](https://gist.github.com/pbartleby/5276544){:.cv-link}
-<!--- - 2013\. "*Pessime Planudes*: Scaliger’s *Cato* and the Polemics of Retranslation." *Beyond Words: Translation and the Classical World*, CUNY Graduate Center. March 8. [[abstract]](../pessime-planudes){:.cv-link} --->
+- 2013\. "*Pessime Planudes*: Scaliger’s *Cato* and the Polemics of Retranslation." *Beyond Words: Translation and the Classical World*, CUNY Graduate Center. March 8. [[abstract]](../pessime-planudes){:.cv-link}
 - 2013\. "A Non-Latin Script in the Digital Archive: Greek OCR and Google Books." *Remembering, Forgetting, Imagining: The Practices of Memory*, Digital Humanities roundtable, Fordham University. March 2.
-<!--- - 2012\. "*Laudatio*, Lineage and Legacy in Cicero’s *Brutus*." Exegi Monumentum Aere Perennius*: Self-Promotion in the Ancient World*, University at Buffalo. October 20. [[abstract]](../laudatio-lineage-and-legacy){:.cv-link} --->
-<!--- - 2012\. "The Poet Who Dreamt He Was a Poet: Lucretius and the Problem of Inspiration." *And Now for Something Completely Different: Transformation and Transcendence in Antiquity*, University of Wisconsin-Madison. October 13. [[abstract]](../the-poet-who-dreamt){:.cv-link} --->
+- 2012\. "*Laudatio*, Lineage and Legacy in Cicero’s *Brutus*." Exegi Monumentum Aere Perennius*: Self-Promotion in the Ancient World*, University at Buffalo. October 20. [[abstract]](../laudatio-lineage-and-legacy){:.cv-link}
+- 2012\. "The Poet Who Dreamt He Was a Poet: Lucretius and the Problem of Inspiration." *And Now for Something Completely Different: Transformation and Transcendence in Antiquity*, University of Wisconsin-Madison. October 13. [[abstract]](../the-poet-who-dreamt){:.cv-link}
 - 2011\. "Short on Erotics: Eros as Epic Hero in Apollonius Rhodius’ *Argonautica* 3.275-298." *Desire: From Eros to Eroticism*, CUNY Graduate Center, Department of Comparative Literature. November 11. [[abstract]](../short-on-erotics){:.cv-link}
-<!--- - 2011\. "Dice Play and Wordplay in Apollonius Rhodius’ *Argonautica* 3.111-128." *Why So Serious?: The Past and Its Diversions*, University of Michigan. April 16. [[abstract]](../dice-play-and-wordplay){:.cv-link} --->
-<!--- - 2010\. "The Hyper-Alexandrianism of Virgilian Centos and Girl Talk's Mashups." *All Roads Lead From Rome*, Rutgers University. April 9. [[abstract]](../hyper-alexandrianism){:.cv-link} --->
+- 2011\. "Dice Play and Wordplay in Apollonius Rhodius’ *Argonautica* 3.111-128." *Why So Serious?: The Past and Its Diversions*, University of Michigan. April 16. [[abstract]](../dice-play-and-wordplay){:.cv-link}
+- 2010\. "The Hyper-Alexandrianism of Virgilian Centos and Girl Talk's Mashups." *All Roads Lead From Rome*, Rutgers University. April 9. [[abstract]](../hyper-alexandrianism){:.cv-link}
 
 ### Conference Posters
 
@@ -194,6 +194,11 @@ August 2019
 - 2016-present. Steering Group. NYC Digital Humanities.
 - 2015-present. Steering Committee. Digital Classics Association.
 
+### Grants
+
+- 2019\. Society for Classical Studies *Classics Everywhere* grant supporting public programming for local political philosophy reading group.
+- 2013\.
+
 ### Awards and Honors
 
 - 2018\. *DH2018* ADHO Bursary.
@@ -206,19 +211,19 @@ August 2019
 - 2013\. HASTAC Scholar.
 - 2012\. National Endowment for the Humanities/Tufts University. Institutes for Advanced Topics in the Digital Humanities grant.
 <!--- - 2012-2010\. Fordham University, Graduate School of Arts &amp; Sciences. Teaching Fellowship. --->
-<!--- - 2011\. New York Classical Club. American School of Classical Studies at Athens Summer Scholarship. --->
+- - 2011\. New York Classical Club. American School of Classical Studies at Athens Summer Scholarship. -
 <!--- - 2009\. Fordham University, Graduate School of Arts &amp; Sciences. Graduate Assistantship. --->
 
 ### Teaching Experience
 
 #### Instructor, Institute for the Study of the Ancient World
-- Introduction to Digital Humanities for the Ancient World (Fall 2016, Fall 2017)
+- Introduction to Digital Humanities for the Ancient World (Fall 2017, Fall 2016)
 
 #### Instructor, Fordham University
 
 - Introduction to Latin I (Fall 2013, Fall 2010, Fall 2009); Textbooks: *Learn to Read Latin*; *Wheelock’s Latin*.
 - Introduction to Latin II (Spring 2014, Spring 2010); Textbooks: *Wheelock’s Latin*; *Latin via Ovid*.
-- Intermediate Latin (Fall 2013, Fall 2012)
+- Intermediate Latin (Fall 2019, Fall 2013, Fall 2012)
 - Latin Language &amp; Literature (Spring 2015, Spring 2010: Curriculum Authors; Spring 2013: Ovid)<br><br>
 - Introduction to Greek I (Fall 2011); Textbook: *Greek: An Intensive Course*.
 - Introduction to Greek II (Spring 2011) Textbook: *Greek: An Intensive Course*.
