@@ -1,6 +1,6 @@
 ---
 title: CV
-layout: calendar
+layout: cv
 ---
 
 {:.name}
@@ -14,7 +14,7 @@ ORCID 0000-0003-2158-866X
 
 {:.cv-info}
 **Curriculum Vitae**  
-August 2019
+November 2019
 
 ### Academic Employment and Appointments
 
