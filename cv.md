@@ -105,7 +105,7 @@ November 2019
 - 2019\. "Object-Oriented Philology," at Digital Classics Association session on *Reconnecting the Classics*. Society of Classical Studies Annual Meeting. San Diego, Ca. January 5.
 - 2018\. "Lucan's *tres libri*: A reconsideration of arrangement and argument in the Bellum civile," Classical Association of the Atlantic States Annual Meeting. Philadelphia, Pa. October 4.
 - 2018\. "Carpe DM: Twitter and the Rise of the Social Media Scholiast," *5000 Years of Comments: The Development of Commentary from Ancient Mesopotamia to the Age of Information*, Center for Hellenic Studies. August 7.
-- 2018\. "Backoff Tagging as a Philological Method," *DH2018*. Mexico City, Mex. June 26.  
+- 2018\. "Backoff Tagging as a Philological Method," *DH2018*. Mexico City, Mex. June 26. [[abstract]](../backoff-lemmatization){:.cv-link}
 - 2017\. “Mapping Library Subject Headings with the HathiTrust Extracted Features Dataset.” *Digital Publication in Mediterranean Archaeology*, Institute for the Study of the Ancient World. October 20.
 - 2017\. "Creating Stopword Lists for Historical Languages." *Global Philology: Big Corpora of Historical Text*, Universität Leipzig. July 10. [[abstract]](../creating-stopword-lists){:.cv-link}
 - 2017\. "Virgil's Hardest Sentence?: Measuring Readability in Latin Poetry." *Midwest Classical Literature Consortium*, Ohio University. April 22. [[abstract]](../virgils-hardest-sentence){:.cv-link}
