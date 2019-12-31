@@ -99,6 +99,7 @@ November 2019
 
 ### Conference Papers
 
+- 2020\. "'Poeticness' as a Continuous Variable: Rethinking Prosaism in Horace's Odes 4.9," Society of Classical Studies Annual Meeting. Washington, D.C. January 4. [[abstract]](../poeticness){:.cv-link}
 - 2019\. "Hacking Multi-word Named Entity Recognition on HathiTrust Extracted Features Data," at ACH2019. Pittsburgh, Pa. July 23. [[abstract]](../multiword-ner){:.cv-link}
 - 2019\. "Crowdsourcing Open Educational Resources for Classics," at American Classical League Institute. New York, NY. June 29.
 - 2019\. "Multiplex Lemmatization with the Classical Language Toolkit," at the [First LiLa Workshop: Linguistic Resources & NLP Tools for Latin](https://lila-erc.eu/events/). Milan, Italy. June 3. [[abstract]](../multiplex-lemmatization){:.cv-link}
