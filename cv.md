@@ -41,6 +41,7 @@ November 2019
 
 #### Articles
 
+- 2019\. &quot;The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code,&quot; *Classics@* 17, special issue on ancient literacies. Co-written with K. Johnson and L. Hollis. [[full text]](https://chs.harvard.edu/CHS/article/display/6946){:.cv-link} [[abstract]](../future-of-ancient-literacy){:.cv-link}
 - 2018\. "Creating Stoplists for Historical Languages," *Digital Classics Online* 4(2):4-20. [[article]](https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/52124){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2017\. "Measuring and Mapping Intergeneric Allusion in Latin Poetry using Tesserae," *Journal of Data Mining and Digital Humanities*. Special Issue on Computer-Aided Processing of Intertextuality in Ancient Languages. [[article]](https://hal.archives-ouvertes.fr/hal-01282568v4/document){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 
@@ -53,8 +54,10 @@ November 2019
 
 #### Manuscripts under review
 
-- 2019\. &quot;The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code,&quot; *Classics@*, special issue on ancient literacies. Co-written with K. Johnson and L. Hollis. [[abstract]](../future-of-ancient-literacy){:.cv-link}
-- 2019\. “Autodidacts and the 'Promise' of Digital Classics,” chapter in *Digital Approaches to Teaching the Ancient Mediterranean*, ed. W. Caraher and S. Heath. Digital Press at U. North Dakota. [[abstract]](../autodidacts){:.cv-link}  
+- 2020\. “Autodidacts and the 'Promise' of Digital Classics,” chapter in *Digital Approaches to Teaching the Ancient Mediterranean*, ed. W. Caraher and S. Heath. Digital Press at U. North Dakota. [[abstract]](../autodidacts){:.cv-link}
+<!--
+- 2020\. “Multiplex Lemmatization with the Classical Language Toolkit,” Studi e Saggi Linguistici. Special issue on strategies and approaches in Latin lemmatization.
+-->
 
 #### Manuscripts in submission
 
@@ -179,13 +182,16 @@ November 2019
 
 - 2017\. "The Ancient Case Against Programming 'Languages'" *Eidolon* April 24. [[link]](https://eidolon.pub/the-ancient-case-against-programming-languages-b8d253ea6e64){:.cv-link}.
 
-#### Web Tutorials
+### Open Access Reviewing
 
-- 2013\. "[Understanding Regular Expressions](http://programminghistorian.org/lessons/understanding-regular-expressions)." *The Programming Historian* 2. Technical Reviewer.
-- 2013\. "[Cleaning Data with OpenRefine](http://programminghistorian.org/lessons/cleaning-data-with-openrefine)." *The Programming Historian* 2. Technical Reviewer.
+- 2019\. Reviewer, "[Introduction to Jupyter Notebooks](https://programminghistorian.org/en/lessons/jupyter-notebooks)." *The Programming Historian*.
+- 2013\. Technical reviewer, "[Understanding Regular Expressions](http://programminghistorian.org/lessons/understanding-regular-expressions)." *The Programming Historian* 2.
+- 2013\. Technical reviewer, "[Cleaning Data with OpenRefine](http://programminghistorian.org/lessons/cleaning-data-with-openrefine)." *The Programming Historian* 2. Technical Reviewer.
 
 ### Service
 
+- 2020\. Program Committee, reviewer. Language Technologies for Historical and Ancient Languages (LT4HALA).
+- 2019\. Program Committee, reviewer. *DH2020*.
 - 2018\. Google Summer of Code mentor for the Classical Language Toolkit project "Expanding the CLTK with Synonyms, Translations and Word Embeddings" (James Gawley).
 - 2017-present. Reviewer for *DSH: Digital Scholarship in the Humanities*.
 - 2017\. Google Summer of Code mentor for the Classical Language Toolkit project "Adding CLTK Functionality for Old and Middle French" (Natasha Voake).
