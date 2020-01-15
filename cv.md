@@ -201,14 +201,9 @@ January 2020
 - 2016-present. Steering Group. NYC Digital Humanities.
 - 2015-present. Steering Committee. Digital Classics Association.
 
-### Grants
+### Grants, Awards and Honors
 
 - 2019\. Society for Classical Studies *Classics Everywhere* grant supporting public programming for local political philosophy reading group.  
-<!--- - 2013\.
---->
-
-### Awards and Honors
-
 - 2018\. *DH2018* ADHO Bursary.
 - 2016\. Google Summer of Code stipend for development on "Latin/Greek Backoff Lemmatizer" for the Classical Language Toolkit.
 <!--- - 2016\. Fordham University, Graduate School of Arts &amp; Sciences, Alumni Dissertation Fellowship. --->
