@@ -19,12 +19,8 @@ January 2020
 ### Academic Employment
 
 - 2019-present. Postdoctoral Fellow. [Quantitative Criticism Lab](https://www.qcrit.org/), University of Texas at Austin.
-- 2016-2019. Assistant Research Scholar: Digital and Special Projects. [Institute for the Study of the Ancient World](http://isaw.nyu.edu) Library.
-
-### Academic Appointments
-- 2020\. Fellow. Center for Hellenic Studies.  
 - 2019-present. Research Associate. [Institute for the Study of the Ancient World](http://isaw.nyu.edu).
-
+- 2016-2019. Assistant Research Scholar: Digital and Special Projects. [Institute for the Study of the Ancient World](http://isaw.nyu.edu) Library.
 
 ### Education
 
@@ -147,6 +143,7 @@ January 2020
 
 ### Invited Talks
 
+- 2019\. “ELIZA, ELIZAE: The Absurdity and (Absurd) Practicality of Latin Chatbots.” MIT Programs in Digital Humanities Seminar. Massachusetts Institute of Technology. October 24.
 - 2019\. "Reassessing Poeticness and Synonymity in Latin Poetry." University of California, Los Angeles. January 10.
 - 2018\. "What is an 'Unpoetic' Word?: Reassessing Latin Literary Criticism with Digital Methods." University of Texas at Austin. November 29.
 - 2018\. "Backoff Lemmatization for Ancient Greek with the Classical Language Toolkit," 2018 Digital Classicist London Seminars Series. Institute of Classical Studies. London, England. July 27.
