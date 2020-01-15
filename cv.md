@@ -14,13 +14,17 @@ ORCID 0000-0003-2158-866X
 
 {:.cv-info}
 **Curriculum Vitae**  
-November 2019
+January 2020
 
-### Academic Employment and Appointments
+### Academic Employment
 
 - 2019-present. Postdoctoral Fellow. [Quantitative Criticism Lab](https://www.qcrit.org/), University of Texas at Austin.
-- 2019-present. Research Associate. [Institute for the Study of the Ancient World](http://isaw.nyu.edu).
 - 2016-2019. Assistant Research Scholar: Digital and Special Projects. [Institute for the Study of the Ancient World](http://isaw.nyu.edu) Library.
+
+### Academic Appointments
+- 2020\. Fellow. Center for Hellenic Studies.  
+- 2019-present. Research Associate. [Institute for the Study of the Ancient World](http://isaw.nyu.edu).
+
 
 ### Education
 
@@ -55,8 +59,7 @@ November 2019
 #### Manuscripts under review
 
 - 2020\. “Autodidacts and the 'Promise' of Digital Classics,” chapter in *Digital Approaches to Teaching the Ancient Mediterranean*, ed. W. Caraher and S. Heath. Digital Press at U. North Dakota. [[abstract]](../autodidacts){:.cv-link}
-<!--
-- 2020\. “Multiplex Lemmatization with the Classical Language Toolkit,” Studi e Saggi Linguistici. Special issue on strategies and approaches in Latin lemmatization.
+<!-- - 2020\. “Multiplex Lemmatization with the Classical Language Toolkit,” Studi e Saggi Linguistici. Special issue on strategies and approaches in Latin lemmatization.
 -->
 
 #### Manuscripts in submission
@@ -203,8 +206,9 @@ November 2019
 
 ### Grants
 
-- 2019\. Society for Classical Studies *Classics Everywhere* grant supporting public programming for local political philosophy reading group.
-- 2013\.
+- 2019\. Society for Classical Studies *Classics Everywhere* grant supporting public programming for local political philosophy reading group.  
+<!--- - 2013\.
+--->
 
 ### Awards and Honors
 
