@@ -219,7 +219,7 @@ January 2020
 - 2013\. HASTAC Scholar.
 - 2012\. National Endowment for the Humanities/Tufts University. Institutes for Advanced Topics in the Digital Humanities grant.
 <!--- - 2012-2010\. Fordham University, Graduate School of Arts &amp; Sciences. Teaching Fellowship. --->
-- - 2011\. New York Classical Club. American School of Classical Studies at Athens Summer Scholarship. -
+- 2011\. New York Classical Club. American School of Classical Studies at Athens Summer Scholarship.
 <!--- - 2009\. Fordham University, Graduate School of Arts &amp; Sciences. Graduate Assistantship. --->
 
 ### Teaching Experience
