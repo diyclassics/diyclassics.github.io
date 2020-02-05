@@ -54,6 +54,7 @@ January 2020
 
 #### Manuscripts under review
 
+<!-- - 2021\. "Language is not a Default Setting: Countering Digital Humanities’ English Problem," chapter in *Debates in the Digital Humanities 2021*, eds. L. Klein and M. Gold. University of Minnesota/Manifold. -->
 - 2020\. “Autodidacts and the 'Promise' of Digital Classics,” chapter in *Digital Approaches to Teaching the Ancient Mediterranean*, ed. W. Caraher and S. Heath. Digital Press at U. North Dakota. [[abstract]](../autodidacts){:.cv-link}
 <!-- - 2020\. “Multiplex Lemmatization with the Classical Language Toolkit,” Studi e Saggi Linguistici. Special issue on strategies and approaches in Latin lemmatization.
 -->
@@ -102,7 +103,7 @@ January 2020
 ### Conference Papers
 
 - 2020\. "'Poeticness' as a Continuous Variable: Rethinking Prosaism in Horace's Odes 4.9," Society of Classical Studies Annual Meeting. Washington, D.C. January 4. [[abstract]](../poeticness){:.cv-link}
-- 2019\. "Hacking Multi-word Named Entity Recognition on HathiTrust Extracted Features Data," at ACH2019. Pittsburgh, Pa. July 23. [[abstract]](../multiword-ner){:.cv-link}
+- 2019\. "Hacking Multi-word Named Entity Recognition on HathiTrust Extracted Features Data," at ACH2019. Pittsburgh, Pa. July 23. [[abstract]](../multiword-ner){:.cv-link} [[slides]](https://docs.google.com/presentation/d/1gjppCZ0ZHdbV5w4djgJoBypLSAY_Q7Z3JuANASpJ4tE/edit#slide=id.p){:.cv-link}
 - 2019\. "Crowdsourcing Open Educational Resources for Classics," at American Classical League Institute. New York, NY. June 29.
 - 2019\. "Multiplex Lemmatization with the Classical Language Toolkit," at the [First LiLa Workshop: Linguistic Resources & NLP Tools for Latin](https://lila-erc.eu/events/). Milan, Italy. June 3. [[abstract]](../multiplex-lemmatization){:.cv-link}
 - 2019\. "Object-Oriented Philology," at Digital Classics Association session on *Reconnecting the Classics*. Society of Classical Studies Annual Meeting. San Diego, Ca. January 5.
