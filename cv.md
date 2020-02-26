@@ -227,7 +227,7 @@ January 2020
 
 - Introduction to Latin I (Fall 2013, Fall 2010, Fall 2009); Textbooks: *Learn to Read Latin*; *Wheelock’s Latin*.
 - Introduction to Latin II (Spring 2014, Spring 2010); Textbooks: *Wheelock’s Latin*; *Latin via Ovid*.
-- Intermediate Latin (Fall 2019, Fall 2013, Fall 2012)
+- Intermediate Latin ([Fall 2019](../2019-09-01-fordham-f2019-latn1501), Fall 2013, Fall 2012)
 - Latin Language &amp; Literature (Spring 2015, Spring 2010: Curriculum Authors; Spring 2013: Ovid)<br><br>
 - Introduction to Greek I (Fall 2011); Textbook: *Greek: An Intensive Course*.
 - Introduction to Greek II (Spring 2011) Textbook: *Greek: An Intensive Course*.
