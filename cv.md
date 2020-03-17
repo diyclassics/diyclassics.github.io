@@ -47,15 +47,18 @@ January 2020
 
 #### Chapters
 
-- 2019\. “Building a Text Analysis Pipeline for Classical Languages,” chapter in *Digital Classical Philology*, ed. M. Berti. DeGruyter. [[chapter]](http://bit.ly/dcp-burns){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
+- 2020\. “Autodidacts and the 'Promise' of Digital Classics,” chapter in *Digital Approaches to Teaching the Ancient Mediterranean*, ed. W. Caraher and S. Heath. Digital Press at U. North Dakota: 83-95. [[chapter]](https://thedigitalpress.org/datam/) [[abstract]](../autodidacts){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
+- 2019\. “Building a Text Analysis Pipeline for Classical Languages,” chapter in *Digital Classical Philology*, ed. M. Berti. DeGruyter: 159-176. [[chapter]](http://bit.ly/dcp-burns){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
+
 
 <!-- #### Manuscripts in press
  -->
 
-#### Manuscripts under review
+<!-- #### Manuscripts under review
+ -->
 
 <!-- - 2021\. "Language is not a Default Setting: Countering Digital Humanities’ English Problem," chapter in *Debates in the Digital Humanities 2021*, eds. L. Klein and M. Gold. University of Minnesota/Manifold. -->
-- 2020\. “Autodidacts and the 'Promise' of Digital Classics,” chapter in *Digital Approaches to Teaching the Ancient Mediterranean*, ed. W. Caraher and S. Heath. Digital Press at U. North Dakota. [[abstract]](../autodidacts){:.cv-link}
+
 <!-- - 2020\. “Multiplex Lemmatization with the Classical Language Toolkit,” Studi e Saggi Linguistici. Special issue on strategies and approaches in Latin lemmatization.
 -->
 
