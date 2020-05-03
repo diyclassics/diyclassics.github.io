@@ -186,6 +186,10 @@ March 2020
 
 - 2017\. "The Ancient Case Against Programming 'Languages'" *Eidolon* April 24. [[link]](https://eidolon.pub/the-ancient-case-against-programming-languages-b8d253ea6e64){:.cv-link}.
 
+#### Blog Posts
+
+- 2020\. "Evaluating Classics in Social Media from Twitter to Facebook and Beyond," Society for Classical Studies Blog. May 1. [[link]](https://classicalstudies.org/scs-blog/patrick-j-burns/blog-evaluating-classics-social-media-twitter-facebook-and-beyond){:.cv-link}.
+
 ### Open Access Reviewing
 
 - 2019\. Reviewer, "[Introduction to Jupyter Notebooks](https://programminghistorian.org/en/lessons/jupyter-notebooks)." *The Programming Historian*.
