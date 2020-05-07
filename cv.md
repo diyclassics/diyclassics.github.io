@@ -26,7 +26,6 @@ May 2020
 
 - 2016\. Ph.D., Classics. Fordham University.
 - 2012\. M.A., Classics. Fordham University.
-<!--- - 2008\. Postbaccalaureate Certificate, Classics. Columbia University. --->
 - 1998\. B.A., English Textual Studies &amp; Journalism. Syracuse University.
 
 #### Dissertation
@@ -50,28 +49,12 @@ May 2020
 - 2020\. “Autodidacts and the 'Promise' of Digital Classics,” chapter in *Digital Approaches to Teaching the Ancient Mediterranean*, ed. W. Caraher and S. Heath. Digital Press at U. North Dakota: 83-95. [[chapter]](https://thedigitalpress.org/datam/) [[abstract]](../autodidacts){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2019\. “Building a Text Analysis Pipeline for Classical Languages,” chapter in *Digital Classical Philology*, ed. M. Berti. DeGruyter: 159-176. [[chapter]](http://bit.ly/dcp-burns){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 
-
 <!-- #### Manuscripts in press
  -->
 
-<!-- #### Manuscripts under review
- -->
-
-<!-- - 2021\. "Language is not a Default Setting: Countering Digital Humanities’ English Problem," chapter in *Debates in the Digital Humanities 2021*, eds. L. Klein and M. Gold. University of Minnesota/Manifold. -->
-
-<!-- - 2020\. “Multiplex Lemmatization with the Classical Language Toolkit,” Studi e Saggi Linguistici. Special issue on strategies and approaches in Latin lemmatization.
--->
-
+<!--
 #### Manuscripts in submission
-
-- "*Carpe Iter*: A Case for Latin-themed Field Trips," *Teaching Classical Languages*
-
-#### Manuscripts in preparation
-
-- "Venus and *venus* in Lucan’s *Bellum civile*"
-- "Negativity and Negative Diction in Persius"
-- "A Pun on Argo in Apollonius Rhodius, *Argonautica* 1.1"
-- "Bootstrapping Linked Open Data in Library Catalog Records"
+-->
 
 #### Reviews
 
@@ -159,7 +142,6 @@ May 2020
 <!--- - 2017\. "*Descriptio Psittaci*: Looking at Parrots from Aristotle to Gesner". *Circle Through New York* exhibition, Insitute for the Study of the Ancient World. May 12. --->
 <!--- - 2017\. "A (Cautious) Defense of Google Translate for Latin". Marymount School Latin Club. May 3. --->
 - 2016\. "Cicero's Hardest Sentence?: Measuring Readability in Latin Literature". Drew University Classics Department. December 1. [[abstract]](../ciceros-hardest-sentence){:.cv-link} [[code]](https://github.com/diyclassics/readability/blob/master/Cicero%20Readability%20Final.ipynb){:.cv-link}
-
 <!--- - 2016\. "What is PubSyr, or Why I Made a Latin Twitterbot". Marymount School Latin Club. May 12.
 - 2015\. "Taking Latin Prose Comp (By Strategy): A Latin Translation of *Oblique Strategies*." Marymount School Latin Club. April 14. [[slides]](../assets/pdfs/taking-latin-prose-comp.pdf){:.cv-link} --->
 <!--- - 2012\. "Some Poetic and Artistic Frames in Theocritus." Co-presented with Carolyn Laferriere. *Within the Frame: A Critical Metaphor in Art and Literature*, The Classics Work in Progress Group, Yale University. January 27. --->
@@ -177,7 +159,6 @@ May 2020
 - 2016-present. *ISAW Library Titles Map*. Developer.
 - 2016-present. *Digital Central Asian Archaeology* collection. Developer. [[link]](http://dcaa.hosting.nyu.edu/){:.cv-link}.
 - 2018-present. *Digital South Caucasus* collection. Developer.
-
 <!--- - 2014-2016. A Concordance of Hellenistic Philosophy. With Brian Johnson, Department of Philosophy, Fordham University. [[link]](https://hellenistic.ace.fordham.edu){:.cv-link}. --->
 
 ### Open Access Writing
@@ -214,16 +195,9 @@ May 2020
 - 2019\. Society for Classical Studies *Classics Everywhere* grant supporting public programming for local political philosophy reading group.  
 - 2018\. *DH2018* ADHO Bursary.
 - 2016\. Google Summer of Code stipend for development on "Latin/Greek Backoff Lemmatizer" for the Classical Language Toolkit.
-<!--- - 2016\. Fordham University, Graduate School of Arts &amp; Sciences, Alumni Dissertation Fellowship. --->
-<!--- - 2015\. Fordham University, Graduate School of Arts &amp; Sciences. Research Fellowship. --->
-<!--- - 2014\. Fordham University, Graduate School of Arts &amp; Sciences. Teaching Associateship. --->
-<!--- - 2013\. Fordham University, Graduate School of Arts &amp; Sciences. Summer Research Grant. --->
-<!--- - 2013\. Fordham University, Graduate School of Arts &amp; Sciences. Senior Teaching Fellowship. --->
 - 2013\. HASTAC Scholar.
 - 2012\. National Endowment for the Humanities/Tufts University. Institutes for Advanced Topics in the Digital Humanities grant.
-<!--- - 2012-2010\. Fordham University, Graduate School of Arts &amp; Sciences. Teaching Fellowship. --->
 - 2011\. New York Classical Club. American School of Classical Studies at Athens Summer Scholarship.
-<!--- - 2009\. Fordham University, Graduate School of Arts &amp; Sciences. Graduate Assistantship. --->
 
 ### Teaching Experience
 
@@ -244,12 +218,6 @@ May 2020
 - Texts and Contexts: Myth in Greco-Roman Literature (Spring 2013)<br><br>
 - Understanding Historical Change: Ancient Rome (Spring 2012)<br><br>
 
-<!---
-#### Teaching Assistant, Columbia University
-
-- Introduction to Latin I (Spring 2008)
---->
-
 ### Library and Scholarly Publication Experience
 
 #### Special Collections Work
@@ -269,10 +237,10 @@ May 2020
 <!--- - 2016-2010\. Organizer of Iter Zoologicum: A Latin Walk Through the Bronx Zoo. --->
 - 2012-2014\. Founder and co-director of the Fordham Graduate Students Digital Humanities Group.
 
-<!--- 2013\. Participated in the Dickinson College Summer Latin Workshop on Ovid's Fasti IV.
+<!---
+2013\. Participated in the Dickinson College Summer Latin Workshop on Ovid's Fasti IV.
 - 2012\. Jesuit Pedagogy Seminar, Fordham University.
 - 2011\. American School of Classical Studies in Athens, Summer Session.
-- 2011\. Co-organizer of "The Caffeinated Classicist," a series of professional development workshops for Fordham University graduate students in Classics.
 - 2010\. Co-organizer of "Digital Practicum in Classics," a workshop on for Fordham College undergraduate classics majors.
 - 2007\. Studied under Fr. Reginald Foster at Aestiva Romae Latinitas.
 --->
@@ -313,13 +281,3 @@ May 2020
 <!---VISUALIZATION: Add D3.js --->
 <!---INFRASTRUCTURE: Add AWS --->
 <!---MAPPING: Add QGIS --->
-
-<!---
-
-### References
-
-- David Ratzan. Head Librarian, Institute for the Study of the Ancient World. david.ratzan@nyu.edu. (212) 992-7832.
-- Matthew McGowan. Associate Professor, Fordham University. mamcgowan@fordham.edu. (718) 817-3031.
-- Neil Coffee. Associate Professor, University at Buffalo. ncoffee@buffalo.edu. (716) 645-2154.
-
---->
