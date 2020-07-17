@@ -16,7 +16,7 @@ ORCID 0000-0003-2158-866X
 **Curriculum Vitae**  
 July 2020
 
-### Academic Employment
+### Academic Employment and Appointments
 
 - 2019-present. Postdoctoral Fellow. [Quantitative Criticism Lab](https://www.qcrit.org/), University of Texas at Austin.
 - 2019-present. Research Associate. [Institute for the Study of the Ancient World](http://isaw.nyu.edu).
