@@ -16,7 +16,7 @@ ORCID 0000-0003-2158-866X
 **Curriculum Vitae**  
 July 2020
 
-### Academic Employment
+### Academic Employment and Appointments
 
 - 2019-present. Postdoctoral Fellow. [Quantitative Criticism Lab](https://www.qcrit.org/), University of Texas at Austin.
 - 2019-present. Research Associate. [Institute for the Study of the Ancient World](http://isaw.nyu.edu).
@@ -40,7 +40,7 @@ July 2020
 
 #### Articles
 
-- 2019\. &quot;The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code,&quot; *Classics@* 17, special issue on ancient literacies. Co-written with K. Johnson and L. Hollis. [[full text]](https://chs.harvard.edu/CHS/article/display/6946){:.cv-link} [[abstract]](../future-of-ancient-literacy){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>  
+- 2019\. "The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code," *Classics@* 17, special issue on ancient literacies. Co-written with K. Johnson and L. Hollis. [[full text]](https://chs.harvard.edu/CHS/article/display/6946){:.cv-link} [[abstract]](../future-of-ancient-literacy){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>  
 - 2018\. "Creating Stoplists for Historical Languages," *Digital Classics Online* 4(2):4-20. [[article]](https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/52124){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2017\. "Measuring and Mapping Intergeneric Allusion in Latin Poetry using Tesserae," *Journal of Data Mining and Digital Humanities*. Special Issue on Computer-Aided Processing of Intertextuality in Ancient Languages. [[article]](https://hal.archives-ouvertes.fr/hal-01282568v4/document){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 
