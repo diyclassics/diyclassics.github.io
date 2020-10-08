@@ -14,7 +14,7 @@ ORCID 0000-0003-2158-866X
 
 {:.cv-info}
 **Curriculum Vitae**  
-July 2020
+September 2020
 
 ### Academic Employment and Appointments
 
@@ -40,9 +40,14 @@ July 2020
 
 #### Articles
 
+- 2020\. "Ensemble Lemmatization with the Classical Language Toolkit," *Studi e Saggi Linguistici* 58(1): 157-176. [https://doi.org/10.4454/ssl.v58i1.273](https://doi.org/10.4454/ssl.v58i1.273) [[article]](https://www.studiesaggilinguistici.it/index.php/ssl/article/view/273){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>  
 - 2019\. "The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code," *Classics@* 17, special issue on ancient literacies. Co-written with K. Johnson and L. Hollis. [[full text]](https://chs.harvard.edu/CHS/article/display/6946){:.cv-link} [[abstract]](../future-of-ancient-literacy){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>  
 - 2018\. "Creating Stoplists for Historical Languages," *Digital Classics Online* 4(2):4-20. [[article]](https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/52124){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2017\. "Measuring and Mapping Intergeneric Allusion in Latin Poetry using Tesserae," *Journal of Data Mining and Digital Humanities*. Special Issue on Computer-Aided Processing of Intertextuality in Ancient Languages. [[article]](https://hal.archives-ouvertes.fr/hal-01282568v4/document){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
+
+#### Preprints
+
+- 2020\. "Latin BERT: A Contextual Language Model for Classical Philology." arXiv:2009.10053 [cs.CL]. Co-written with D. Bamman. [[preprint]](https://arxiv.org/abs/2009.10053){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>  
 
 #### Chapters
 

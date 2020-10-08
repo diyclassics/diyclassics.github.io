@@ -2,7 +2,7 @@
     <h2 align="center"><a href="http://diyclassics.github.io">Academic Website for Patrick J. Burns</a></h2>
 </p>
 
-<p>Based on [Indigo Minimalist Jekyll](https://github.com/sergiokopplin/indigo) Template by Sérgio Kopplin
+Based on [Indigo Minimalist Jekyll](https://github.com/sergiokopplin/indigo) Template by Sérgio Kopplin
 
 ---
 
