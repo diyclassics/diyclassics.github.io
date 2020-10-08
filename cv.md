@@ -130,7 +130,7 @@ July 2020
 
 ### Invited Talks
 
-- 2019\. “ELIZA, ELIZAE: The Absurdity and (Absurd) Practicality of Latin Chatbots.” MIT Programs in Digital Humanities Seminar. Massachusetts Institute of Technology. October 24.
+- 2019\. “ELIZA, ELIZAE: The Absurdity and (Absurd) Practicality of Latin Chatbots.” MIT Programs in Digital Humanities Seminar. Massachusetts Institute of Technology. October 24. [[abstract]](../stopwords){:.cv-link}
 - 2019\. "Reassessing Poeticness and Synonymity in Latin Poetry." University of California, Los Angeles. January 10.
 - 2018\. "What is an 'Unpoetic' Word?: Reassessing Latin Literary Criticism with Digital Methods." University of Texas at Austin. November 29.
 - 2018\. "Backoff Lemmatization for Ancient Greek with the Classical Language Toolkit," 2018 Digital Classicist London Seminars Series. Institute of Classical Studies. London, England. July 27.
