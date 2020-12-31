@@ -14,7 +14,7 @@ ORCID 0000-0003-2158-866X
 
 {:.cv-info}
 **Curriculum Vitae**  
-November 2020
+January 2021
 
 ### Academic Employment and Appointments
 
@@ -93,7 +93,8 @@ November 2020
 
 ### Conference Papers
 
-- 2020\. "'Poeticness' as a Continuous Variable: Rethinking Prosaism in Horace's Odes 4.9," Society of Classical Studies Annual Meeting. Washington, D.C. January 4. [[abstract]](../poeticness){:.cv-link}
+- 2021\. "Metaformalism, or Setting a Baseline for Detecting Anagrammatic Play in Ovid’s *Metamorphoses*," Society of Classical Studies Annual Meeting. Washington, D.C. January 4. [[abstract]](../metaformalism){:.cv-link}
+- 2020\. "'Poeticness' as a Continuous Variable: Rethinking Prosaism in Horace's *Odes* 4.9," Society of Classical Studies Annual Meeting. Washington, D.C. January 4. [[abstract]](../poeticness){:.cv-link}
 - 2019\. "Hacking Multi-word Named Entity Recognition on HathiTrust Extracted Features Data," at ACH2019. Pittsburgh, Pa. July 23. [[abstract]](../multiword-ner){:.cv-link} [[slides]](https://docs.google.com/presentation/d/1gjppCZ0ZHdbV5w4djgJoBypLSAY_Q7Z3JuANASpJ4tE/edit#slide=id.p){:.cv-link}
 - 2019\. "Crowdsourcing Open Educational Resources for Classics," at American Classical League Institute. New York, NY. June 29.
 - 2019\. "Multiplex Lemmatization with the Classical Language Toolkit," at the [First LiLa Workshop: Linguistic Resources & NLP Tools for Latin](https://lila-erc.eu/events/). Milan, Italy. June 3. [[abstract]](../multiplex-lemmatization){:.cv-link}
