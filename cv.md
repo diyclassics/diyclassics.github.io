@@ -76,7 +76,7 @@ January 2021
 - 2018\. Latin language model for spaCy. [[code]](https://github.com/diyclassics/latin-spacy-models){:.cv-link}
 
 ### Conferences
-- 2020\. *Digital Humanities Beyond Modern English*. Co-organizer with Pramit Chaudhuri and Joseph Dexter. University of Teaxs at Austin. Postponed. [[site]](https://qcrit.github.io/dhbme/){:.cv-link}
+- 2020\. *Digital Humanities Beyond Modern English*. Co-organizer with Pramit Chaudhuri and Joseph Dexter. University of Texas at Austin. Postponed. [[site]](https://qcrit.github.io/dhbme/){:.cv-link}
 - 2019\. *Digital Humanities Beyond Modern English*. Co-organizer with Pramit Chaudhuri and Joseph Dexter. Dartmouth College. April 23-25. [[site]](https://qcrit.github.io/dhbme/){:.cv-link}
 - 2018\. *Future Philologies: Digital Directions in Text for Historical Languages*. Organizer. Institute for the Study of the Ancient World. April 20. [[site]](https://diyclassics.github.io/future-philologies/){:.cv-link}
 
@@ -99,7 +99,7 @@ January 2021
 - 2019\. "Crowdsourcing Open Educational Resources for Classics," at American Classical League Institute. New York, NY. June 29.
 - 2019\. "Multiplex Lemmatization with the Classical Language Toolkit," at the [First LiLa Workshop: Linguistic Resources & NLP Tools for Latin](https://lila-erc.eu/events/). Milan, Italy. June 3. [[abstract]](../multiplex-lemmatization){:.cv-link}
 - 2019\. "Object-Oriented Philology," at Digital Classics Association session on *Reconnecting the Classics*. Society of Classical Studies Annual Meeting. San Diego, Ca. January 5.
-- 2018\. "Lucan's *tres libri*: A reconsideration of arrangement and argument in the Bellum civile," Classical Association of the Atlantic States Annual Meeting. Philadelphia, Pa. October 4.
+- 2018\. "Lucan's *tres libri*: A reconsideration of arrangement and argument in the *Bellum Civile*," Classical Association of the Atlantic States Annual Meeting. Philadelphia, Pa. October 4.
 - 2018\. "Carpe DM: Twitter and the Rise of the Social Media Scholiast," *5000 Years of Comments: The Development of Commentary from Ancient Mesopotamia to the Age of Information*, Center for Hellenic Studies. August 7.
 - 2018\. "Backoff Tagging as a Philological Method," *DH2018*. Mexico City, Mex. June 26. [[abstract]](../backoff-lemmatization){:.cv-link}
 - 2017\. “Mapping Library Subject Headings with the HathiTrust Extracted Features Dataset.” *Digital Publication in Mediterranean Archaeology*, Institute for the Study of the Ancient World. October 20.
