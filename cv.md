@@ -212,6 +212,7 @@ January 2021
 
 #### Instructor, Fordham University
 
+- Latin Prose Composition (Graduate Seminar, Spring 2021)<br><br>
 - Introduction to Digital Literary Studies ([Graduate Seminar, Fall 2020](../fordham-f2020-clas6535))<br><br>
 - Introduction to Latin I (Fall 2013, Fall 2010, Fall 2009); Textbooks: *Learn to Read Latin*; *Wheelock’s Latin*.
 - Introduction to Latin II (Spring 2014, Spring 2010); Textbooks: *Wheelock’s Latin*; *Latin via Ovid*.
