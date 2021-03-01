@@ -14,7 +14,7 @@ ORCID 0000-0003-2158-866X
 
 {:.cv-info}
 **Curriculum Vitae**  
-February 2021
+March 2021
 
 ### Academic Employment and Appointments
 
@@ -94,6 +94,7 @@ February 2021
 ### Conference Papers
 
 - 2021\. "*Sequitur, Non Sequitur*: Word Prediction in the Latin Classroom," American Classical League Institute. Online. June 21.
+- 2021\. "Conversational Agents from the Neo-Latin Colloquia to ChatterBot," *Neo-Latin Studies and Digital Humanities*. Online. April 15.
 - 2021\. "Metaformalism, or Setting a Baseline for Detecting Anagrammatic Play in Ovid’s *Metamorphoses*," Society of Classical Studies Annual Meeting. Washington, D.C. January 4. [[abstract]](../metaformalism){:.cv-link}
 - 2020\. "'Poeticness' as a Continuous Variable: Rethinking Prosaism in Horace's *Odes* 4.9," Society of Classical Studies Annual Meeting. Washington, D.C. January 4. [[abstract]](../poeticness){:.cv-link}
 - 2019\. "Hacking Multi-word Named Entity Recognition on HathiTrust Extracted Features Data," at ACH2019. Pittsburgh, Pa. July 23. [[abstract]](../multiword-ner){:.cv-link} [[slides]](https://docs.google.com/presentation/d/1gjppCZ0ZHdbV5w4djgJoBypLSAY_Q7Z3JuANASpJ4tE/edit#slide=id.p){:.cv-link}
@@ -137,6 +138,7 @@ February 2021
 
 ### Invited Talks
 
+- 2021\. "'Pragmatic' Scholarship: What Coding Has Taught Me about Humanities Research," Washington and Lee University. March 25.
 - 2019\. “ELIZA, ELIZAE: The Absurdity and (Absurd) Practicality of Latin Chatbots.” MIT Programs in Digital Humanities Seminar. Massachusetts Institute of Technology. October 24. [[abstract]](../stopwords){:.cv-link}
 - 2019\. "Reassessing Poeticness and Synonymity in Latin Poetry." University of California, Los Angeles. January 10.
 - 2018\. "What is an 'Unpoetic' Word?: Reassessing Latin Literary Criticism with Digital Methods." University of Texas at Austin. November 29.
@@ -186,11 +188,11 @@ February 2021
 
 ### Service
 
+- 2021-present. Advisory Board member. [*The Bridge*](https://bridge.haverford.edu/about/people), Haverford College.
 - 2020\. Program Committee, reviewer. Language Technologies for Historical and Ancient Languages (LT4HALA).
 - 2019\. Program Committee, reviewer. *DH2020*.
-- 2018\. Google Summer of Code mentor for the Classical Language Toolkit project "Expanding the CLTK with Synonyms, Translations and Word Embeddings" (James Gawley).
 - 2017-present. Reviewer for *DSH: Digital Scholarship in the Humanities*.
-- 2017\. Google Summer of Code mentor for the Classical Language Toolkit project "Adding CLTK Functionality for Old and Middle French" (Natasha Voake).
+- 2017-2018. Google Summer of Code mentor for Classical Language Toolkit.
 - 2016-present. Committee for Public Information and Media Relations. Society for Classical Studies.
 - 2016\. Program Committee, reviewer. Florida Artificial Intelligence Research Society 30th International Conference, special track for "Natural Language Processing of Ancient and other Low-resource Languages."
 - 2016-present. Graduate Student Award selection committee. NYC Digital Humanities.
