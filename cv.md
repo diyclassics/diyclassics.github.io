@@ -45,6 +45,10 @@ April 2021
 - 2018\. "Creating Stoplists for Historical Languages," *Digital Classics Online* 4(2):4-20. [[article]](https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/52124){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2017\. "Measuring and Mapping Intergeneric Allusion in Latin Poetry using Tesserae," *Journal of Data Mining and Digital Humanities*. Special Issue on Computer-Aided Processing of Intertextuality in Ancient Languages. [[article]](https://hal.archives-ouvertes.fr/hal-01282568v4/document){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 
+#### Papers
+
+- 2021\. "Profiling of Intertextuality in Latin Literature Using Word Embeddings." in *Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*. Co-authored with J.A. Brofos, K. Li, P. Chaudhuri, and J.P. Dexter. [[paper]](https://www.aclweb.org/anthology/2021.naacl-main.389){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
+
 #### Preprints
 
 - 2020\. "Latin BERT: A Contextual Language Model for Classical Philology." arXiv:2009.10053 [cs.CL]. Co-written with D. Bamman. [[preprint]](https://arxiv.org/abs/2009.10053){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>  
