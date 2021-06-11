@@ -23,4 +23,4 @@ We present Latin BERT, a contextual language model for the Latin language, train
 
 {:.paper-section-heading}
 ## Citation
-Bamman, D., and Burns, P.J. 2020. “Latin BERT: A Contextual Language Model for Classical Philology.” arXiv:2009.10053 [Cs] (September 21). http://arxiv.org/abs/2009.10053.  
+Bamman, D., and Burns, P.J. 2020. “Latin BERT: A Contextual Language Model for Classical Philology.” arXiv:2009.10053 [Cs]. http://arxiv.org/abs/2009.10053.  
