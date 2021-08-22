@@ -51,7 +51,7 @@ August 2021
 
 #### Accepted Papers
 
-- 2021\. "The Classical Language Toolkit: An NLP Framework for Pre-Modern Languages," at The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021). Co-authored with K.P. Johnson, John Stewart, Todd Cook, Clément Besnier, and William Mattingly.
+- 2021\. "The Classical Language Toolkit: An NLP Framework for Pre-Modern Languages," at The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021). Co-authored with K.P. Johnson, John Stewart, Todd Cook, Clément Besnier, and William Mattingly. [[paper]](https://aclanthology.org/2021.acl-demo.3/){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 
 #### Preprints
 
