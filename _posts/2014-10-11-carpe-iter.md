@@ -47,16 +47,18 @@ Burns, P.J. 2014. “Carpe Iter: A Case for Latin-Themed Field Trips,” paper d
 {:.paper-section-heading}
 ### Bibtex
 
+<!-- {% raw %} -->
 ```
 @misc{burns_carpe_2014,  
-    author = {Burns, Patrick},  
-    title = {\textit{{Carpe} iter}: {A} {Case} for {Latin}-{Themed} {Field} {Trips}},
-	abstract = {An informal series of Itinera Latina have taken place in New York City in recent years. These began in 2008 with Prof. Matthew McGowan’s Iter Botanicum at the New York Botanical Gardens. Following this example, there have been similar walks such as the Iter Zoologicum at the Bronx Zoo and the Iter Museicum at the Metropolitan Museum of Art. These events provide a social context for practicing Latin outside of the classroom and a much-needed leisure activity to accompany the rigors of formal instruction. In this paper I will argue for the benefits of Latin-themed field trips for learners all of ages and levels, specifically that they offer learning experiences which are: 1. authentic, 2. direct, 3. free-choice, 4. novel, and 5. fun. The first part of this paper will be a review of the three Itinera listed above, including the motivations for organizing the walks, a brief history of the events, and anecdotes about student participation. At the heart of the talk will be a discussion about how the events fit into the larger landscape of Latin learning. The walks have an affinity with aspects of the active Latin movement, such as the spoken-Latin conventicula and cenae Latinae which have gained in popularity in recent years: 1. They all seek to provide a contemporary and immediate context in which Latin students practice their language skills, and 2.They promote a social rather than educational mode of learning. Accordingly, this paper will situate the walks in this larger context of the pedagogical goals of active Latin. I will conclude with practical advice for those interested in organizing an Iter Latinum for their own school or community.},  
-    shorttitle = {\textit{{Carpe} iter}},,  
-    url = {https://diyclassics.github.io/carpe-iter/},      
-	urldate = {2021-08-18},  
-	month = oct,  
-	year = {2014},  
+    author = {Burns, Patrick J.},  
+    title = {\textit{{Carpe} iter}: {A} {Case} for {Latin}-{Themed} {Field} {Trips}},  
+    abstract = {An informal series of Itinera Latina have taken place in New York City in recent years. These began in 2008 with Prof. Matthew McGowan’s Iter Botanicum at the New York Botanical Gardens. Following this example, there have been similar walks such as the Iter Zoologicum at the Bronx Zoo and the Iter Museicum at the Metropolitan Museum of Art. These events provide a social context for practicing Latin outside of the classroom and a much-needed leisure activity to accompany the rigors of formal instruction. In this paper I will argue for the benefits of Latin-themed field trips for learners all of ages and levels, specifically that they offer learning experiences which are: 1. authentic, 2. direct, 3. free-choice, 4. novel, and 5. fun. The first part of this paper will be a review of the three Itinera listed above, including the motivations for organizing the walks, a brief history of the events, and anecdotes about student participation. At the heart of the talk will be a discussion about how the events fit into the larger landscape of Latin learning. The walks have an affinity with aspects of the active Latin movement, such as the spoken-Latin conventicula and cenae Latinae which have gained in popularity in recent years: 1. They all seek to provide a contemporary and immediate context in which Latin students practice their language skills, and 2.They promote a social rather than educational mode of learning. Accordingly, this paper will situate the walks in this larger context of the pedagogical goals of active Latin. I will conclude with practical advice for those interested in organizing an Iter Latinum for their own school or community.},  
+    shorttitle = {\textit{{Carpe} iter}},  
+    url = {https://diyclassics.github.io/carpe-iter/},  
+    urldate = {2021-08-18},  
+    month = oct,  
+    year = {2014},  
     address = {Washington, D.C.},  
 }  
 ```
+<!-- {% endraw %} -->
