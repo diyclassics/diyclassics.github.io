@@ -103,7 +103,7 @@ August 2021
 
 - 2022\. "Toward a Data-driven Latin Prose Composition Course," Society of Classical Studies Annual Meeting. San Francisco. January 8.  
 - 2021\. "Latin Literary Acrostics as Information Technology," Classical Association of the Atlantic States Annual Meeting. New Brunswick, NJ. October 14.  
-- 2021\. "*Sequitur, Non Sequitur*: Word Prediction in the Latin Classroom," American Classical League Institute. Online. June 21.
+- 2021\. "*Sequitur, Non Sequitur*: Word Prediction in the Latin Classroom," American Classical League Institute. Online. June 21. [[abstract]](../sequitur){:.cv-link}  
 - 2021\. "Profiling of Intertextuality in Latin Literature Using Word Embeddings," NAACL-HLT 2021. Online. June 6. Co-authored with K. Li, J. Brofos, J. Dexter, and P. Chaudhuri.
 - 2021\. "Conversational Agents from the Neo-Latin Colloquia to ChatterBot," *Neo-Latin Studies and Digital Humanities*. Online. April 15.
 - 2021\. "Metaformalism, or Setting a Baseline for Detecting Anagrammatic Play in Ovid’s *Metamorphoses*," Society of Classical Studies Annual Meeting. Washington, D.C. January 4. [[abstract]](../metaformalism){:.cv-link}
