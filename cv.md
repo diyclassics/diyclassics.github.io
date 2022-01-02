@@ -14,13 +14,17 @@ ORCID 0000-0003-2158-866X
 
 {:.cv-info}
 **Curriculum Vitae**  
-August 2021
+January 2022
 
-### Academic Employment and Appointments
+### Academic Employment
 
-- 2019-present. Postdoctoral Fellow. [Quantitative Criticism Lab](https://www.qcrit.org/), University of Texas at Austin.
-- 2019-present. Research Associate. [Institute for the Study of the Ancient World](http://isaw.nyu.edu).
+- 2022-present. Research Associate. Department of Human Evolutionary Biology, Harvard University.
+- 2019-2021. Postdoctoral Fellow. [Quantitative Criticism Lab](https://www.qcrit.org/), University of Texas at Austin.
 - 2016-2019. Assistant Research Scholar: Digital and Special Projects. [Institute for the Study of the Ancient World](http://isaw.nyu.edu) Library.
+
+### Academic Appointments
+
+- 2019-present. Research Associate. [Institute for the Study of the Ancient World](http://isaw.nyu.edu).
 
 ### Education
 
