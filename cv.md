@@ -14,19 +14,22 @@ ORCID 0000-0003-2158-866X
 
 {:.cv-info}
 **Curriculum Vitae**  
-August 2021
+January 2022
 
-### Academic Employment and Appointments
+### Academic Employment
 
-- 2019-present. Postdoctoral Fellow. [Quantitative Criticism Lab](https://www.qcrit.org/), University of Texas at Austin.
-- 2019-present. Research Associate. [Institute for the Study of the Ancient World](http://isaw.nyu.edu).
+- 2022-present. Research Associate. Department of Human Evolutionary Biology, Harvard University.
+- 2019-2021. Postdoctoral Fellow. [Quantitative Criticism Lab](https://www.qcrit.org/), University of Texas at Austin.
 - 2016-2019. Assistant Research Scholar: Digital and Special Projects. [Institute for the Study of the Ancient World](http://isaw.nyu.edu) Library.
+
+### Academic Appointments
+
+- 2019-present. Research Associate. [Institute for the Study of the Ancient World](http://isaw.nyu.edu).
 
 ### Education
 
-- 2016\. Ph.D., Classics. Fordham University.
-- 2012\. M.A., Classics. Fordham University.
-- 1998\. B.A., English Textual Studies &amp; Magazine Journalism. Syracuse University.
+- 2016\. Ph.D., 2012. M.A. Classics. Fordham University.
+- 1998\. B.A. English Textual Studies &amp; Magazine Journalism. Syracuse University.
 
 #### Dissertation
 
@@ -102,9 +105,8 @@ August 2021
 ### Conference Papers
 
 - 2022\. "Toward a Data-driven Latin Prose Composition Course," Society of Classical Studies Annual Meeting. San Francisco. January 8.  
-- 2021\. "Latin Literary Acrostics as Information Technology," Classical Association of the Atlantic States Annual Meeting. New Brunswick, NJ. October 14.  [[abstract]](../acrostics){:.cv-link}  
-- 2021\. "*Sequitur, Non Sequitur*: Word Prediction in the Latin Classroom," American Classical League Institute. Online. June 21. [[abstract]](../sequitur){:.cv-link}  
-- 2021\. "Profiling of Intertextuality in Latin Literature Using Word Embeddings," NAACL-HLT 2021. Online. June 6. Co-authored with K. Li, J. Brofos, J. Dexter, and P. Chaudhuri.
+- 2021\. "Latin Literary Acrostics as Information Technology," Classical Association of the Atlantic States Annual Meeting. New Brunswick, NJ. October 14.  
+- 2021\. "*Sequitur, Non Sequitur*: Word Prediction in the Latin Classroom," American Classical League Institute. Online. June 21.
 - 2021\. "Conversational Agents from the Neo-Latin Colloquia to ChatterBot," *Neo-Latin Studies and Digital Humanities*. Online. April 15.
 - 2021\. "Metaformalism, or Setting a Baseline for Detecting Anagrammatic Play in Ovid’s *Metamorphoses*," Society of Classical Studies Annual Meeting. Washington, D.C. January 4. [[abstract]](../metaformalism){:.cv-link}
 - 2020\. "'Poeticness' as a Continuous Variable: Rethinking Prosaism in Horace's *Odes* 4.9," Society of Classical Studies Annual Meeting. Washington, D.C. January 4. [[abstract]](../poeticness){:.cv-link}
