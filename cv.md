@@ -43,6 +43,7 @@ January 2022
 
 #### Articles
 
+- 2022\. "Tesserae Intertext Service," *Digital Humanities Quarterly* 16(1). [[article]](http://www.digitalhumanities.org/dhq/vol/16/1/000602/000602.html){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2020\. "Ensemble Lemmatization with the Classical Language Toolkit," *Studi e Saggi Linguistici* 58(1): 157-176. [https://doi.org/10.4454/ssl.v58i1.273](https://doi.org/10.4454/ssl.v58i1.273) [[abstract]](../ensemble-lemmatization){:.cv-link} [[article]](https://www.studiesaggilinguistici.it/index.php/ssl/article/view/273){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2019\. "The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code," *Classics@* 17, special issue on ancient literacies. Co-written with K. Johnson and L. Hollis. [[full text]](https://chs.harvard.edu/CHS/article/display/6946){:.cv-link} [[abstract]](../future-of-ancient-literacy){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>  
 - 2018\. "Creating Stoplists for Historical Languages," *Digital Classics Online* 4(2):4-20. [[article]](https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/52124){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
@@ -50,11 +51,8 @@ January 2022
 
 #### Papers
 
-- 2021\. "Profiling of Intertextuality in Latin Literature Using Word Embeddings," in *Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*. Co-authored with J.A. Brofos, K. Li, P. Chaudhuri, and J.P. Dexter. [[paper]](https://www.aclweb.org/anthology/2021.naacl-main.389){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
-
-#### Accepted Papers
-
 - 2021\. "The Classical Language Toolkit: An NLP Framework for Pre-Modern Languages," at The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021). Co-authored with K.P. Johnson, John Stewart, Todd Cook, Clément Besnier, and William Mattingly. [[paper]](https://aclanthology.org/2021.acl-demo.3/){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
+- 2021\. "Profiling of Intertextuality in Latin Literature Using Word Embeddings," in *Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*. Co-authored with J.A. Brofos, K. Li, P. Chaudhuri, and J.P. Dexter. [[paper]](https://www.aclweb.org/anthology/2021.naacl-main.389){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 
 #### Preprints
 
