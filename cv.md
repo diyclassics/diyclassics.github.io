@@ -85,7 +85,7 @@ January 2022
 - 2018\. Latin language model for spaCy. [[code]](https://github.com/diyclassics/latin-spacy-models){:.cv-link}
 
 ### Conferences
-- 2020\. *Digital Humanities Beyond Modern English*. Co-organizer with Pramit Chaudhuri and Joseph Dexter. University of Texas at Austin. Postponed. [[site]](https://qcrit.github.io/dhbme/){:.cv-link}
+
 - 2019\. *Digital Humanities Beyond Modern English*. Co-organizer with Pramit Chaudhuri and Joseph Dexter. Dartmouth College. April 23-25. [[site]](https://qcrit.github.io/dhbme/){:.cv-link}
 - 2018\. *Future Philologies: Digital Directions in Text for Historical Languages*. Organizer. Institute for the Study of the Ancient World. April 20. [[site]](https://diyclassics.github.io/future-philologies/){:.cv-link}
 
@@ -102,6 +102,7 @@ January 2022
 
 ### Conference Papers
 
+- 2022\. "Error, Scale, and the Computational Redefinition of Philology," *Digital Humanities Beyond Modern English*. University of Texas at Austin. Austin, TX. April 7.
 - 2022\. "Toward a Data-driven Latin Prose Composition Course," Society of Classical Studies Annual Meeting. San Francisco. January 8.  
 - 2021\. "Latin Literary Acrostics as Information Technology," Classical Association of the Atlantic States Annual Meeting. New Brunswick, NJ. October 14.  
 - 2021\. "*Sequitur, Non Sequitur*: Word Prediction in the Latin Classroom," American Classical League Institute. Online. June 21.
@@ -149,6 +150,7 @@ January 2022
 
 ### Invited Talks
 
+- 2022\. "Hello κόσμε: Philology at the Command Line," Stanford Humanities Center *The Future of the Past: Classics & Technology* workshop series. April 1.
 - 2021\. "'Pragmatic' Scholarship: What Coding Has Taught Me about Humanities Research," Washington and Lee University. March 25.
 - 2019\. “ELIZA, ELIZAE: The Absurdity and (Absurd) Practicality of Latin Chatbots.” MIT Programs in Digital Humanities Seminar. Massachusetts Institute of Technology. October 24. [[abstract]](../stopwords){:.cv-link}
 - 2019\. "Reassessing Poeticness and Synonymity in Latin Poetry." University of California, Los Angeles. January 10.
