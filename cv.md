@@ -102,7 +102,7 @@ January 2022
 
 ### Conference Papers
 
-- 2022\. "Error, Scale, and the Computational Redefinition of Philology," *Digital Humanities Beyond Modern English*. University of Texas at Austin. Austin, TX. April 7.
+- 2022\. "Error, Scale, and the Computational Redefinition of Philology," *Digital Humanities Beyond Modern English*. University of Texas at Austin. Austin, TX. April 7. [[abstract]](../error-scale-computational-philology){:.cv-link}  
 - 2022\. "Toward a Data-driven Latin Prose Composition Course," Society of Classical Studies Annual Meeting. San Francisco. January 8.  
 - 2021\. "Latin Literary Acrostics as Information Technology," Classical Association of the Atlantic States Annual Meeting. New Brunswick, NJ. October 14.  
 - 2021\. "*Sequitur, Non Sequitur*: Word Prediction in the Latin Classroom," American Classical League Institute. Online. June 21.
