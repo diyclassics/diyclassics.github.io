@@ -150,7 +150,7 @@ April 2022
 
 ### Invited Talks
 
-- 2022\. "Hello κόσμε: Philology at the Command Line," Stanford Humanities Center *The Future of the Past: Classics & Technology* workshop series. April 1.
+- 2022\. "Hello κόσμε: Philology at the Command Line," Stanford Humanities Center *The Future of the Past: Classics & Technology* workshop series. April 1. [[abstract]](../hello-kosme){:.cv-link}  
 - 2021\. "'Pragmatic' Scholarship: What Coding Has Taught Me about Humanities Research," Washington and Lee University. March 25.
 - 2019\. “ELIZA, ELIZAE: The Absurdity and (Absurd) Practicality of Latin Chatbots.” MIT Programs in Digital Humanities Seminar. Massachusetts Institute of Technology. October 24. [[abstract]](../stopwords){:.cv-link}
 - 2019\. "Reassessing Poeticness and Synonymity in Latin Poetry." University of California, Los Angeles. January 10.
