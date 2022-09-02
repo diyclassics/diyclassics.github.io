@@ -14,17 +14,18 @@ ORCID 0000-0003-2158-866X
 
 {:.cv-info}
 **Curriculum Vitae**  
-April 2022
+September 2022
 
 ### Academic Employment
 
-- 2022-present. Research Associate. Department of Human Evolutionary Biology, Harvard University.
+- 2022-present. Associate Research Scholar: Digital Projects. [Institute for the Study of the Ancient World](http://isaw.nyu.edu) Library.
+- 2022. Research Associate. Department of Human Evolutionary Biology, Harvard University.
 - 2019-2021. Postdoctoral Fellow. [Quantitative Criticism Lab](https://www.qcrit.org/), University of Texas at Austin.
 - 2016-2019. Assistant Research Scholar: Digital and Special Projects. [Institute for the Study of the Ancient World](http://isaw.nyu.edu) Library.
 
 ### Academic Appointments
 
-- 2019-present. Research Associate. [Institute for the Study of the Ancient World](http://isaw.nyu.edu).
+- 2019-2022. Research Associate. [Institute for the Study of the Ancient World](http://isaw.nyu.edu).
 
 ### Education
 
@@ -37,12 +38,12 @@ April 2022
 
 #### Research Interests
 
-- Latin poetry, digital humanities, Classics pedagogy
+- Computational philology, digital humanities, Latin poetry, Classics pedagogy
 
 ### Publications
 
 #### Articles
-
+- 2022\. "Senecan Trimeter and Humanist Tragedy," *American Journal of Philology* 143: 475-503. [[abstract]](../senecan-trimeter){:.cv-link}
 - 2022\. "Tesserae Intertext Service," *Digital Humanities Quarterly* 16(1). [[article]](http://www.digitalhumanities.org/dhq/vol/16/1/000602/000602.html){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2020\. "Ensemble Lemmatization with the Classical Language Toolkit," *Studi e Saggi Linguistici* 58(1): 157-176. [https://doi.org/10.4454/ssl.v58i1.273](https://doi.org/10.4454/ssl.v58i1.273) [[abstract]](../ensemble-lemmatization){:.cv-link} [[article]](https://www.studiesaggilinguistici.it/index.php/ssl/article/view/273){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2019\. "The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code," *Classics@* 17, special issue on ancient literacies. Co-written with K. Johnson and L. Hollis. [[full text]](https://chs.harvard.edu/CHS/article/display/6946){:.cv-link} [[abstract]](../future-of-ancient-literacy){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>  
@@ -82,7 +83,7 @@ April 2022
 
 #### Language Models
 
-- 2018\. Latin language model for spaCy. [[code]](https://github.com/diyclassics/latin-spacy-models){:.cv-link}
+- 2022\. la_core_cltk_sm, v. 0.1.0; Latin language model for spaCy. [[code]](https://github.com/diyclassics/latin-spacy-models/tree/main/la_core_cltk_sm){:.cv-link}
 
 ### Conferences
 
@@ -102,6 +103,8 @@ April 2022
 
 ### Conference Papers
 
+- 2022\. "Exploring Poeticness and Synonymy in Epic Speech with Latin Language Models," *Digital Approaches to Direct Speech Representation in Greek and Latin Epic*. Universität Rostock. Rostock, Germany. July 1.
+- 2022\. "An 'Exploratory' Approach to Latin Readability," American Classical League Institute, Panel on "Evaluating Latin Readability: Methods and Future Directions". June 26.
 - 2022\. "Error, Scale, and the Computational Redefinition of Philology," *Digital Humanities Beyond Modern English*. University of Texas at Austin. Austin, TX. April 7. [[abstract]](../error-scale-computational-philology){:.cv-link}  
 - 2022\. "Toward a Data-driven Latin Prose Composition Course," Society of Classical Studies Annual Meeting. San Francisco. January 8.  
 - 2021\. "Latin Literary Acrostics as Information Technology," Classical Association of the Atlantic States Annual Meeting. New Brunswick, NJ. October 14.  
@@ -214,6 +217,7 @@ April 2022
 
 ### Grants, Awards and Honors
 
+- 2022\. Center for Hellenic Studies fellowship for writing and developing *Exploratory Philology: Learning About Ancient Greek through Computer Programming*. April and June residencies.
 - 2019\. Society for Classical Studies *Classics Everywhere* grant supporting public programming for local political philosophy reading group.  
 - 2018\. *DH2018* ADHO Bursary.
 - 2016\. Google Summer of Code stipend for development on "Latin/Greek Backoff Lemmatizer" for the Classical Language Toolkit.
@@ -286,7 +290,7 @@ April 2022
 
 ### Computer skills
 
-- Programming: Python (esp. NLTK, Gensim, Pandas/scikit-learn), Jupyter notebooks/Binder; R; regular expressions.
+- Programming: Python (esp. spaCy, Transformers, NLTK, Gensim, Pandas/scikit-learn), Jupyter notebooks/Binder; R; regular expressions.
 - Relational database design: SQL, Postgresql.
 - Markup: XML, TEI.
 - Web development: HTML 5, CSS3, Javascript/jQuery (esp. Leaflet.js); Jekyll; Flask, Jinja2; Heroku.
