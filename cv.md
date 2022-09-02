@@ -19,7 +19,7 @@ September 2022
 ### Academic Employment
 
 - 2022-present. Associate Research Scholar: Digital Projects. [Institute for the Study of the Ancient World](http://isaw.nyu.edu) Library.
-- 2022. Research Associate. Department of Human Evolutionary Biology, Harvard University.
+- 2022\. Research Associate. Department of Human Evolutionary Biology, Harvard University.
 - 2019-2021. Postdoctoral Fellow. [Quantitative Criticism Lab](https://www.qcrit.org/), University of Texas at Austin.
 - 2016-2019. Assistant Research Scholar: Digital and Special Projects. [Institute for the Study of the Ancient World](http://isaw.nyu.edu) Library.
 
