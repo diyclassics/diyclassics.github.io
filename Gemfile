@@ -12,6 +12,6 @@ gem 'jekyll-sitemap'
 gem 'jekyll-gist'
 gem 'jekyll-paginate'
 
-gem "psych", "~> 3.3"
+gem "psych"
 
-gem "webrick", "~> 1.7"
+gem "webrick"
