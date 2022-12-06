@@ -1,7 +1,7 @@
 ---
 title: "Exploratory Philology: Learning About Ancient Greek and Latin through Computer Programming"
 layout: paper
-date: 2022-04-01 00:00
+date: 2022-10-27 00:00
 tag:
 - Python
 - philology

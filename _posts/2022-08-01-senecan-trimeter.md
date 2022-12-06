@@ -22,4 +22,4 @@ The lack of extant contemporary comparanda obscures the workings of iambic trime
 
 {:.paper-section-heading}
 ## Citation
-Fedchin, A., Burns, P.J., Chaudhuri, P., and Dexter, J.P. 2022. “Senecan Trimeter and Humanist Tragedy.” American Journal of Philology 143: 475-503.
+Fedchin, A., Burns, P.J., Chaudhuri, P., and Dexter, J.P. 2022. “Senecan Trimeter and Humanist Tragedy.” *American Journal of Philology* 143: 475-503.
