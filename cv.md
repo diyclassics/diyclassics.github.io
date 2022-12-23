@@ -81,9 +81,10 @@ December 2022
 
 ### Academic Development
 
-#### Language Models
+#### NLP Resources
 
-- 2022\. la_core_cltk_sm, v. 0.1.0; Latin language model for spaCy. [[code]](https://github.com/diyclassics/latin-spacy-models/tree/main/la_core_cltk_sm){:.cv-link}
+- 2022\. la_dep_cltk_sm, v. 0.2.0; Latin language model for spaCy. [[code]](https://github.com/diyclassics/la_dep_cltk_sm){:.cv-link}
+- 2022\. la_senter, v. 0.1.0; Latin sentence segmenter for spaCy. [[code]](https://github.com/diyclassics/la_senter){:.cv-link}
 
 ### Conferences
 
