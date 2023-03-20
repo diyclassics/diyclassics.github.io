@@ -83,8 +83,8 @@ March 2023
 
 #### NLP Resources
 
-- 2022\. la_dep_cltk_sm, v. 0.2.0; Latin language model for spaCy. [[code]](https://github.com/diyclassics/la_dep_cltk_sm){:.cv-link}
-- 2022\. la_senter, v. 0.1.0; Latin sentence segmenter for spaCy. [[code]](https://github.com/diyclassics/la_senter){:.cv-link}
+- 2023\. la_dep_cltk_md, v0.3.1; Latin language model for spaCy. [[model]](https://huggingface.co/diyclassics/la_dep_cltk_md){:.cv-link} [[project]](https://github.com/diyclassics/la_dep_cltk_md){:.cv-link}
+- 2023\. la_senter, v. 0.3.1; Latin sentence segmenter for spaCy. [[model]](https://huggingface.co/diyclassics/la_senter){:.cv-link} [[project]](https://github.com/diyclassics/la_senter){:.cv-link}
 
 ### Conferences
 
