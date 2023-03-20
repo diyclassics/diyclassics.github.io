@@ -104,6 +104,8 @@ December 2022
 
 ### Conference Papers
 
+- 2023\. "How Much Latin Does ChatGPT 'know'?" Classical Association of New England Annual Meeting (CANE2023). Needham, MA. March 17. [[abstract]](../chatgpt){:.cv-link}
+- 2023\. "Streamlining historical-language text processing with CLTK Readers," Ancient Makerspaces, Society of Classical Studies Annual Meeting (SCS2023). New Orleans, LA. January 7. [[abstract]](../streamlining){:.cv-link}
 - 2022\. "Exploring Poeticness and Synonymy in Epic Speech with Latin Language Models," *Digital Approaches to Direct Speech Representation in Greek and Latin Epic*. Universität Rostock. Rostock, Germany. July 1.
 - 2022\. "An 'Exploratory' Approach to Latin Readability," American Classical League Institute, Panel on "Evaluating Latin Readability: Methods and Future Directions". June 26.
 - 2022\. "Error, Scale, and the Computational Redefinition of Philology," *Digital Humanities Beyond Modern English*. University of Texas at Austin. Austin, TX. April 7. [[abstract]](../error-scale-computational-philology){:.cv-link}  
