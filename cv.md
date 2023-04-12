@@ -14,7 +14,7 @@ ORCID 0000-0003-2158-866X
 
 {:.cv-info}
 **Curriculum Vitae**  
-March 2023
+April 2023
 
 ### Academic Employment
 
@@ -83,7 +83,7 @@ March 2023
 
 #### NLP Resources
 
-- 2023\. la_dep_cltk_md, v0.3.1; Latin language model for spaCy. [[model]](https://huggingface.co/diyclassics/la_dep_cltk_md){:.cv-link} [[project]](https://github.com/diyclassics/la_dep_cltk_md){:.cv-link}
+- 2023\. la_core_cltk_md, v0.4.0; Latin language model for spaCy. [[model]](https://huggingface.co/diyclassics/la_core_cltk_md){:.cv-link} [[project]](https://github.com/diyclassics/la_core_cltk_md){:.cv-link}
 - 2023\. la_senter, v. 0.3.1; Latin sentence segmenter for spaCy. [[model]](https://huggingface.co/diyclassics/la_senter){:.cv-link} [[project]](https://github.com/diyclassics/la_senter){:.cv-link}
 
 ### Conferences
@@ -104,6 +104,7 @@ March 2023
 
 ### Conference Papers
 
+- 2023\. "Dialogism in Ancient Greek and Latin Epic," *Digital Approaches to Direct Speech Representation in Greek and Latin Epic*. Mount Allison University. Sackville, New Brunswick. May 31.  
 - 2023\. "How Much Latin Does ChatGPT 'know'?" Classical Association of New England Annual Meeting (CANE2023). Needham, MA. March 17. [[abstract]](../chatgpt){:.cv-link}
 - 2023\. "Measuring Emotional Content in Historical Text through Classification and Lexicon Construction," Historical Psychology pre-conference workshop, SPSP2023. Atlanta, GA. [[abstract]](../emotion-lexicon){:.cv-link}
 - 2023\. "Streamlining historical-language text processing with CLTK Readers," Ancient Makerspaces, Society of Classical Studies Annual Meeting (SCS2023). New Orleans, LA. January 7. [[abstract]](../streamlining){:.cv-link}
@@ -178,6 +179,7 @@ March 2023
 
 ### Digital Humanities Workshops
 
+- 2023\ "Dickinson Digital Latin Workshop," Dickinson College. July 12-15.  
 - 2022\. "*Salve munde*: Philology at the Command Line (or an “exploratory” approach to Latin)," Trinity University. October 27. [[abstract]](../salve-munde){:.cv-link}  
 - 2022\. "Exploratory Text Analysis for Philologists," Universität Rostock. July 11-12. [[abstract]](../exploratory-text-analysis){:.cv-link}  
 <!--- - 2012\. "Markup Basics: Build an Online CV in 45 Minutes." Fordham Graduate Students Digital Humanities Group. October 23. --->
