@@ -16,14 +16,15 @@ jemoji: '<img class="emoji" title=":paper:" alt=":paper:" src="../assets/images/
 author: patrickburns
 externalLink: false
 ---
-
-# Exploratory Philology: Learning About Ancient Greek and Latin through Computer Programming
+# Exploratory Philology: Learning About Ancient Languages through Computer Programming
 Description of book project in progress
+
+<img src="../assets/images/ep-cover.jpg"  width="300">
 
 {:.paper-section-heading}
 ## Abstract
 
-What is the relationship between computer programming and reading Ancient Greek and Latin? And how can we make it as easy as possible to get started with computational approaches to ancient-language text? *Exploratory Philology: Learning About Ancient Greek and Latin through Computer Programming*—a hybrid book and JupyterBook project—introduces readers to thinking philologically *and* computationally about ancient languages and their literatures. At the heart of *Exploratory Philology* is a collection of text-analysis experiments—50 philological problems designed to introduce Hellenists and Latinists to computer programming through activities such as counting color terms in Homer or searching for acrostics in Virgil or creating a Socrates-style chatbot or generating random Latin text. *Exploratory Philology* shows readers how to use code to learn about the languages and to use the languages to help us learn to code through four units:  
+What is the relationship between computer programming and reading Ancient Greek and Latin? And how can we make it as easy as possible to get started with computational approaches to ancient-language text? *Exploratory Philology: Learning About Ancient Languages through Computer Programming*—a hybrid book and JupyterBook project—introduces readers to thinking philologically *and* computationally about ancient languages and their literatures. At the heart of *Exploratory Philology* is a collection of text-analysis experiments—50 philological problems designed to introduce Hellenists and Latinists to computer programming through activities such as counting color terms in Homer or searching for acrostics in Virgil or creating a Socrates-style chatbot or generating random Latin text. *Exploratory Philology* shows readers how to use code to learn about the languages and to use the languages to help us learn to code through four units:  
 - **Description**—What are the basic facts about our texts?  
 - **Discovery**—What can we find in our texts?  
 - **Deformation/Development**—How can we transform our texts or generate new ones?  
