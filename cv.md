@@ -57,6 +57,7 @@ May 2023
 
 #### Preprints
 
+- 2023\. "LatinCy: Synthetic Trained Pipelines for Latin NLP." arxiv:2305.04365 [cs.CL]. [[abstract]](../latincy){:.cv-link} [[preprint]](https://arxiv.org/abs/2305.04365){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>  
 - 2020\. "Latin BERT: A Contextual Language Model for Classical Philology." arXiv:2009.10053 [cs.CL]. Co-written with D. Bamman. [[abstract]](../latin-bert){:.cv-link} [[preprint]](https://arxiv.org/abs/2009.10053){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>  
 
 #### Chapters
