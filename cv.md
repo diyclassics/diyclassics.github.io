@@ -62,6 +62,7 @@ May 2023
 
 #### Chapters
 
+- 2023\. "Language is Not a Default Setting: Countering DH's English Problem," chapter in *Debates in the Digital Humanities 2023*, ed. M.K. Gold and L.F. Klein. U. Minnesota Press. Co-written with Q. Dombrowski.  
 - 2020\. “Autodidacts and the 'Promise' of Digital Classics,” chapter in *Digital Approaches to Teaching the Ancient Mediterranean*, ed. W. Caraher and S. Heath. Digital Press at U. North Dakota: 83-95. [[chapter]](https://thedigitalpress.org/datam/) [[abstract]](../autodidacts){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2019\. “Building a Text Analysis Pipeline for Classical Languages,” chapter in *Digital Classical Philology*, ed. M. Berti. DeGruyter: 159-176. [[chapter]](http://bit.ly/dcp-burns){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 
@@ -106,6 +107,7 @@ May 2023
 ### Conference Papers
 
 - 2023\. "Dialogism in Ancient Greek and Latin Epic," *Digital Approaches to Direct Speech Representation in Greek and Latin Epic*. Mount Allison University. Sackville, New Brunswick. May 31.  
+- 2023\. "The Future Is Collaborative: Historical Psychology in Latin Texts," *Humanities Forward*. Oxford University. Oxford, UK. May 16. Co-written with Jennifer Devereaux, Mohammad Atari, Joseph P. Dexter, and Pramit Chaudhuri.  
 - 2023\. "How Much Latin Does ChatGPT 'know'?" Classical Association of New England Annual Meeting (CANE2023). Needham, MA. March 17. [[abstract]](../chatgpt){:.cv-link}
 - 2023\. "Measuring Emotional Content in Historical Text through Classification and Lexicon Construction," Historical Psychology pre-conference workshop, SPSP2023. Atlanta, GA. [[abstract]](../emotion-lexicon){:.cv-link}
 - 2023\. "Streamlining historical-language text processing with CLTK Readers," Ancient Makerspaces, Society of Classical Studies Annual Meeting (SCS2023). New Orleans, LA. January 7. [[abstract]](../streamlining){:.cv-link}
@@ -136,7 +138,7 @@ May 2023
 <!--- - 2015\. "From *Amicitia* to *Amor*: Lucan’s Elegiac Turn." *Love and Friendship in Greek and Roman Antiquity*, Boston University. March 21. [[abstract]](../from-amicitia-to-amor){:.cv-link} --->
 - 2014\. "*Carpe Iter*: A Case for Latin-themed Field Trips." CAAS 2014 Annual Meeting, Washington, D.C. October 10. [[abstract]](../carpe-iter){:.cv-link}
 - 2014\. "Latin for the Hearing-Impaired." *Investigating Inequalities*, Graduate School Association Conference, Fordham University. April 5.
-- 2014\. "Digital Directions for a Concordance of Hellenistic Philosophy." (Co-presented with Prof. Brian Johnson, Fordham University.) *Publishing Text for a Digital Age*, Tufts University. March 28.
+- 2014\. "Digital Directions for a Concordance of Hellenistic Philosophy." (Co-presented with Brian Johnson, Fordham University.) *Publishing Text for a Digital Age*, Tufts University. March 28.
 - 2013\. "Lucian’s Ekphrasis of the Visible and the Invisible in *Imagines*." CAMWS 2013 Annual Meeting, Iowa City, Ia. April 20. [[abstract]](../lucians-ekphrasis-of-the-invisible){:.cv-link}
 - 2013\. "Distant Reading Alliteration in Latin Poetry." *Word, Space, Time: Digital Perspectives on the Classical World*, University at Buffalo. April 6. [[abstract]](../distant-reading-alliteration-in-latin-poetry){:.cv-link} [[code]](https://gist.github.com/pbartleby/5276544){:.cv-link}
 - 2013\. "*Pessime Planudes*: Scaliger’s *Cato* and the Polemics of Retranslation." *Beyond Words: Translation and the Classical World*, CUNY Graduate Center. March 8. [[abstract]](../pessime-planudes){:.cv-link}
