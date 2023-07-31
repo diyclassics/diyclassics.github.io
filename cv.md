@@ -14,7 +14,7 @@ ORCID 0000-0003-2158-866X
 
 {:.cv-info}
 **Curriculum Vitae**  
-May 2023
+August 2023
 
 ### Academic Employment
 
