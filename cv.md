@@ -7,14 +7,14 @@ layout: cv
 # Patrick J. Burns
 
 {:.cv-address}
-patrick@diyclassics.org    
+pjb311@nyu.edu    
 
 {:.cv-orcid}
 ORCID 0000-0003-2158-866X  
 
 {:.cv-info}
 **Curriculum Vitae**  
-August 2023
+January 2024
 
 ### Academic Employment
 
@@ -85,16 +85,15 @@ August 2023
 
 #### NLP Resources
 
-- 2023\. la_core_cltk_md, v0.4.0; Latin language model for spaCy. [[model]](https://huggingface.co/diyclassics/la_core_cltk_md){:.cv-link} [[project]](https://github.com/diyclassics/la_core_cltk_md){:.cv-link}
-- 2023\. la_senter, v. 0.3.1; Latin sentence segmenter for spaCy. [[model]](https://huggingface.co/diyclassics/la_senter){:.cv-link} [[project]](https://github.com/diyclassics/la_senter){:.cv-link}
+- 2023\. LatinCy v3.7.2 (la_core_web_sm, la_core_web_md, la_core_web_lg, la_core_web_trf); Latin language model for spaCy. [[model]](https://huggingface.co/diyclassics/la_core_web_lg){:.cv-link} [[project]](https://github.com/diyclassics/la_core_web_lg){:.cv-link}  
 
 ### Conferences
 
-- 2019\. *Digital Humanities Beyond Modern English*. Co-organizer with Pramit Chaudhuri and Joseph Dexter. Dartmouth College. April 23-25. [[site]](https://qcrit.github.io/dhbme/){:.cv-link}
+- 2019\. *Digital Humanities Beyond Modern English*. Co-organizer with Pramit Chaudhuri and Joseph Dexter. Dartmouth College. April 23-25. [[site]](https://qcrit.github.io/dhbme/){:.cv-link}  
 - 2018\. *Future Philologies: Digital Directions in Text for Historical Languages*. Organizer. Institute for the Study of the Ancient World. April 20. [[site]](https://diyclassics.github.io/future-philologies/){:.cv-link}
 
 ### Conference Panels
-
+- 2024\. "Future Most Vivid: Creating the Conditions for Human-AI Collaboration in Classical Studies." Co-organizer with Clifford Robinson. Annual Meeting of the Society of Classical Studies, Chicago, IL. January 5.
 - 2019\. "Computational Tools & the Cross-Cultural Study of Literature." Panelist with Tanya Clement, Grace Fong, and Carrie Schroeder; moderated by Jacqueline Wernimont. *Digital Humanities Beyond Modern English*. Dartmouth College. April 25.
 
 ### Conference Sessions
@@ -108,7 +107,7 @@ August 2023
 
 - 2023\. "Dialogism in Ancient Greek and Latin Epic," *Digital Approaches to Direct Speech Representation in Greek and Latin Epic*. Mount Allison University. Sackville, New Brunswick. May 31.  
 - 2023\. "The Future Is Collaborative: Historical Psychology in Latin Texts," *Humanities Forward*. Oxford University. Oxford, UK. May 16. Co-written with Jennifer Devereaux, Mohammad Atari, Joseph P. Dexter, and Pramit Chaudhuri.  
-- 2023\. "How Much Latin Does ChatGPT 'know'?" Classical Association of New England Annual Meeting (CANE2023). Needham, MA. March 17. [[abstract]](../chatgpt){:.cv-link}
+- 2023\. "How Much Latin Does ChatGPT 'Know'?" Classical Association of New England Annual Meeting (CANE2023). Needham, MA. March 17. [[abstract]](../chatgpt){:.cv-link}
 - 2023\. "Measuring Emotional Content in Historical Text through Classification and Lexicon Construction," Historical Psychology pre-conference workshop, SPSP2023. Atlanta, GA. [[abstract]](../emotion-lexicon){:.cv-link}
 - 2023\. "Streamlining historical-language text processing with CLTK Readers," Ancient Makerspaces, Society of Classical Studies Annual Meeting (SCS2023). New Orleans, LA. January 7. [[abstract]](../streamlining){:.cv-link}
 - 2022\. "Exploring Poeticness and Synonymy in Epic Speech with Latin Language Models," *Digital Approaches to Direct Speech Representation in Greek and Latin Epic*. Universität Rostock. Rostock, Germany. July 1.
@@ -190,6 +189,7 @@ August 2023
 
 ### Digital Humanities Projects
 
+- 2023-present. LatinCy. Developer. [[link]](https://huggingface.co/latincy){:.cv-link}
 - 2015-present. The Classical Language Toolkit (CLTK). Core member. [[link]](http://cltk.org){:.cv-link}.
 - 2016-present. *ISAW Library Titles Map*. Developer.
 - 2016-present. *Digital Central Asian Archaeology* collection. Developer. [[link]](http://dcaa.hosting.nyu.edu/){:.cv-link}.
@@ -204,6 +204,7 @@ August 2023
 
 #### Blog Posts
 
+- 2023\. "How Much Latin Does ChatGPT 'Know'?" Society for Classical Studies Blog. July 31. [[link]](https://classicalstudies.org/scs-blog/patrickjburns/blog-how-much-latin-does-chatgpt-%E2%80%9Cknow%E2%80%9D){:.cv-link}.  
 - 2020\. "Evaluating Classics in Social Media from Twitter to Facebook and Beyond," Society for Classical Studies Blog. May 1. [[link]](https://classicalstudies.org/scs-blog/patrick-j-burns/blog-evaluating-classics-social-media-twitter-facebook-and-beyond){:.cv-link}.
 
 ### Open Access Reviewing
@@ -239,6 +240,7 @@ August 2023
 ### Teaching Experience
 
 #### Instructor, Institute for the Study of the Ancient World
+- Text Analysis for Historical Language Research (Fall 2023)
 - Introduction to Digital Humanities for the Ancient World (Fall 2017, Fall 2016)
 
 #### Instructor, Fordham University
@@ -288,6 +290,7 @@ August 2023
 
 - Society for Classical Studies (SCS)
 - Classical Association of the Atlantic States (CAAS)
+- Classical Association of New England (CANE)
 - Alliance of Digital Humanities Organizations (ADHO)
 - Forum for Classical Librarians and Scholarly Communications (FCLSC)
 - New York City Digital Humanities (NYCDH)
@@ -304,7 +307,7 @@ August 2023
 - Programming: Python (esp. spaCy, Transformers, NLTK, Gensim, Pandas/scikit-learn), Jupyter notebooks/Binder; R; regular expressions.
 - Relational database design: SQL, Postgresql.
 - Markup: XML, TEI.
-- Web development: HTML 5, CSS3, Javascript/jQuery (esp. Leaflet.js); Jekyll; Flask, Jinja2; Heroku.
+- Web development: HTML 5, CSS3, Javascript/jQuery (esp. Leaflet.js); Jekyll; Flask, Jinja2; Heroku; React.
 - Open source development: Git/GitHub, TravisCI.
 - Bibliographic support: CSL; Zotero translator development and automation (via pyZotero)
 - Layout: LaTeX; Overleaf.
