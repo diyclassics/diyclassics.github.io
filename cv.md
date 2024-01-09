@@ -105,6 +105,7 @@ January 2024
 
 ### Conference Papers
 
+- 2023\. "Intertextuality and Latin Language Models, or a Grammar of Subword Allusion," Classical Texts in Digital Media. U. of Patras. Patras, Greece. September 2.
 - 2023\. "Dialogism in Ancient Greek and Latin Epic," *Digital Approaches to Direct Speech Representation in Greek and Latin Epic*. Mount Allison University. Sackville, New Brunswick. May 31.  
 - 2023\. "The Future Is Collaborative: Historical Psychology in Latin Texts," *Humanities Forward*. Oxford University. Oxford, UK. May 16. Co-written with Jennifer Devereaux, Mohammad Atari, Joseph P. Dexter, and Pramit Chaudhuri.  
 - 2023\. "How Much Latin Does ChatGPT 'Know'?" Classical Association of New England Annual Meeting (CANE2023). Needham, MA. March 17. [[abstract]](../chatgpt){:.cv-link}
@@ -160,6 +161,7 @@ January 2024
 
 ### Invited Talks
 
+- 2024\. “How to Read Latin like a Computer: A Case Study of Latin Noun Chunking with spaCy,” Digital Classicist Seminar Berlin, Berliner Antike-Kolleg. January 16.  
 - 2022\. "Coding as an Intellectual Craft," Trinity University Collaborative for Teaching and Learning. October 28. [[abstract]](../coding-as-intellectual-craft){:.cv-link}  
 - 2022\. "Hello κόσμε: Philology at the Command Line," Stanford Humanities Center *The Future of the Past: Classics & Technology* workshop series. April 1. [[abstract]](../hello-kosme){:.cv-link}  
 - 2021\. "'Pragmatic' Scholarship: What Coding Has Taught Me about Humanities Research," Washington and Lee University. March 25.
@@ -181,7 +183,8 @@ January 2024
 
 ### Digital Humanities Workshops
 
-- 2023\ "Dickinson Digital Latin Workshop," Dickinson College. July 12-15.  
+- 2024\. “Training NLP Pipelines for Historical Languages: Some Considerations,” Digital Classicist Seminar Berlin, Berliner Antike-Kolleg. January 16-17.  
+- 2023\. "Dickinson Digital Latin Workshop," Dickinson College. July 12-15.  
 - 2022\. "*Salve munde*: Philology at the Command Line (or an “exploratory” approach to Latin)," Trinity University. October 27. [[abstract]](../salve-munde){:.cv-link}  
 - 2022\. "Exploratory Text Analysis for Philologists," Universität Rostock. July 11-12. [[abstract]](../exploratory-text-analysis){:.cv-link}  
 <!--- - 2012\. "Markup Basics: Build an Online CV in 45 Minutes." Fordham Graduate Students Digital Humanities Group. October 23. --->
