@@ -14,7 +14,7 @@ ORCID 0000-0003-2158-866X
 
 {:.cv-info}
 **Curriculum Vitae**  
-January 2024
+February 2024
 
 ### Academic Employment
 
@@ -54,6 +54,10 @@ January 2024
 
 - 2021\. "The Classical Language Toolkit: An NLP Framework for Pre-Modern Languages," at The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021). Co-authored with K.P. Johnson, John Stewart, Todd Cook, Clément Besnier, and William Mattingly. [[paper]](https://aclanthology.org/2021.acl-demo.3/){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2021\. "Profiling of Intertextuality in Latin Literature Using Word Embeddings," in *Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*. Co-authored with J.A. Brofos, K. Li, P. Chaudhuri, and J.P. Dexter. [[paper]](https://www.aclweb.org/anthology/2021.naacl-main.389){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
+
+#### Data papers
+
+- 2024\. "A Database of Intertexts in Valerius Flaccus’ *Argonautica* 1: A Benchmarking Resource for the Evaluation of Computational Intertextual Search of Latin Corpora," *Journal of Open Humanities Data* in Special Collection: Representing the Ancient World through Data. Co-authored with J.P. Dexter, P. Chaudhuri, E.D. Adams, T.J. Bolt, A. Cásarez, J.H. Flynt, K. Li, J.F. Patterson, A. Schwartz, and S. Shumway. [[paper]](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.153){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>a
 
 #### Preprints
 
