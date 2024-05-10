@@ -14,7 +14,7 @@ ORCID 0000-0003-2158-866X
 
 {:.cv-info}
 **Curriculum Vitae**  
-March 2024
+May 2024
 
 ### Academic Employment
 
@@ -189,7 +189,8 @@ March 2024
 
 ### Digital Humanities Workshops
 
-- 2024\. “Training NLP Pipelines for Historical Languages: Some Considerations,” Digital Classicist Seminar Berlin, Berliner Antike-Kolleg. January 16-17.  
+- 2024\. "Teaching Latin with AI," Expanding the Ancient World series, Institute for the Study of the Ancient World. May 2. [[link]](https://isaw.nyu.edu/events/etaw-teaching-latin-with-ai){:.cv-link}.
+- 2024\. "Training NLP Pipelines for Historical Languages: Some Considerations," Digital Classicist Seminar Berlin, Berliner Antike-Kolleg. January 16-17.  
 - 2023\. "Dickinson Digital Latin Workshop," Dickinson College. July 12-15.  
 - 2022\. "*Salve munde*: Philology at the Command Line (or an “exploratory” approach to Latin)," Trinity University. October 27. [[abstract]](../salve-munde){:.cv-link}  
 - 2022\. "Exploratory Text Analysis for Philologists," Universität Rostock. July 11-12. [[abstract]](../exploratory-text-analysis){:.cv-link}  
@@ -249,6 +250,7 @@ March 2024
 ### Teaching Experience
 
 #### Instructor, Institute for the Study of the Ancient World
+- Generating Antiquity: Artificial Intelligence for the Ancient World (Spring 2024)
 - Text Analysis for Historical Language Research (Fall 2023)
 - Introduction to Digital Humanities for the Ancient World (Fall 2017, Fall 2016)
 
