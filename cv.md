@@ -14,7 +14,7 @@ ORCID 0000-0003-2158-866X
 
 {:.cv-info}
 **Curriculum Vitae**  
-May 2024
+June 2024
 
 ### Academic Employment
 
@@ -43,10 +43,11 @@ May 2024
 ### Publications
 
 #### Articles
-- 2022\. "Senecan Trimeter and Humanist Tragedy," *American Journal of Philology* 143: 475-503. [[abstract]](../senecan-trimeter){:.cv-link}
+- 2024\. "(Re)active Latin: Computational Chat as Future *colloquia*," *New England Classical Journal* 51(1). [[article]](https://crossworks.holycross.edu/necj/vol51/iss1/3/){:.cv-link} [[abstract]](../reactive-latin){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
+- 2022\. "Senecan Trimeter and Humanist Tragedy," *American Journal of Philology* 143: 475-503. [[abstract]](../senecan-trimeter){:.cv-link} 
 - 2022\. "Tesserae Intertext Service," *Digital Humanities Quarterly* 16(1). [[article]](http://www.digitalhumanities.org/dhq/vol/16/1/000602/000602.html){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2020\. "Ensemble Lemmatization with the Classical Language Toolkit," *Studi e Saggi Linguistici* 58(1): 157-176. [https://doi.org/10.4454/ssl.v58i1.273](https://doi.org/10.4454/ssl.v58i1.273) [[abstract]](../ensemble-lemmatization){:.cv-link} [[article]](https://www.studiesaggilinguistici.it/index.php/ssl/article/view/273){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
-- 2019\. "The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code," *Classics@* 17, special issue on ancient literacies. Co-written with K. Johnson and L. Hollis. [[full text]](https://chs.harvard.edu/CHS/article/display/6946){:.cv-link} [[abstract]](../future-of-ancient-literacy){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>  
+- 2019\. "The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code," *Classics@* 17, special issue on ancient literacies. Co-written with K. Johnson and L. Hollis. [[article]](https://chs.harvard.edu/CHS/article/display/6946){:.cv-link} [[abstract]](../future-of-ancient-literacy){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>  
 - 2018\. "Creating Stoplists for Historical Languages," *Digital Classics Online* 4(2):4-20. [[article]](https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/52124){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2017\. "Measuring and Mapping Intergeneric Allusion in Latin Poetry using Tesserae," *Journal of Data Mining and Digital Humanities*. Special Issue on Computer-Aided Processing of Intertextuality in Ancient Languages. [[article]](https://hal.archives-ouvertes.fr/hal-01282568v4/document){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 
@@ -57,7 +58,7 @@ May 2024
 
 #### Data papers
 
-- 2024\. "A Database of Intertexts in Valerius Flaccus’ *Argonautica* 1: A Benchmarking Resource for the Evaluation of Computational Intertextual Search of Latin Corpora," *Journal of Open Humanities Data* in Special Collection: Representing the Ancient World through Data. Co-authored with J.P. Dexter, P. Chaudhuri, E.D. Adams, T.J. Bolt, A. Cásarez, J.H. Flynt, K. Li, J.F. Patterson, A. Schwartz, and S. Shumway. [[paper]](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.153){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>a
+- 2024\. "A Database of Intertexts in Valerius Flaccus’ *Argonautica* 1: A Benchmarking Resource for the Evaluation of Computational Intertextual Search of Latin Corpora," *Journal of Open Humanities Data* in Special Collection: Representing the Ancient World through Data. Co-authored with J.P. Dexter, P. Chaudhuri, E.D. Adams, T.J. Bolt, A. Cásarez, J.H. Flynt, K. Li, J.F. Patterson, A. Schwartz, and S. Shumway. [[paper]](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.153){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 
 #### Preprints
 
