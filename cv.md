@@ -14,7 +14,7 @@ ORCID 0000-0003-2158-866X
 
 {:.cv-info}
 **Curriculum Vitae**  
-June 2024
+August 2024
 
 ### Academic Employment
 
@@ -53,6 +53,7 @@ June 2024
 
 #### Papers
 
+- 2024\. "Leveraging Part-of-Speech Tagging for Enhanced Stylometry of Latin Literature," in J. Pavlopoulos, T. Sommerschield, Y. Assael, S. Gordin, K. Cho, M. Passarotti, R. Sprugnoli, Y.Liu, B. Li, and A. Anderson,. eds. *Proceedings of the 1st Workshop on Machine Learning for Ancient Languages (ML4AL 2024)*. Co-authored with S. Chen, T.J. Bolt, P. Chaudhuri, and J. Dexter. [[paper]](https://aclanthology.org/2024.ml4al-1.24){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2021\. "The Classical Language Toolkit: An NLP Framework for Pre-Modern Languages," at The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021). Co-authored with K.P. Johnson, John Stewart, Todd Cook, Clément Besnier, and William Mattingly. [[paper]](https://aclanthology.org/2021.acl-demo.3/){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2021\. "Profiling of Intertextuality in Latin Literature Using Word Embeddings," in *Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*. Co-authored with J.A. Brofos, K. Li, P. Chaudhuri, and J.P. Dexter. [[paper]](https://www.aclweb.org/anthology/2021.naacl-main.389){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 
@@ -157,6 +158,7 @@ June 2024
 
 ### Conference Posters
 
+- 2024\. "Determining a ‘Cultural Literacy Quotient’ for Latin Readability." DH2024, Washington D.C. August 7. [[abstract]](../clq){:.cv-link}  
 - 2019\. "Bringing a Shadow Library Into the Light: Soviet-Era Scholarship on Central Asia and 21st Century Digital Collections." ACRL 2019, Cleveland, OH. April 11. Co-written with G. Mckee and M. Naunton.
 - 2017\. "Mapping Linked Data Subject Headings in the Library Catalog." DH2017, Montreal, Quebec. August 11. Co-written with D. Ratzan, T. Elliot, and G. Mckee. [[abstract]](../mapping-linked-data-subject-headings){:.cv-link}
 - 2014\. "Distant Reading Alliteration in Latin Literature." Annual Meeting of the American Philological Association, Chicago, Il. January 4. [[abstract]](../distant-reading-alliteration-in-latin-literature){:.cv-link}
