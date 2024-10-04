@@ -14,7 +14,7 @@ ORCID 0000-0003-2158-866X
 
 {:.cv-info}
 **Curriculum Vitae**  
-August 2024
+October 2024
 
 ### Academic Employment
 
@@ -43,6 +43,7 @@ August 2024
 ### Publications
 
 #### Articles
+
 - 2024\. "(Re)active Latin: Computational Chat as Future *colloquia*," *New England Classical Journal* 51(1). [[article]](https://crossworks.holycross.edu/necj/vol51/iss1/3/){:.cv-link} [[abstract]](../reactive-latin){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2022\. "Senecan Trimeter and Humanist Tragedy," *American Journal of Philology* 143: 475-503. [[abstract]](../senecan-trimeter){:.cv-link} 
 - 2022\. "Tesserae Intertext Service," *Digital Humanities Quarterly* 16(1). [[article]](http://www.digitalhumanities.org/dhq/vol/16/1/000602/000602.html){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
@@ -69,8 +70,12 @@ August 2024
 #### Chapters
 
 - 2023\. "Language is Not a Default Setting: Countering DH's English Problem," chapter in *Debates in the Digital Humanities 2023*, ed. M.K. Gold and L.F. Klein. U. Minnesota Press. Co-written with Q. Dombrowski.  
-- 2020\. “Autodidacts and the 'Promise' of Digital Classics,” chapter in *Digital Approaches to Teaching the Ancient Mediterranean*, ed. W. Caraher and S. Heath. Digital Press at U. North Dakota: 83-95. [[chapter]](https://thedigitalpress.org/datam/) [[abstract]](../autodidacts){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
-- 2019\. “Building a Text Analysis Pipeline for Classical Languages,” chapter in *Digital Classical Philology*, ed. M. Berti. DeGruyter: 159-176. [[chapter]](http://bit.ly/dcp-burns){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
+- 2020\. "Autodidacts and the 'Promise' of Digital Classics," chapter in *Digital Approaches to Teaching the Ancient Mediterranean*, ed. W. Caraher and S. Heath. Digital Press at U. North Dakota: 83-95. [[chapter]](https://thedigitalpress.org/datam/) [[abstract]](../autodidacts){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
+- 2019\. "Building a Text Analysis Pipeline for Classical Languages," chapter in *Digital Classical Philology*, ed. M. Berti. DeGruyter: 159-176. [[chapter]](http://bit.ly/dcp-burns){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
+
+#### Essays
+
+- 2024\. "Do You Remember Being *natus*?: Some Thoughts on Latin Verse Composition and Artificial Intelligence." *Classical Outlook* 99(3): 206–9.
 
 <!-- #### Manuscripts in press
  -->
@@ -111,6 +116,7 @@ August 2024
 
 ### Conference Papers
 
+- 2024\. "The Collocations You *Really* Need to Know," Classical Association of the Atlantic States Annual Meeting (CAAS2024). New Brunswick, NJ. October 18. [[abstract]](../collocations){:.cv-link}  
 - 2024\. "Latin in an Environment of Infinite Extensive Reading," Classical Association of New England Annual Meeting (CANE2024). Durham, NH. March 22. [[abstract]](../infinite){:.cv-link}
 - 2023\. "Intertextuality and Latin Language Models, or a Grammar of Subword Allusion," Classical Texts in Digital Media. U. of Patras. Patras, Greece. September 2.
 - 2023\. "Dialogism in Ancient Greek and Latin Epic," *Digital Approaches to Direct Speech Representation in Greek and Latin Epic*. Mount Allison University. Sackville, New Brunswick. May 31.  
@@ -134,7 +140,7 @@ August 2024
 - 2018\. "Lucan's *tres libri*: A reconsideration of arrangement and argument in the *Bellum Civile*," Classical Association of the Atlantic States Annual Meeting. Philadelphia, Pa. October 4.
 - 2018\. "Carpe DM: Twitter and the Rise of the Social Media Scholiast," *5000 Years of Comments: The Development of Commentary from Ancient Mesopotamia to the Age of Information*, Center for Hellenic Studies. August 7.
 - 2018\. "Backoff Tagging as a Philological Method," *DH2018*. Mexico City, Mex. June 26. [[abstract]](../backoff-lemmatization){:.cv-link}
-- 2017\. “Mapping Library Subject Headings with the HathiTrust Extracted Features Dataset.” *Digital Publication in Mediterranean Archaeology*, Institute for the Study of the Ancient World. October 20.
+- 2017\. "Mapping Library Subject Headings with the HathiTrust Extracted Features Dataset." *Digital Publication in Mediterranean Archaeology*, Institute for the Study of the Ancient World. October 20.
 - 2017\. "Creating Stopword Lists for Historical Languages." *Global Philology: Big Corpora of Historical Text*, Universität Leipzig. July 10. [[abstract]](../creating-stopword-lists){:.cv-link}
 - 2017\. "Virgil's Hardest Sentence?: Measuring Readability in Latin Poetry." *Midwest Classical Literature Consortium*, Ohio University. April 22. [[abstract]](../virgils-hardest-sentence){:.cv-link}
 <!--- - 2017\. "Backoff Tagging as a Philological Method." *Digital Antiquity Research Showcase*, Institute for the Study of the Ancient World. April 14. --->
@@ -169,18 +175,19 @@ August 2024
 
 ### Invited Talks
 
+- 2024\. "The Impossibility of a Latin Turing Test: Reflections on Modeling Ancient Language at Scale," *Generative AI and Ancient World Studies Public Talks at University of Reading. Reading, UK / Online. November 6.  
 - 2024\. "Paradigms Shift: What Artificial Intelligence Can Teach Students About Latin," New Hampshire Classical Association, Classics Day for Teachers. Manchester, NH. April 11.  
-- 2024\. “How to Read Latin like a Computer: A Case Study of Latin Noun Chunking with spaCy,” Digital Classicist Seminar Berlin, Berliner Antike-Kolleg. January 16.  
+- 2024\. "How to Read Latin like a Computer: A Case Study of Latin Noun Chunking with spaCy," Digital Classicist Seminar Berlin, Berliner Antike-Kolleg. January 16.  
 - 2022\. "Coding as an Intellectual Craft," Trinity University Collaborative for Teaching and Learning. October 28. [[abstract]](../coding-as-intellectual-craft){:.cv-link}  
 - 2022\. "Hello κόσμε: Philology at the Command Line," Stanford Humanities Center *The Future of the Past: Classics & Technology* workshop series. April 1. [[abstract]](../hello-kosme){:.cv-link}  
 - 2021\. "'Pragmatic' Scholarship: What Coding Has Taught Me about Humanities Research," Washington and Lee University. March 25.
-- 2019\. “ELIZA, ELIZAE: The Absurdity and (Absurd) Practicality of Latin Chatbots.” MIT Programs in Digital Humanities Seminar. Massachusetts Institute of Technology. October 24. [[abstract]](../chatbots){:.cv-link}
+- 2019\. "ELIZA, ELIZAE: The Absurdity and (Absurd) Practicality of Latin Chatbots." MIT Programs in Digital Humanities Seminar. Massachusetts Institute of Technology. October 24. [[abstract]](../chatbots){:.cv-link}
 - 2019\. "Reassessing Poeticness and Synonymity in Latin Poetry." University of California, Los Angeles. January 10.
 - 2018\. "What is an 'Unpoetic' Word?: Reassessing Latin Literary Criticism with Digital Methods." University of Texas at Austin. November 29.
 - 2018\. "Backoff Lemmatization for Ancient Greek with the Classical Language Toolkit," 2018 Digital Classicist London Seminars Series. Institute of Classical Studies. London, England. July 27.
 - 2018\. "What is an 'Unpoetic' Word?: Reassessing Latin Literary Criticism with Digital Methods." University of Oklahoma. April 5.
 - 2018\. "Becoming a Digital Humanist in Graduate School." *Deconstructing the Open Greek and Latin Project: The First Thousand Years of Greek*, Tufts University. January 3.
-- 2017\. “Latin in Unexpected Places.” *Paideia Outreach in the CAAS Region*, CAAS 2017 Annual Meeting, New York, NY. October 8. [[abstract]](../latin-in-unexpected-places){:.cv-link}
+- 2017\. "Latin in Unexpected Places." *Paideia Outreach in the CAAS Region*, CAAS 2017 Annual Meeting, New York, NY. October 8. [[abstract]](../latin-in-unexpected-places){:.cv-link}
 - 2017\. "Exploring Diction and Topics in Latin Love Elegy." *Digital Propertius Project*, Department of Classics, Yale University. May 18.
 <!--- - 2017\. "*Fabulae Psittaci*: Parrot Anecdotes in Greek and Latin Literature". *Circle Through New York* exhibition, Insitute for the Study of the Ancient World. May 12. --->
 <!--- - 2017\. "*Descriptio Psittaci*: Looking at Parrots from Aristotle to Gesner". *Circle Through New York* exhibition, Insitute for the Study of the Ancient World. May 12. --->
@@ -195,7 +202,7 @@ August 2024
 - 2024\. "Teaching Latin with AI," Expanding the Ancient World series, Institute for the Study of the Ancient World. May 2. [[link]](https://isaw.nyu.edu/events/etaw-teaching-latin-with-ai){:.cv-link}.
 - 2024\. "Training NLP Pipelines for Historical Languages: Some Considerations," Digital Classicist Seminar Berlin, Berliner Antike-Kolleg. January 16-17.  
 - 2023\. "Dickinson Digital Latin Workshop," Dickinson College. July 12-15.  
-- 2022\. "*Salve munde*: Philology at the Command Line (or an “exploratory” approach to Latin)," Trinity University. October 27. [[abstract]](../salve-munde){:.cv-link}  
+- 2022\. "*Salve munde*: Philology at the Command Line (or an "exploratory" approach to Latin)," Trinity University. October 27. [[abstract]](../salve-munde){:.cv-link}  
 - 2022\. "Exploratory Text Analysis for Philologists," Universität Rostock. July 11-12. [[abstract]](../exploratory-text-analysis){:.cv-link}  
 <!--- - 2012\. "Markup Basics: Build an Online CV in 45 Minutes." Fordham Graduate Students Digital Humanities Group. October 23. --->
 <!--- - 2012\. "Eliminating the Handout: Paperless Teaching and the Less-Paper Reality." Digital Pedagogy: What Is It? How Do You Do It?, Fordham Graduate Student Digital Humanities Group. September 25. --->
