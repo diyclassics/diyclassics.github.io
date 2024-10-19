@@ -1,7 +1,7 @@
 ---
 title: "The Collocations You Really Need to Know"
 layout: paper
-date: 2024-10-18 00:00
+date: 2024-10-17 00:00
 tag: paper
 image:
 headerImage: false
