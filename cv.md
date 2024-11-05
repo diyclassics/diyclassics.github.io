@@ -14,7 +14,7 @@ ORCID 0000-0003-2158-866X
 
 {:.cv-info}
 **Curriculum Vitae**  
-October 2024
+November 2024
 
 ### Academic Employment
 
