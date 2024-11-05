@@ -1,7 +1,7 @@
 ---
 title: "Measuring Emotional Content in Historical Text through Classification and Lexicon Construction"
 layout: paper
-date: 2023-02-23 00:00
+date: 2023-09-02 00:00
 tag: paper
 image:
 headerImage: false
