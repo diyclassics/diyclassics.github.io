@@ -118,7 +118,7 @@ October 2024
 
 - 2024\. "The Collocations You *Really* Need to Know," Classical Association of the Atlantic States Annual Meeting (CAAS2024). New Brunswick, NJ. October 18. [[abstract]](../collocations){:.cv-link}  
 - 2024\. "Latin in an Environment of Infinite Extensive Reading," Classical Association of New England Annual Meeting (CANE2024). Durham, NH. March 22. [[abstract]](../infinite){:.cv-link}
-- 2023\. "Intertextuality and Latin Language Models, or a Grammar of Subword Allusion," Classical Texts in Digital Media. U. of Patras. Patras, Greece. September 2.
+- 2023\. "Intertextuality and Latin Language Models, or a Grammar of Subword Allusion," Classical Texts in Digital Media. U. of Patras. Patras, Greece. September 2. [[abstract]](../subword-allusion){:.cv-link}
 - 2023\. "Dialogism in Ancient Greek and Latin Epic," *Digital Approaches to Direct Speech Representation in Greek and Latin Epic*. Mount Allison University. Sackville, New Brunswick. May 31.  
 - 2023\. "The Future Is Collaborative: Historical Psychology in Latin Texts," *Humanities Forward*. Oxford University. Oxford, UK. May 16. Co-written with Jennifer Devereaux, Mohammad Atari, Joseph P. Dexter, and Pramit Chaudhuri.  
 - 2023\. "How Much Latin Does ChatGPT 'Know'?" Classical Association of New England Annual Meeting (CANE2023). Needham, MA. March 17. [[abstract]](../chatgpt){:.cv-link}
