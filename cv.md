@@ -14,7 +14,7 @@ ORCID 0000-0003-2158-866X
 
 {:.cv-info}
 **Curriculum Vitae**  
-November 2024
+February 2025
 
 ### Academic Employment
 
@@ -116,6 +116,7 @@ November 2024
 
 ### Conference Papers
 
+- 2025\. "Neo-Latin as a Pragmatic Source of Language Model Training Data," International Association for Neo-Latin Studies Congress (IANLS2025). Aix-en-Provence, France. July 16.
 - 2024\. "The Collocations You *Really* Need to Know," Classical Association of the Atlantic States Annual Meeting (CAAS2024). New Brunswick, NJ. October 18. [[abstract]](../collocations){:.cv-link}  
 - 2024\. "Latin in an Environment of Infinite Extensive Reading," Classical Association of New England Annual Meeting (CANE2024). Durham, NH. March 22. [[abstract]](../infinite){:.cv-link}
 - 2023\. "Intertextuality and Latin Language Models, or a Grammar of Subword Allusion," Classical Texts in Digital Media. U. of Patras. Patras, Greece. September 2. [[abstract]](../subword-allusion){:.cv-link}
@@ -171,7 +172,8 @@ November 2024
 
 ### Conference Roundtables
 
-- 2019\. "Apollo vs. Python3: What Can Classics Learn from Computer Science (and Vice Versa)?" at American Classical League Institute. New York, NY. June 29.
+- 2025\. "Teaching Neo-Latin Texts by Women: Strategies and Innovations in Latin Education," Renaissance Society of America Annual Meeting," Boston, MA. March 22. Participant.
+- 2019\. "Apollo vs. Python3: What Can Classics Learn from Computer Science (and Vice Versa)?" at American Classical League Institute. New York, NY. June 29. Organizer.
 
 ### Invited Talks
 
