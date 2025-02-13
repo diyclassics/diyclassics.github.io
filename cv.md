@@ -177,6 +177,7 @@ February 2025
 
 ### Invited Talks
 
+- 2025\. "The Digital Afterlife of a Dead Language: Or Recovering 34 Billion(!) Latin Words from AI Training Data," Public Lecture at Taft Center for the Humanities, University of Cincinnati. Cincinnati, OH. February 20. [[abstract]](../afterlife){:.cv-link}  
 - 2024\. "The Impossibility of a Latin Turing Test: Reflections on Modeling Ancient Language at Scale," *Generative AI and Ancient World Studies Public Talks at University of Reading. Reading, UK / Online. November 6.  
 - 2024\. "Paradigms Shift: What Artificial Intelligence Can Teach Students About Latin," New Hampshire Classical Association, Classics Day for Teachers. Manchester, NH. April 11.  
 - 2024\. "How to Read Latin like a Computer: A Case Study of Latin Noun Chunking with spaCy," Digital Classicist Seminar Berlin, Berliner Antike-Kolleg. January 16.  
