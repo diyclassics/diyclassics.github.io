@@ -116,6 +116,7 @@ February 2025
 
 ### Conference Papers
 
+- 2025\. "Rebuilding the Library of Al3xandr!a: Latin Post-OCR Correction as a Philological Task," TK. September 24. [[abstract]](../alexandria){:.cv-link}  
 - 2025\. "Neo-Latin as a Pragmatic Source of Language Model Training Data," International Association for Neo-Latin Studies Congress (IANLS2025). Aix-en-Provence, France. July 16.
 - 2024\. "The Collocations You *Really* Need to Know," Classical Association of the Atlantic States Annual Meeting (CAAS2024). New Brunswick, NJ. October 18. [[abstract]](../collocations){:.cv-link}  
 - 2024\. "Latin in an Environment of Infinite Extensive Reading," Classical Association of New England Annual Meeting (CANE2024). Durham, NH. March 22. [[abstract]](../infinite){:.cv-link}
