@@ -1,7 +1,7 @@
 ---
 title: "The Digital Afterlife of a Dead Language: Or Recovering 34 Billion(!) Latin Words from AI Training Data"
 layout: paper
-date: 2025-02-20 00:00
+date: 2025-02-10 00:00
 tag: paper
 image:
 headerImage: false
