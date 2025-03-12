@@ -14,7 +14,7 @@ ORCID 0000-0003-2158-866X
 
 {:.cv-info}
 **Curriculum Vitae**  
-February 2025
+March 2025
 
 ### Academic Employment
 
@@ -118,6 +118,8 @@ February 2025
 
 - 2025\. "Rebuilding the Library of Al3xandr!a: Latin Post-OCR Correction as a Philological Task," TK. September 24. [[abstract]](../alexandria){:.cv-link}  
 - 2025\. "Neo-Latin as a Pragmatic Source of Language Model Training Data," International Association for Neo-Latin Studies Congress (IANLS2025). Aix-en-Provence, France. July 16. [[abstract]](../pragmatic){:.cv-link}  
+- 2025\. "*Ita, atque...*: Latin Reader 'Improv' with Large Language Models," New York Classical Club Winter Conference. New York, NY. February 1.
+- 2025\. "Prompt Engineering for Latin Teachers," Society for Classical Studies Annual Meeting (SCS2025). Philadelphia, PA. January 4.  
 - 2024\. "The Collocations You *Really* Need to Know," Classical Association of the Atlantic States Annual Meeting (CAAS2024). New Brunswick, NJ. October 18. [[abstract]](../collocations){:.cv-link}  
 - 2024\. "Latin in an Environment of Infinite Extensive Reading," Classical Association of New England Annual Meeting (CANE2024). Durham, NH. March 22. [[abstract]](../infinite){:.cv-link}
 - 2023\. "Intertextuality and Latin Language Models, or a Grammar of Subword Allusion," Classical Texts in Digital Media. U. of Patras. Patras, Greece. September 2. [[abstract]](../subword-allusion){:.cv-link}
@@ -174,6 +176,7 @@ February 2025
 ### Conference Roundtables
 
 - 2025\. "Teaching Neo-Latin Texts by Women: Strategies and Innovations in Latin Education," Renaissance Society of America Annual Meeting," Boston, MA. March 22. Participant.
+- 2025\. "Initial Steps toward a Linguistic Dataset of Latin Texts Written by Women," RELICS Roundtable on *Women as Authors of Latin Literature*. Online. Participant. March 11. 
 - 2019\. "Apollo vs. Python3: What Can Classics Learn from Computer Science (and Vice Versa)?" at American Classical League Institute. New York, NY. June 29. Organizer.
 
 ### Invited Talks
@@ -203,6 +206,7 @@ February 2025
 
 ### Digital Humanities Workshops
 
+- 2025\. "Data Skills Immersion Training for Graduate Students: Generative AI Preliminaries," Foundations of Research Computing (FORC), NYU Libraries. New York, NY January 16.  
 - 2024\. "Teaching Latin with AI," Expanding the Ancient World series, Institute for the Study of the Ancient World. May 2. [[link]](https://isaw.nyu.edu/events/etaw-teaching-latin-with-ai){:.cv-link}.
 - 2024\. "Training NLP Pipelines for Historical Languages: Some Considerations," Digital Classicist Seminar Berlin, Berliner Antike-Kolleg. January 16-17.  
 - 2023\. "Dickinson Digital Latin Workshop," Dickinson College. July 12-15.  
@@ -213,11 +217,12 @@ February 2025
 
 ### Digital Humanities Projects
 
+- 2024-present. Representing Women Authorship in the Latin Treebanks (RWALT). [[line]](https://diyclassics.github.io/rwalt-site/){:.cv-link}  
 - 2023-present. LatinCy. Developer. [[link]](https://huggingface.co/latincy){:.cv-link}
-- 2015-present. The Classical Language Toolkit (CLTK). Core member. [[link]](http://cltk.org){:.cv-link}.
 - 2016-present. *ISAW Library Titles Map*. Developer.
 - 2016-present. *Digital Central Asian Archaeology* collection. Developer. [[link]](http://dcaa.hosting.nyu.edu/){:.cv-link}.
 - 2018-present. *Digital South Caucasus* collection. Developer.
+- 2015-2023. The Classical Language Toolkit (CLTK). Core member. [[link]](http://cltk.org){:.cv-link}.
 <!--- - 2014-2016. A Concordance of Hellenistic Philosophy. With Brian Johnson, Department of Philosophy, Fordham University. [[link]](https://hellenistic.ace.fordham.edu){:.cv-link}. --->
 
 ### Open Access Writing
@@ -264,6 +269,7 @@ February 2025
 ### Teaching Experience
 
 #### Instructor, Institute for the Study of the Ancient World
+- Statistical Programming for Ancient World Study (Spring 2025)  
 - Generating Antiquity: Artificial Intelligence for the Ancient World (Spring 2024)
 - Text Analysis for Historical Language Research (Fall 2023)
 - Introduction to Digital Humanities for the Ancient World (Fall 2017, Fall 2016)
