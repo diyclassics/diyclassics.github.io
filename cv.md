@@ -14,7 +14,7 @@ ORCID 0000-0003-2158-866X
 
 {:.cv-info}
 **Curriculum Vitae**  
-March 2025
+April 2025
 
 ### Academic Employment
 
@@ -181,6 +181,7 @@ March 2025
 
 ### Invited Talks
 
+- 2025\. "The Role of “Small” Models for Ancient NLP in a World of Large Language Models," ALP2025. Albuquerque, NM. May 4. [[abstract]](../small-models){:.cv-link}
 - 2025\. "The Digital Afterlife of a Dead Language: Or Recovering 34 Billion(!) Latin Words from AI Training Data," Public Lecture at Taft Center for the Humanities, University of Cincinnati. Cincinnati, OH. February 20. [[abstract]](../afterlife){:.cv-link}  
 - 2024\. "The Impossibility of a Latin Turing Test: Reflections on Modeling Ancient Language at Scale," *Generative AI and Ancient World Studies Public Talks at University of Reading. Reading, UK / Online. November 6.  
 - 2024\. "Paradigms Shift: What Artificial Intelligence Can Teach Students About Latin," New Hampshire Classical Association, Classics Day for Teachers. Manchester, NH. April 11.  
@@ -258,6 +259,7 @@ March 2025
 
 ### Grants, Awards and Honors
 
+- 2025\. Classical Association of the Atlantic States Professional Development Grant supporting travel to RSA2025 to present work on the Representing Women Authorship in the Latin Treebanks project.  
 - 2022\. Center for Hellenic Studies fellowship for writing and developing *Exploratory Philology: Learning About Ancient Greek through Computer Programming*. April and June residencies.
 - 2019\. Society for Classical Studies *Classics Everywhere* grant supporting public programming for local political philosophy reading group.  
 - 2018\. *DH2018* ADHO Bursary.
@@ -272,7 +274,7 @@ March 2025
 - Statistical Programming for Ancient World Study (Spring 2025)  
 - Generating Antiquity: Artificial Intelligence for the Ancient World (Spring 2024)
 - Text Analysis for Historical Language Research (Fall 2023)
-- Introduction to Digital Humanities for the Ancient World (Fall 2017, Fall 2016)
+- Introduction to Digital Humanities for the Ancient World (Spring 2026, Fall 2017, Fall 2016)
 
 #### Instructor, Fordham University
 
@@ -294,7 +296,8 @@ March 2025
 
 #### Special Collections Work
 
-- 2017-present. *Digital South Caucasus Collection*. Developer.
+- 2024-present. *ISAW Digital Monographs*. Developer.
+- 2017-present. *Digital South Caucasus Collection*. Developer. [[site]](https://dscc.its.nyu.edu/){:.cv-link}
 - 2016-present. *Digital Central Asian Archaeology Collection*. Developer. [[site]](http://dcaa.hosting.nyu.edu/){:.cv-link}
 
 #### Editorial Work
