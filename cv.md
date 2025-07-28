@@ -14,11 +14,11 @@ ORCID 0000-0003-2158-866X
 
 {:.cv-info}
 **Curriculum Vitae**  
-April 2025
+August 2025
 
 ### Academic Employment
 
-- 2022-present. Associate Research Scholar: Digital Projects. [Institute for the Study of the Ancient World](http://isaw.nyu.edu) Library.
+- 2022-present. Associate Research Scholar, Digital Projects at ISAW Library; Research Associate Professor. [Institute for the Study of the Ancient World](http://isaw.nyu.edu).  
 - 2022\. Research Associate. Department of Human Evolutionary Biology, Harvard University.
 - 2019-2021. Postdoctoral Fellow. [Quantitative Criticism Lab](https://www.qcrit.org/), University of Texas at Austin.
 - 2016-2019. Assistant Research Scholar: Digital and Special Projects. [Institute for the Study of the Ancient World](http://isaw.nyu.edu) Library.
@@ -194,19 +194,24 @@ April 2025
 - 2018\. "What is an 'Unpoetic' Word?: Reassessing Latin Literary Criticism with Digital Methods." University of Texas at Austin. November 29.
 - 2018\. "Backoff Lemmatization for Ancient Greek with the Classical Language Toolkit," 2018 Digital Classicist London Seminars Series. Institute of Classical Studies. London, England. July 27.
 - 2018\. "What is an 'Unpoetic' Word?: Reassessing Latin Literary Criticism with Digital Methods." University of Oklahoma. April 5.
+- 2017\. "Exploring Diction and Topics in Latin Love Elegy." *Digital Propertius Project*, Department of Classics, Yale University. May 18.
+- 2016\. "Cicero's Hardest Sentence?: Measuring Readability in Latin Literature". Drew University Classics Department. December 1. [[abstract]](../ciceros-hardest-sentence){:.cv-link} [[code]](https://github.com/diyclassics/readability/blob/master/Cicero%20Readability%20Final.ipynb){:.cv-link}
+- 2012\. "Some Poetic and Artistic Frames in Theocritus." Co-presented with Carolyn Laferriere. *Within the Frame: A Critical Metaphor in Art and Literature*, The Classics Work in Progress Group, Yale University. January 27.  
+
+### Miscellaneous Presentations
+
+- 2025\. "The Next 'Vesuvius': Fostering Computer Science Collaborations in Papyrology," Metropolitan Papyrology Workshop (MetroPap25), ISAW. April 11.
 - 2018\. "Becoming a Digital Humanist in Graduate School." *Deconstructing the Open Greek and Latin Project: The First Thousand Years of Greek*, Tufts University. January 3.
 - 2017\. "Latin in Unexpected Places." *Paideia Outreach in the CAAS Region*, CAAS 2017 Annual Meeting, New York, NY. October 8. [[abstract]](../latin-in-unexpected-places){:.cv-link}
-- 2017\. "Exploring Diction and Topics in Latin Love Elegy." *Digital Propertius Project*, Department of Classics, Yale University. May 18.
-<!--- - 2017\. "*Fabulae Psittaci*: Parrot Anecdotes in Greek and Latin Literature". *Circle Through New York* exhibition, Insitute for the Study of the Ancient World. May 12. --->
-<!--- - 2017\. "*Descriptio Psittaci*: Looking at Parrots from Aristotle to Gesner". *Circle Through New York* exhibition, Insitute for the Study of the Ancient World. May 12. --->
-<!--- - 2017\. "A (Cautious) Defense of Google Translate for Latin". Marymount School Latin Club. May 3. --->
-- 2016\. "Cicero's Hardest Sentence?: Measuring Readability in Latin Literature". Drew University Classics Department. December 1. [[abstract]](../ciceros-hardest-sentence){:.cv-link} [[code]](https://github.com/diyclassics/readability/blob/master/Cicero%20Readability%20Final.ipynb){:.cv-link}
-<!--- - 2016\. "What is PubSyr, or Why I Made a Latin Twitterbot". Marymount School Latin Club. May 12. --->
-<!--- - 2015\. "Taking Latin Prose Comp (By Strategy): A Latin Translation of *Oblique Strategies*." Marymount School Latin Club. April 14. [[slides]](../assets/pdfs/taking-latin-prose-comp.pdf){:.cv-link} --->
-<!--- - 2012\. "Some Poetic and Artistic Frames in Theocritus." Co-presented with Carolyn Laferriere. *Within the Frame: A Critical Metaphor in Art and Literature*, The Classics Work in Progress Group, Yale University. January 27. --->
+- 2017\. "*Fabulae Psittaci*: Parrot Anecdotes in Greek and Latin Literature". *Circle Through New York* exhibition, Insitute for the Study of the Ancient World. May 12.  
+- 2017\. "*Descriptio Psittaci*: Looking at Parrots from Aristotle to Gesner". *Circle Through New York* exhibition, Insitute for the Study of the Ancient World. May 12.  
+- 2017\. "A (Cautious) Defense of Google Translate for Latin". Marymount School Latin Club. May 3.  
+- 2016\. "What is PubSyr, or Why I Made a Latin Twitterbot". Marymount School Latin Club. May 12.  
+- 2015\. "Taking Latin Prose Comp (By Strategy): A Latin Translation of *Oblique Strategies*." Marymount School Latin Club. April 14. [[slides]](../assets/pdfs/taking-latin-prose-comp.pdf){:.cv-link}  
 
 ### Digital Humanities Workshops
 
+- 2025\. "Teaching with AI," Expanding the Ancient World Mentors Workshop, ISAW. Online. April 9.
 - 2025\. "Data Skills Immersion Training for Graduate Students: Generative AI Preliminaries," Foundations of Research Computing (FORC), NYU Libraries. New York, NY January 16.  
 - 2024\. "Teaching Latin with AI," Expanding the Ancient World series, Institute for the Study of the Ancient World. May 2. [[link]](https://isaw.nyu.edu/events/etaw-teaching-latin-with-ai){:.cv-link}.
 - 2024\. "Training NLP Pipelines for Historical Languages: Some Considerations," Digital Classicist Seminar Berlin, Berliner Antike-Kolleg. January 16-17.  
@@ -259,7 +264,7 @@ April 2025
 
 ### Grants, Awards and Honors
 
-- 2025\. Classical Association of the Atlantic States Professional Development Grant supporting travel to RSA2025 to present work on the Representing Women Authorship in the Latin Treebanks project.  
+- 2025\. Classical Association of the Atlantic States Professional Development Grant supporting travel to RSA2025 to present work on the "Representing Women Authorship in the Latin Treebanks" project.  
 - 2022\. Center for Hellenic Studies fellowship for writing and developing *Exploratory Philology: Learning About Ancient Greek through Computer Programming*. April and June residencies.
 - 2019\. Society for Classical Studies *Classics Everywhere* grant supporting public programming for local political philosophy reading group.  
 - 2018\. *DH2018* ADHO Bursary.
@@ -309,9 +314,8 @@ April 2025
 ### Professional Activities
 
 - 2015-2016\. Participant in Sunoikisis Greek & Latin Seminars at Center for Hellenic Studies; leader of common sessions on Hellenistic and Neronian/Flavian literature.
-<!--- - 2016-2010\. Organizer of Iter Zoologicum: A Latin Walk Through the Bronx Zoo. --->
+- 2016-2010\. Organizer of *Iter Zoologicum: A Latin Walk Through the Bronx Zoo*.  
 - 2012-2014\. Founder and co-director of the Fordham Graduate Students Digital Humanities Group.
-
 <!---
 2013\. Participated in the Dickinson College Summer Latin Workshop on Ovid's Fasti IV.
 - 2012\. Jesuit Pedagogy Seminar, Fordham University.
