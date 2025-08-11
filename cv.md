@@ -301,7 +301,7 @@ August 2025
 
 #### Special Collections Work
 
-- 2024-present. *ISAW Digital Monographs*. Developer.
+- 2024-present. *ISAW Digital Monographs*. Digital Editions Editor.
 - 2017-present. *Digital South Caucasus Collection*. Developer. [[site]](https://dscc.its.nyu.edu/){:.cv-link}
 - 2016-present. *Digital Central Asian Archaeology Collection*. Developer. [[site]](http://dcaa.hosting.nyu.edu/){:.cv-link}
 
