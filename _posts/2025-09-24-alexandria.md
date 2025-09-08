@@ -1,7 +1,7 @@
 ---
 title: "Rebuilding the Library of Al3xandr!a: Latin Post-OCR Correction as a Philological Task"
 layout: paper
-date: 2025-02-01 00:00
+date: 2025-09-01 00:00
 tag: paper
 image:
 headerImage: false
@@ -14,7 +14,7 @@ externalLink: false
 ---
 
 # Rebuilding the Library of Al3xandr!a: Latin Post-OCR Correction as a Philological Task
-Abstract for conference forthcoming
+Abstract for paper at *Digital Neo-latin Studies: Ideas and Perspectives*, University of Aarhus & Centre for Danish Neo-Latin. September 24.  
 
 {:.paper-section-heading}
 ## Abstract

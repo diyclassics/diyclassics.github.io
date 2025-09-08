@@ -116,7 +116,7 @@ August 2025
 
 ### Conference Papers
 
-- 2025\. "Rebuilding the Library of Al3xandr!a: Latin Post-OCR Correction as a Philological Task," TK. September 24. [[abstract]](../alexandria){:.cv-link}  
+- 2025\. "Rebuilding the Library of Al3xandr!a: Latin Post-OCR Correction as a Philological Task," *Digital Neo-latin Studies: Ideas and Perspectives*, University of Aarhus & Centre for Danish Neo-Latin. September 24. [[abstract]](../alexandria){:.cv-link}  
 - 2025\. "Neo-Latin as a Pragmatic Source of Language Model Training Data," International Association for Neo-Latin Studies Congress (IANLS2025). Aix-en-Provence, France. July 16. [[abstract]](../pragmatic){:.cv-link}  
 - 2025\. "*Ita, atque...*: Latin Reader 'Improv' with Large Language Models," New York Classical Club Winter Conference. New York, NY. February 1.
 - 2025\. "Prompt Engineering for Latin Teachers," Society for Classical Studies Annual Meeting (SCS2025). Philadelphia, PA. January 4.  
