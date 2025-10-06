@@ -182,7 +182,7 @@ October 2025
 
 ### Invited Talks
 
-- 2025\. "How to Read Latin Like a Computer: The Philology of Latin Word Sense Disambiguation," *Thesaurus Linguae Latinae* Workshop. Munich. Octover 20. [[abstract]](../wsd){:.cv-link}
+- 2025\. "How to Read Latin Like a Computer: The Philology of Latin Word Sense Disambiguation," *Thesaurus Linguae Latinae* Workshop. Munich. October 20. [[abstract]](../wsd){:.cv-link}
 - 2025\. "The Role of “Small” Models for Ancient NLP in a World of Large Language Models," ALP2025. Albuquerque, NM. May 4. [[abstract]](../small-models){:.cv-link}
 - 2025\. "The Digital Afterlife of a Dead Language: Or Recovering 34 Billion(!) Latin Words from AI Training Data," Public Lecture at Taft Center for the Humanities, University of Cincinnati. Cincinnati, OH. February 20. [[abstract]](../afterlife){:.cv-link}  
 - 2024\. "The Impossibility of a Latin Turing Test: Reflections on Modeling Ancient Language at Scale," *Generative AI and Ancient World Studies Public Talks at University of Reading. Reading, UK / Online. November 6.  
