@@ -14,7 +14,7 @@ ORCID 0000-0003-2158-866X
 
 {:.cv-info}
 **Curriculum Vitae**  
-September 2025
+October 2025
 
 ### Academic Employment
 
@@ -116,6 +116,7 @@ September 2025
 
 ### Conference Papers
 
+- 2025\. "Ciceronianus/Christianus/Other: Experimenting with a Multilabel Classification Approach to Latin Intertextuality Using Jerome's Letters," *Zitieren Als Narrative Strategie Formen, Funktionen Und Methoden Von Referentialität im Werk Des Kirchenlehrers Hieronymus*, Universität Konstanz. October 17. [[abstract]](../ciceronianus){:.cv-link}  
 - 2025\. "Rebuilding the Library of Al3xandr!a: Latin Post-OCR Correction as a Philological Task," *Digital Neo-latin Studies: Ideas and Perspectives*, University of Aarhus & Centre for Danish Neo-Latin. September 24. [[abstract]](../alexandria){:.cv-link}  
 - 2025\. "Neo-Latin as a Pragmatic Source of Language Model Training Data," International Association for Neo-Latin Studies Congress (IANLS2025). Aix-en-Provence, France. July 16. [[abstract]](../pragmatic){:.cv-link}  
 - 2025\. "*Ita, atque...*: Latin Reader 'Improv' with Large Language Models," New York Classical Club Winter Conference. New York, NY. February 1.
@@ -181,6 +182,7 @@ September 2025
 
 ### Invited Talks
 
+- 2025\. "How to Read Latin Like a Computer: The Philology of Latin Word Sense Disambiguation," *Thesaurus Linguae Latinae* Workshop. Munich. Octover 20. [[abstract]](../wsd){:.cv-link}
 - 2025\. "The Role of “Small” Models for Ancient NLP in a World of Large Language Models," ALP2025. Albuquerque, NM. May 4. [[abstract]](../small-models){:.cv-link}
 - 2025\. "The Digital Afterlife of a Dead Language: Or Recovering 34 Billion(!) Latin Words from AI Training Data," Public Lecture at Taft Center for the Humanities, University of Cincinnati. Cincinnati, OH. February 20. [[abstract]](../afterlife){:.cv-link}  
 - 2024\. "The Impossibility of a Latin Turing Test: Reflections on Modeling Ancient Language at Scale," *Generative AI and Ancient World Studies Public Talks at University of Reading. Reading, UK / Online. November 6.  
@@ -250,6 +252,7 @@ September 2025
 
 ### Service
 
+- 2024-present. Program Committee, reviewer. *Computational Humanities Research*.
 - 2023-present. Editorial Board member for *Journal of Open Humanities Data*.  
 - 2021-present. Advisory Board member. [*The Bridge*](https://bridge.haverford.edu/about/people), Haverford College.
 - 2020\. Program Committee, reviewer. Language Technologies for Historical and Ancient Languages (LT4HALA).
