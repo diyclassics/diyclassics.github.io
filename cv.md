@@ -77,8 +77,9 @@ October 2025
 
 - 2024\. "Do You Remember Being *natus*?: Some Thoughts on Latin Verse Composition and Artificial Intelligence." *Classical Outlook* 99(3): 206–9.
 
-<!-- #### Manuscripts in press
- -->
+#### Manuscripts in press
+- 2026\. "Measuring Dialogism in Latin Epic," chapter in *Direct Speech in Greek and Latin Epic: Expanding the Methods and Canon*, ed. Forstall, C. and Verhelst, B. Brill. [[book link]](https://brill.com/display/title/73378)
+- 2026\. "Pretrained Word Vectors for Latin Philology," chapter in *Evolving Perspectives on Digital Classics*, ed. LaMonica, C.R. and Foka, A. Routledge. [[book link]](https://www.routledge.com/Evolving-Perspectives-on-Digital-Classics/RLaMonica-Foka/p/book/9781032899824)
 
 <!--
 #### Manuscripts in submission
@@ -182,6 +183,7 @@ October 2025
 
 ### Invited Talks
 
+- 2026\. "Patterns of Word-order in Latin Epic, cont. (Ovid and Everything After)," *Digital Paedagogos: A Symposium in Memory of Carl Conrad*. Washington University. St. Louis. February 21.  
 - 2025\. "How to Read Latin Like a Computer: The Philology of Latin Word Sense Disambiguation," *Thesaurus Linguae Latinae* Workshop. Munich. October 20. [[abstract]](../wsd){:.cv-link}
 - 2025\. "The Role of “Small” Models for Ancient NLP in a World of Large Language Models," ALP2025. Albuquerque, NM. May 4. [[abstract]](../small-models){:.cv-link}
 - 2025\. "The Digital Afterlife of a Dead Language: Or Recovering 34 Billion(!) Latin Words from AI Training Data," Public Lecture at Taft Center for the Humanities, University of Cincinnati. Cincinnati, OH. February 20. [[abstract]](../afterlife){:.cv-link}  
