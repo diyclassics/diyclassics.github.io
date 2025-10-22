@@ -15,3 +15,5 @@ gem 'jekyll-paginate'
 gem "psych"
 
 gem "webrick"
+
+gem "rexml", ">= 3.4.2"
