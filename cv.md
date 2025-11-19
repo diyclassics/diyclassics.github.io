@@ -119,6 +119,8 @@ ORCID 0000-0003-2158-866X
 
 ### Conference Papers
 
+- 2025\.  "How to Teach Latin like a Computer: Repositioning the Last Five Decades of Computational Approaches to Latin Instruction," *The Futures of Antiquity in an Age of Digital Data and AI*. Stanford University. November 15.  
+- 2025\. "*De everrendo*, or the Implications of “Trawl” Methods in Latin Text Collection," *The Futures of Antiquity in an Age of Digital Data and AI*. Stanford University. November 14.  
 - 2025\. "Ciceronianus/Christianus/Other: Experimenting with a Multilabel Classification Approach to Latin Intertextuality Using Jerome's Letters," *Zitieren Als Narrative Strategie Formen, Funktionen Und Methoden Von Referentialität im Werk Des Kirchenlehrers Hieronymus*, Universität Konstanz. October 17. [[abstract]](../ciceronianus){:.cv-link}  
 - 2025\. "Rebuilding the Library of Al3xandr!a: Latin Post-OCR Correction as a Philological Task," *Digital Neo-latin Studies: Ideas and Perspectives*, University of Aarhus & Centre for Danish Neo-Latin. September 24. [[abstract]](../alexandria){:.cv-link}  
 - 2025\. "Neo-Latin as a Pragmatic Source of Language Model Training Data," International Association for Neo-Latin Studies Congress (IANLS2025). Aix-en-Provence, France. July 16. [[abstract]](../pragmatic){:.cv-link}  
