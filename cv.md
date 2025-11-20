@@ -44,9 +44,10 @@ ORCID 0000-0003-2158-866X
 
 #### Articles
 
+- 2025\. "Stylometric Criticism of Latin Literature: From Exploratory Data Analysis to Close Reading," *TAPA* 155(1). [[article]](https://muse.jhu.edu/article/957882/figure/tab02){:.cv-link}  
 - 2024\. "(Re)active Latin: Computational Chat as Future *colloquia*," *New England Classical Journal* 51(1). [[article]](https://crossworks.holycross.edu/necj/vol51/iss1/3/){:.cv-link} [[abstract]](../reactive-latin){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
-- 2022\. "Senecan Trimeter and Humanist Tragedy," *American Journal of Philology* 143: 475-503. [[abstract]](../senecan-trimeter){:.cv-link} 
-- 2022\. "Tesserae Intertext Service," *Digital Humanities Quarterly* 16(1). [[article]](http://www.digitalhumanities.org/dhq/vol/16/1/000602/000602.html){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
+- 2022\. "Senecan Trimeter and Humanist Tragedy," *American Journal of Philology* 143: 475-503. Co-written with  A. Fedchin, P. Chaudhuri, and J.P. Dexter. [[abstract]](../senecan-trimeter){:.cv-link} [[article]](https://muse.jhu.edu/article/870052/pdf){.:cv-link}  
+- 2022\. "Tesserae Intertext Service," *Digital Humanities Quarterly* 16(1). Co-written with N. Okuda, J. Kinnison, N. Coffee, and W. Scheirer. [[article]](http://www.digitalhumanities.org/dhq/vol/16/1/000602/000602.html){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2020\. "Ensemble Lemmatization with the Classical Language Toolkit," *Studi e Saggi Linguistici* 58(1): 157-176. [https://doi.org/10.4454/ssl.v58i1.273](https://doi.org/10.4454/ssl.v58i1.273) [[abstract]](../ensemble-lemmatization){:.cv-link} [[article]](https://www.studiesaggilinguistici.it/index.php/ssl/article/view/273){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2019\. "The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code," *Classics@* 17, special issue on ancient literacies. Co-written with K. Johnson and L. Hollis. [[article]](https://chs.harvard.edu/CHS/article/display/6946){:.cv-link} [[abstract]](../future-of-ancient-literacy){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>  
 - 2018\. "Creating Stoplists for Historical Languages," *Digital Classics Online* 4(2):4-20. [[article]](https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/52124){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
@@ -64,13 +65,13 @@ ORCID 0000-0003-2158-866X
 
 #### Preprints
 
-
 - 2025\. "Contextual Morphologically-guided Tokenization for Latin Encoder Models". arXiv:2511.09709. Written with M. Hudspeth and B. O'Connor. [[abstract]](../morphologically){:.cv-link} [[preprint]](https://arxiv.org/abs/2511.09709){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2023\. "LatinCy: Synthetic Trained Pipelines for Latin NLP." arxiv:2305.04365 [cs.CL]. [[abstract]](../latincy){:.cv-link} [[preprint]](https://arxiv.org/abs/2305.04365){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>  
 - 2020\. "Latin BERT: A Contextual Language Model for Classical Philology." arXiv:2009.10053 [cs.CL]. Co-written with D. Bamman. [[abstract]](../latin-bert){:.cv-link} [[preprint]](https://arxiv.org/abs/2009.10053){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>  
 
 #### Chapters
 
+- 2025\. "Pretrained Word Vectors for Latin Philology," chapter in *Evolving Perspectives on Digital Classics*, ed. LaMonica, C.R. and Foka, A. Routledge. [[book link]](https://www.routledge.com/Evolving-Perspectives-on-Digital-Classics/RLaMonica-Foka/p/book/9781032899824)
 - 2023\. "Language is Not a Default Setting: Countering DH's English Problem," chapter in *Debates in the Digital Humanities 2023*, ed. M.K. Gold and L.F. Klein. U. Minnesota Press. Co-written with Q. Dombrowski.  
 - 2020\. "Autodidacts and the 'Promise' of Digital Classics," chapter in *Digital Approaches to Teaching the Ancient Mediterranean*, ed. W. Caraher and S. Heath. Digital Press at U. North Dakota: 83-95. [[chapter]](https://thedigitalpress.org/datam/) [[abstract]](../autodidacts){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2019\. "Building a Text Analysis Pipeline for Classical Languages," chapter in *Digital Classical Philology*, ed. M. Berti. DeGruyter: 159-176. [[chapter]](http://bit.ly/dcp-burns){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
@@ -81,7 +82,6 @@ ORCID 0000-0003-2158-866X
 
 #### Manuscripts in press
 - 2026\. "Measuring Dialogism in Latin Epic," chapter in *Direct Speech in Greek and Latin Epic: Expanding the Methods and Canon*, ed. Forstall, C. and Verhelst, B. Brill. [[book link]](https://brill.com/display/title/73378)
-- 2026\. "Pretrained Word Vectors for Latin Philology," chapter in *Evolving Perspectives on Digital Classics*, ed. LaMonica, C.R. and Foka, A. Routledge. [[book link]](https://www.routledge.com/Evolving-Perspectives-on-Digital-Classics/RLaMonica-Foka/p/book/9781032899824)
 
 <!--
 #### Manuscripts in submission
