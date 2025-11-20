@@ -44,7 +44,7 @@ ORCID 0000-0003-2158-866X
 
 #### Articles
 
-- 2025\. "Stylometric Criticism of Latin Literature: From Exploratory Data Analysis to Close Reading," *TAPA* 155(1). [[article]](https://muse.jhu.edu/article/957882/figure/tab02){:.cv-link}  
+- 2025\. "Stylometric Criticism of Latin Literature: From Exploratory Data Analysis to Close Reading," *TAPA* 155(1). Co-written with T.J. Bolt, E.D. Adams, Z. Adramerinas, T. Dasgupta, A. Deng, E.T. Gianitsos, E. Rincon, P. Chaudhuri, and J.P. Dexter. [[article]](https://muse.jhu.edu/article/957882/figure/tab02){:.cv-link}  
 - 2024\. "(Re)active Latin: Computational Chat as Future *colloquia*," *New England Classical Journal* 51(1). [[article]](https://crossworks.holycross.edu/necj/vol51/iss1/3/){:.cv-link} [[abstract]](../reactive-latin){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2022\. "Senecan Trimeter and Humanist Tragedy," *American Journal of Philology* 143: 475-503. Co-written with  A. Fedchin, P. Chaudhuri, and J.P. Dexter. [[abstract]](../senecan-trimeter){:.cv-link} [[article]](https://muse.jhu.edu/article/870052/pdf){.:cv-link}  
 - 2022\. "Tesserae Intertext Service," *Digital Humanities Quarterly* 16(1). Co-written with N. Okuda, J. Kinnison, N. Coffee, and W. Scheirer. [[article]](http://www.digitalhumanities.org/dhq/vol/16/1/000602/000602.html){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
