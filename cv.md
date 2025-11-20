@@ -258,7 +258,8 @@ ORCID 0000-0003-2158-866X
 
 ### Service
 
-- 2024-present. Program Committee, reviewer. *Computational Humanities Research*.
+- 2025. Judge. Archaeohack 2025 @ Institute for the Study of the Ancient World. [[link]](https://archaeohack-evfhl.wordpress.com/){:.cv-link}  
+- 2024-present. Program Committee, reviewer. *Computational Humanities Research*.  
 - 2023-present. Editorial Board member for *Journal of Open Humanities Data*.  
 - 2021-present. Advisory Board member. [*The Bridge*](https://bridge.haverford.edu/about/people), Haverford College.
 - 2020\. Program Committee, reviewer. Language Technologies for Historical and Ancient Languages (LT4HALA).
@@ -285,10 +286,11 @@ ORCID 0000-0003-2158-866X
 ### Teaching Experience
 
 #### Instructor, Institute for the Study of the Ancient World
+
+- Introduction to Digital Humanities for the Ancient World (Spring 2026, Fall 2017, Fall 2016)
 - Statistical Programming for Ancient World Study (Spring 2025)  
 - Generating Antiquity: Artificial Intelligence for the Ancient World (Spring 2024)
 - Text Analysis for Historical Language Research (Fall 2023)
-- Introduction to Digital Humanities for the Ancient World (Spring 2026, Fall 2017, Fall 2016)
 
 #### Instructor, Fordham University
 
