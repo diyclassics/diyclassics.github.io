@@ -121,7 +121,7 @@ ORCID 0000-0003-2158-866X
 
 ### Conference Papers
 
-- 2026\. "Recovering 34 Billion Latin Words from AI Training Data: Or Philology’s Collaborative Demands at Computational Scale," Society for Classical Studies Annual Meeting (SCS2026). San Francisco. January 10. Co-written with D. Bamman, C. Brooks, M. Hudspeth, and B. O'Connor.  
+- 2026\. "Recovering 34 Billion Latin Words from AI Training Data: Or Philology’s Collaborative Demands at Computational Scale," Society for Classical Studies Annual Meeting (SCS2026). San Francisco. January 10. Co-written with D. Bamman, C. Brooks, M. Hudspeth, and B. O'Connor. [[abstract]](../collaborative){:.cv-link}  
 - 2025\.  "How to Teach Latin like a Computer: Repositioning the Last Five Decades of Computational Approaches to Latin Instruction," *The Futures of Antiquity in an Age of Digital Data and AI*. Stanford University. November 15.  
 - 2025\. "*De everrendo*, or the Implications of “Trawl” Methods in Latin Text Collection," *The Futures of Antiquity in an Age of Digital Data and AI*. Stanford University. November 14.  
 - 2025\. "Ciceronianus/Christianus/Other: Experimenting with a Multilabel Classification Approach to Latin Intertextuality Using Jerome's Letters," *Zitieren Als Narrative Strategie Formen, Funktionen Und Methoden Von Referentialität im Werk Des Kirchenlehrers Hieronymus*, Universität Konstanz. October 17. [[abstract]](../ciceronianus){:.cv-link}  
