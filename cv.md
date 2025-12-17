@@ -71,6 +71,7 @@ ORCID 0000-0003-2158-866X
 
 #### Chapters
 
+- 2025\. "Measuring Dialogism in Latin Epic," chapter in *Direct Speech in Greek and Latin Epic: Expanding the Methods and Canon*, ed. Forstall, C. and Verhelst, B. Brill. [[link]](https://brill.com/display/book/9789004750227/BP000009.xml){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>  
 - 2025\. "Pretrained Word Vectors for Latin Philology," chapter in *Evolving Perspectives on Digital Classics*, ed. LaMonica, C.R. and Foka, A. Routledge. [[book link]](https://www.routledge.com/Evolving-Perspectives-on-Digital-Classics/RLaMonica-Foka/p/book/9781032899824)
 - 2023\. "Language is Not a Default Setting: Countering DH's English Problem," chapter in *Debates in the Digital Humanities 2023*, ed. M.K. Gold and L.F. Klein. U. Minnesota Press. Co-written with Q. Dombrowski.  
 - 2020\. "Autodidacts and the 'Promise' of Digital Classics," chapter in *Digital Approaches to Teaching the Ancient Mediterranean*, ed. W. Caraher and S. Heath. Digital Press at U. North Dakota: 83-95. [[chapter]](https://thedigitalpress.org/datam/) [[abstract]](../autodidacts){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
@@ -80,8 +81,9 @@ ORCID 0000-0003-2158-866X
 
 - 2024\. "Do You Remember Being *natus*?: Some Thoughts on Latin Verse Composition and Artificial Intelligence." *Classical Outlook* 99(3): 206–9.
 
+<!--
 #### Manuscripts in press
-- 2026\. "Measuring Dialogism in Latin Epic," chapter in *Direct Speech in Greek and Latin Epic: Expanding the Methods and Canon*, ed. Forstall, C. and Verhelst, B. Brill. [[book link]](https://brill.com/display/title/73378)
+-->
 
 <!--
 #### Manuscripts in submission
@@ -119,6 +121,7 @@ ORCID 0000-0003-2158-866X
 
 ### Conference Papers
 
+- 2026\. "Recovering 34 Billion Latin Words from AI Training Data: Or Philology’s Collaborative Demands at Computational Scale," Society for Classical Studies Annual Meeting (SCS2026). San Francisco. January 10. Co-written with D. Bamman, C. Brooks, M. Hudspeth, and B. O'Connor.  
 - 2025\.  "How to Teach Latin like a Computer: Repositioning the Last Five Decades of Computational Approaches to Latin Instruction," *The Futures of Antiquity in an Age of Digital Data and AI*. Stanford University. November 15.  
 - 2025\. "*De everrendo*, or the Implications of “Trawl” Methods in Latin Text Collection," *The Futures of Antiquity in an Age of Digital Data and AI*. Stanford University. November 14.  
 - 2025\. "Ciceronianus/Christianus/Other: Experimenting with a Multilabel Classification Approach to Latin Intertextuality Using Jerome's Letters," *Zitieren Als Narrative Strategie Formen, Funktionen Und Methoden Von Referentialität im Werk Des Kirchenlehrers Hieronymus*, Universität Konstanz. October 17. [[abstract]](../ciceronianus){:.cv-link}  
@@ -188,6 +191,7 @@ ORCID 0000-0003-2158-866X
 ### Invited Talks
 
 - 2026\. "Patterns of Word-order in Latin Epic, cont. (Ovid and Everything After)," *Digital Paedagogos: A Symposium in Memory of Carl Conrad*. Washington University. St. Louis. February 21.  
+- 2026\. "Where can we find a trillion words of Latin? (Or on the feasibility of curating ancient language data at LLM scale)," Forum for Classics, Libraries, and Scholarly Communication annual meeting, SCS2026. Online. January 10.  
 - 2025\. "How to Read Latin Like a Computer: The Philology of Latin Word Sense Disambiguation," *Thesaurus Linguae Latinae* Workshop. Munich. October 20. [[abstract]](../wsd){:.cv-link}
 - 2025\. "The Role of “Small” Models for Ancient NLP in a World of Large Language Models," ALP2025. Albuquerque, NM. May 4. [[abstract]](../small-models){:.cv-link}
 - 2025\. "The Digital Afterlife of a Dead Language: Or Recovering 34 Billion(!) Latin Words from AI Training Data," Public Lecture at Taft Center for the Humanities, University of Cincinnati. Cincinnati, OH. February 20. [[abstract]](../afterlife){:.cv-link}  
@@ -208,6 +212,7 @@ ORCID 0000-0003-2158-866X
 
 ### Miscellaneous Presentations
 
+-2025\. "A FORC in the Road: Cultivating AI Literacy within the NYU Research Community," AI Literacy Faculty Learning Communities Foundational Kickoff, NYU Libraries. October 10.  
 - 2025\. "The Next 'Vesuvius': Fostering Computer Science Collaborations in Papyrology," Metropolitan Papyrology Workshop (MetroPap25), ISAW. April 11.
 - 2018\. "Becoming a Digital Humanist in Graduate School." *Deconstructing the Open Greek and Latin Project: The First Thousand Years of Greek*, Tufts University. January 3.
 - 2017\. "Latin in Unexpected Places." *Paideia Outreach in the CAAS Region*, CAAS 2017 Annual Meeting, New York, NY. October 8. [[abstract]](../latin-in-unexpected-places){:.cv-link}
@@ -219,8 +224,9 @@ ORCID 0000-0003-2158-866X
 
 ### Digital Humanities Workshops
 
+- 2025\. "Data Skills Immersion Training for Graduate Students: Non-Coding Approaches to Using Generative AI for Research," Foundations of Research Computing (FORC), NYU Libraries. New York, NY. August 27-28.   
 - 2025\. "Teaching with AI," Expanding the Ancient World Mentors Workshop, ISAW. Online. April 9.
-- 2025\. "Data Skills Immersion Training for Graduate Students: Generative AI Preliminaries," Foundations of Research Computing (FORC), NYU Libraries. New York, NY January 16.  
+- 2025\. "Data Skills Immersion Training for Graduate Students: Generative AI Preliminaries," Foundations of Research Computing (FORC), NYU Libraries. New York, NY. January 16.  
 - 2024\. "Teaching Latin with AI," Expanding the Ancient World series, Institute for the Study of the Ancient World. May 2. [[link]](https://isaw.nyu.edu/events/etaw-teaching-latin-with-ai){:.cv-link}.
 - 2024\. "Training NLP Pipelines for Historical Languages: Some Considerations," Digital Classicist Seminar Berlin, Berliner Antike-Kolleg. January 16-17.  
 - 2023\. "Dickinson Digital Latin Workshop," Dickinson College. July 12-15.  
