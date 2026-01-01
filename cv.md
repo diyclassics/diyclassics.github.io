@@ -266,7 +266,7 @@ ORCID 0000-0003-2158-866X
 
 - 2025. Judge. Archaeohack 2025 @ Institute for the Study of the Ancient World. [[link]](https://archaeohack-evfhl.wordpress.com/){:.cv-link}  
 - 2024-present. Program Committee, reviewer. *Computational Humanities Research*.  
-- 2023-present. Editorial Board member for *Journal of Open Humanities Data*.  
+- 2023-2026. Editorial Board member for *Journal of Open Humanities Data*.  
 - 2021-present. Advisory Board member. [*The Bridge*](https://bridge.haverford.edu/about/people), Haverford College.
 - 2020\. Program Committee, reviewer. Language Technologies for Historical and Ancient Languages (LT4HALA).
 - 2019\. Program Committee, reviewer. *DH2020*.
@@ -360,10 +360,14 @@ ORCID 0000-0003-2158-866X
 ### Computer skills
 
 - Programming: Python (esp. spaCy, Transformers, NLTK, Gensim, Pandas/scikit-learn), Jupyter notebooks/Binder; R; regular expressions.
+- Testing & quality assurance: pytest, pytest-cov, ruff.
+- Package management: pip, uv.
 - Relational database design: SQL, Postgresql.
+- API integration: REST APIs, SPARQL endpoints (e.g. Wikidata).
 - Markup: XML, TEI.
-- Web development: HTML 5, CSS3, Javascript/jQuery (esp. Leaflet.js); Jekyll; Flask, Jinja2; Heroku; React.
+- Web development: HTML 5, CSS3, Bootstrap; Javascript/jQuery (esp. Leaflet.js); Jekyll; Flask, Jinja2, Gunicorn; React.
 - Open source development: Git/GitHub, TravisCI.
 - Bibliographic support: CSL; Zotero translator development and automation (via pyZotero)
 - Layout: LaTeX; Overleaf.
 - Content management: Wordpress; Omeka; DSpace (via NYU Faculty Digital Archive), including working with Simple Archive Format.
+
