@@ -101,7 +101,7 @@ ORCID 0000-0003-2158-866X
 
 #### NLP Resources
 
-- 2025\. LatinCy v3.8.0 (la_core_web_sm, la_core_web_md, la_core_web_lg, la_core_web_trf); Latin language model for spaCy. First published 2023. [[model]](https://huggingface.co/diyclassics/la_core_web_lg){:.cv-link} [[project]](https://github.com/diyclassics/la_core_web_lg){:.cv-link}  
+- 2026\. LatinCy v3.8.0 (la_core_web_sm, la_core_web_md, la_core_web_lg, la_core_web_trf); Latin language model for spaCy. First published 2023. [[model]](https://huggingface.co/diyclassics/la_core_web_lg){:.cv-link} [[project]](https://github.com/diyclassics/la_core_web_lg){:.cv-link}  
 
 ### Conferences
 
@@ -109,6 +109,7 @@ ORCID 0000-0003-2158-866X
 - 2018\. *Future Philologies: Digital Directions in Text for Historical Languages*. Organizer. Institute for the Study of the Ancient World. April 20. [[site]](https://diyclassics.github.io/future-philologies/){:.cv-link}
 
 ### Conference Panels
+- 2027\. "Experimental Contexts for Digital Classics," Digital Classics Association panel at Society for Classical Studies Annual Meeting (SCS2027). Organizer. Boston, MA. January 7. 
 - 2024\. "Future Most Vivid: Creating the Conditions for Human-AI Collaboration in Classical Studies." Co-organizer with Clifford Robinson. Annual Meeting of the Society of Classical Studies, Chicago, IL. January 5.
 - 2019\. "Computational Tools & the Cross-Cultural Study of Literature." Panelist with Tanya Clement, Grace Fong, and Carrie Schroeder; moderated by Jacqueline Wernimont. *Digital Humanities Beyond Modern English*. Dartmouth College. April 25.
 
@@ -121,6 +122,8 @@ ORCID 0000-0003-2158-866X
 
 ### Conference Papers
 
+- 2026\. "Discovering Novel Word Order Patterns in Latin Epic in 21 Centuries of Latin Epic," *Epic Through Numbers: Digital and Quantitative Approaches to Greek and Latin Epic*. Celtic Conference in Classics. Maynooth University Department of Classics. Maynooth, Ireland. July 14. [[abstract]](../word-order){:.cv-link}
+- 2026\. "Is Agentic Philology an Oxymoron? Some Thoughts on Error, Control, and Disciplinary Definition," *AI & the Study of Antiquity*, Rutgers University Classics Department. New Brunswick, NJ. March 13. [[abstract]](../agentic-philology){:.cv-link}
 - 2026\. "Recovering 34 Billion Latin Words from AI Training Data: Or Philology’s Collaborative Demands at Computational Scale," Society for Classical Studies Annual Meeting (SCS2026). San Francisco. January 10. Co-written with D. Bamman, C. Brooks, M. Hudspeth, and B. O'Connor. [[abstract]](../collaborative){:.cv-link}  
 - 2025\.  "How to Teach Latin like a Computer: Repositioning the Last Five Decades of Computational Approaches to Latin Instruction," *The Futures of Antiquity in an Age of Digital Data and AI*. Stanford University. November 15.  
 - 2025\. "*De everrendo*, or the Implications of “Trawl” Methods in Latin Text Collection," *The Futures of Antiquity in an Age of Digital Data and AI*. Stanford University. November 14.  
@@ -190,7 +193,9 @@ ORCID 0000-0003-2158-866X
 
 ### Invited Talks
 
-- 2026\. "Patterns of Word-order in Latin Epic, cont. (Ovid and Everything After)," *Digital Paedagogos: A Symposium in Memory of Carl Conrad*. Washington University. St. Louis. February 21.  
+- 2026\. "Knowledge and Know-how in the Humanities," Brooklyn College Department of Classics & Teaching and Learning Center. Brooklyn, NY. March 3.
+- 2026\. "Patterns of Word-order in Latin Epic, cont. (Ovid and Everything After)," *Digital Paedagogos: A Symposium in Memory of Carl Conrad*. Washington University. St. Louis. February 21. 
+- 2026\. "Why don’t we read about unicorns in Latin class? Or a thought experiment on language learning and computational thinking," NJCL Classicalia. Online. January 31. 
 - 2026\. "Where can we find a trillion words of Latin? (Or on the feasibility of curating ancient language data at LLM scale)," Forum for Classics, Libraries, and Scholarly Communication annual meeting, SCS2026. Online. January 10.  
 - 2025\. "How to Read Latin Like a Computer: The Philology of Latin Word Sense Disambiguation," *Thesaurus Linguae Latinae* Workshop. Munich. October 20. [[abstract]](../wsd){:.cv-link}
 - 2025\. "The Role of “Small” Models for Ancient NLP in a World of Large Language Models," ALP2025. Albuquerque, NM. May 4. [[abstract]](../small-models){:.cv-link}
@@ -210,8 +215,13 @@ ORCID 0000-0003-2158-866X
 - 2016\. "Cicero's Hardest Sentence?: Measuring Readability in Latin Literature". Drew University Classics Department. December 1. [[abstract]](../ciceros-hardest-sentence){:.cv-link} [[code]](https://github.com/diyclassics/readability/blob/master/Cicero%20Readability%20Final.ipynb){:.cv-link}
 - 2012\. "Some Poetic and Artistic Frames in Theocritus." Co-presented with Carolyn Laferriere. *Within the Frame: A Critical Metaphor in Art and Literature*, The Classics Work in Progress Group, Yale University. January 27.  
 
+### Project Meetings
+
+- 2026\. "Latincy Developers/Users Meeting," Online. Organizer; presenter of "LatinCy: State of the Project" stakeholders' report. February 27.
+
 ### Miscellaneous Presentations
 
+-2026\, "Latin as a self-correcting system: Or, can agentic AI 'do philology'?" ISAW Works in Progress Series. New York, NY. January 27.
 -2025\. "A FORC in the Road: Cultivating AI Literacy within the NYU Research Community," AI Literacy Faculty Learning Communities Foundational Kickoff, NYU Libraries. October 10.  
 - 2025\. "The Next 'Vesuvius': Fostering Computer Science Collaborations in Papyrology," Metropolitan Papyrology Workshop (MetroPap25), ISAW. April 11.
 - 2018\. "Becoming a Digital Humanist in Graduate School." *Deconstructing the Open Greek and Latin Project: The First Thousand Years of Greek*, Tufts University. January 3.
