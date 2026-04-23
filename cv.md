@@ -65,6 +65,7 @@ ORCID 0000-0003-2158-866X
 
 #### Preprints
 
+- 2026\. "RespondeoQA: a Benchmark for Bilingual Latin-English Question Answering". arXiv:2604.20738. Written with M. Hudspeth and B. O'Connor. [[abstract]](../respondeoqa){:.cv-link} [[preprint]](https://arxiv.org/abs/2604.20738){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2025\. "Contextual Morphologically-guided Tokenization for Latin Encoder Models". arXiv:2511.09709. Written with M. Hudspeth and B. O'Connor. [[abstract]](../morphologically){:.cv-link} [[preprint]](https://arxiv.org/abs/2511.09709){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2023\. "LatinCy: Synthetic Trained Pipelines for Latin NLP." arxiv:2305.04365 [cs.CL]. [[abstract]](../latincy){:.cv-link} [[preprint]](https://arxiv.org/abs/2305.04365){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>  
 - 2020\. "Latin BERT: A Contextual Language Model for Classical Philology." arXiv:2009.10053 [cs.CL]. Co-written with D. Bamman. [[abstract]](../latin-bert){:.cv-link} [[preprint]](https://arxiv.org/abs/2009.10053){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>  
