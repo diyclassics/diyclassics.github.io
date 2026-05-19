@@ -73,9 +73,9 @@ ORCID 0000-0003-2158-866X
 #### Chapters
 
 - 2025\. "Measuring Dialogism in Latin Epic," chapter in *Direct Speech in Greek and Latin Epic: Expanding the Methods and Canon*, ed. Forstall, C. and Verhelst, B. Brill. [[link]](https://brill.com/display/book/9789004750227/BP000009.xml){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>  
-- 2025\. "Pretrained Word Vectors for Latin Philology," chapter in *Evolving Perspectives on Digital Classics*, ed. LaMonica, C.R. and Foka, A. Routledge. [[book link]](https://www.routledge.com/Evolving-Perspectives-on-Digital-Classics/RLaMonica-Foka/p/book/9781032899824)
+- 2025\. "Pretrained Word Vectors for Latin Philology," chapter in *Evolving Perspectives on Digital Classics*, ed. LaMonica, C.R. and Foka, A. Routledge. [[book link]](https://www.routledge.com/Evolving-Perspectives-on-Digital-Classics/RLaMonica-Foka/p/book/9781032899824){:.cv-link}  
 - 2023\. "Language is Not a Default Setting: Countering DH's English Problem," chapter in *Debates in the Digital Humanities 2023*, ed. M.K. Gold and L.F. Klein. U. Minnesota Press. Co-written with Q. Dombrowski.  
-- 2020\. "Autodidacts and the 'Promise' of Digital Classics," chapter in *Digital Approaches to Teaching the Ancient Mediterranean*, ed. W. Caraher and S. Heath. Digital Press at U. North Dakota: 83-95. [[chapter]](https://thedigitalpress.org/datam/) [[abstract]](../autodidacts){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
+- 2020\. "Autodidacts and the 'Promise' of Digital Classics," chapter in *Digital Approaches to Teaching the Ancient Mediterranean*, ed. W. Caraher and S. Heath. Digital Press at U. North Dakota: 83-95. [[chapter]](https://thedigitalpress.org/datam/){:.cv-link} [[abstract]](../autodidacts){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2019\. "Building a Text Analysis Pipeline for Classical Languages," chapter in *Digital Classical Philology*, ed. M. Berti. DeGruyter: 159-176. [[chapter]](http://bit.ly/dcp-burns){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 
 #### Essays
@@ -102,7 +102,7 @@ ORCID 0000-0003-2158-866X
 
 #### NLP Resources
 
-- 2026\. LatinCy v3.8.0 (la_core_web_sm, la_core_web_md, la_core_web_lg, la_core_web_trf); Latin language model for spaCy. First published 2023. [[model]](https://huggingface.co/diyclassics/la_core_web_lg){:.cv-link} [[project]](https://github.com/diyclassics/la_core_web_lg){:.cv-link}  
+- 2026\. LatinCy v3.9.1 (la_core_web_sm, la_core_web_md, la_core_web_lg, la_core_web_trf); Latin language model for spaCy. First published 2023. [[model]](https://huggingface.co/diyclassics/la_core_web_lg){:.cv-link} [[project]](https://github.com/diyclassics/la_core_web_lg){:.cv-link}  
 
 ### Conferences
 
@@ -304,10 +304,11 @@ ORCID 0000-0003-2158-866X
 
 #### Instructor, Institute for the Study of the Ancient World
 
+- Text Analysis for Historical Language Research ([Fall 2026](../isaw-f2026-ga3023), Fall 2023)
 - Introduction to Digital Humanities for the Ancient World (Spring 2026, Fall 2017, Fall 2016)
 - Statistical Programming for Ancient World Study (Spring 2025)  
 - Generating Antiquity: Artificial Intelligence for the Ancient World (Spring 2024)
-- Text Analysis for Historical Language Research (Fall 2023)
+
 
 #### Instructor, Fordham University
 
