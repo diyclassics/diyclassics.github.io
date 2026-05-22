@@ -275,6 +275,7 @@ ORCID 0000-0003-2158-866X
 
 ### Service
 
+- 2026-present. Cohort Member. AI in Action Task Group, NYU Libraries. As part of [Ithaka S+R AI in Action: A Collaborative Cohort to Advance Library Operations](https://sr.ithaka.org/ai-cohorts-for-higher-education/ai-in-action-cohort/){:.cv-link}.   
 - 2025. Judge. Archaeohack 2025 @ Institute for the Study of the Ancient World. [[link]](https://archaeohack-evfhl.wordpress.com/){:.cv-link}  
 - 2024-present. Program Committee, reviewer. *Computational Humanities Research*.  
 - 2023-2026. Editorial Board member for *Journal of Open Humanities Data*.  
