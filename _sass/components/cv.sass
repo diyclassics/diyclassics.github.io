@@ -46,8 +46,78 @@
         font-size: 75%
         margin-top: 35px
         text-align: right
-        
+
         a
             color: #000
 
-    
+@media print
+    @page
+        size: letter
+        margin: 0.6in 0.7in
+
+    nav, .nav, .nav-home, .nav-paper,
+    footer, .footer-main,
+    .social-links,
+    .cv .cv-download
+        display: none !important
+
+    body
+        font-size: 9.5pt
+        line-height: 1.35
+        color: #000
+
+    .wrapper-wide
+        max-width: 100%
+        width: 100%
+
+    a
+        color: #000
+        text-decoration: none
+
+    .cv
+        > h1
+            font-size: 1.7rem
+            margin-top: 0
+            letter-spacing: 0
+
+        > .cv-info, > .cv-address, > .cv-orcid
+            font-size: 9pt
+            margin: 2px
+
+        > .cv-orcid
+            padding-bottom: 6px
+
+        > h3
+            font-size: 1.15rem
+            margin-top: 14px
+            margin-bottom: 2px
+            page-break-after: avoid
+            break-after: avoid
+
+        > h4
+            font-size: 1rem
+            margin-top: 6px
+            page-break-after: avoid
+            break-after: avoid
+
+        > ul
+            font-size: 9.5pt
+            margin-top: 2px
+            text-indent: -22px
+            padding-left: 22px
+
+            > li
+                margin-bottom: 3px
+                line-height: 1.35
+                page-break-inside: avoid
+                break-inside: avoid
+
+                > a
+                    color: #000
+                    border-bottom: none
+
+                > a.cv-link
+                    display: none
+
+        img
+            display: none
