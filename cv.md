@@ -279,6 +279,7 @@ ORCID 0000-0003-2158-866X
 - 2025\. Judge. Archaeohack 2025 @ Institute for the Study of the Ancient World. [[link]](https://archaeohack-evfhl.wordpress.com/){:.cv-link}  
 - 2024-present. Program Committee, reviewer. *Computational Humanities Research*.  
 - 2023-2026. Editorial Board member for *Journal of Open Humanities Data*.  
+- 2023-present. Contributing Editor. [*Dickinson College Commentaries*](https://dcc.dickinson.edu/editorial-board).  
 - 2021-present. Advisory Board member. [*The Bridge*](https://bridge.haverford.edu/about/people), Haverford College.
 - 2020\. Program Committee, reviewer. Language Technologies for Historical and Ancient Languages (LT4HALA).
 - 2019\. Program Committee, reviewer. *DH2020*.
