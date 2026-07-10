@@ -55,7 +55,8 @@ ORCID 0000-0003-2158-866X
 
 #### Papers
 
-- 2024\. "Leveraging Part-of-Speech Tagging for Enhanced Stylometry of Latin Literature," in J. Pavlopoulos, T. Sommerschield, Y. Assael, S. Gordin, K. Cho, M. Passarotti, R. Sprugnoli, Y.Liu, B. Li, and A. Anderson,. eds. *Proceedings of the 1st Workshop on Machine Learning for Ancient Languages (ML4AL 2024)*. Co-authored with S. Chen, T.J. Bolt, P. Chaudhuri, and J. Dexter. [[paper]](https://aclanthology.org/2024.ml4al-1.24){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
+- 2026\. "RespondeoQA: a Benchmark for Bilingual Latin-English Question Answering," in S. Piperidis, N. Bel, H. van den Heuvel, N. Ide, S. Krek, and A. Toral, eds. *Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)*. Written with M. Hudspeth and B. O'Connor. [[abstract]](../respondeoqa){:.cv-link} [[paper]](https://lrec.elra.info/lrec2026-main-080){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>  
+- 2024\. "Leveraging Part-of-Speech Tagging for Enhanced Stylometry of Latin Literature," in J. Pavlopoulos, T. Sommerschield, Y. Assael, S. Gordin, K. Cho, M. Passarotti, R. Sprugnoli, Y.Liu, B. Li, and A. Anderson, eds. *Proceedings of the 1st Workshop on Machine Learning for Ancient Languages (ML4AL 2024)*. Co-authored with S. Chen, T.J. Bolt, P. Chaudhuri, and J. Dexter. [[paper]](https://aclanthology.org/2024.ml4al-1.24){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2021\. "The Classical Language Toolkit: An NLP Framework for Pre-Modern Languages," at The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021). Co-authored with K.P. Johnson, John Stewart, Todd Cook, Clément Besnier, and William Mattingly. [[paper]](https://aclanthology.org/2021.acl-demo.3/){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2021\. "Profiling of Intertextuality in Latin Literature Using Word Embeddings," in *Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*. Co-authored with J.A. Brofos, K. Li, P. Chaudhuri, and J.P. Dexter. [[paper]](https://www.aclweb.org/anthology/2021.naacl-main.389){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 
@@ -65,7 +66,6 @@ ORCID 0000-0003-2158-866X
 
 #### Preprints
 
-- 2026\. "RespondeoQA: a Benchmark for Bilingual Latin-English Question Answering". arXiv:2604.20738. Written with M. Hudspeth and B. O'Connor. [[abstract]](../respondeoqa){:.cv-link} [[preprint]](https://arxiv.org/abs/2604.20738){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2025\. "Contextual Morphologically-guided Tokenization for Latin Encoder Models". arXiv:2511.09709. Written with M. Hudspeth and B. O'Connor. [[abstract]](../morphologically){:.cv-link} [[preprint]](https://arxiv.org/abs/2511.09709){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2023\. "LatinCy: Synthetic Trained Pipelines for Latin NLP." arxiv:2305.04365 [cs.CL]. [[abstract]](../latincy){:.cv-link} [[preprint]](https://arxiv.org/abs/2305.04365){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>  
 - 2020\. "Latin BERT: A Contextual Language Model for Classical Philology." arXiv:2009.10053 [cs.CL]. Co-written with D. Bamman. [[abstract]](../latin-bert){:.cv-link} [[preprint]](https://arxiv.org/abs/2009.10053){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>  
@@ -222,7 +222,9 @@ ORCID 0000-0003-2158-866X
 
 ### Miscellaneous Presentations
 
--2026\, "Latin as a self-correcting system: Or, can agentic AI 'do philology'?" ISAW Works in Progress Series. New York, NY. January 27.
+- 2026\. "Automatic Vocabulary Lists: NLP Experiments toward a Pedagogical Goal," Hunter College High School Classics Club. New York, NY. June 10. [[abstract]](../vocab-lists-hunter){:.cv-link}
+- 2026\. "Automatic Vocabulary Lists: NLP Experiments toward a Pedagogical Goal," Fordham Preparatory School. Bronx, NY. April 1. [[abstract]](../vocab-lists-fordham){:.cv-link}  
+-2026\. "Latin as a self-correcting system: Or, can agentic AI 'do philology'?" ISAW Works in Progress Series. New York, NY. January 27.  
 -2025\. "A FORC in the Road: Cultivating AI Literacy within the NYU Research Community," AI Literacy Faculty Learning Communities Foundational Kickoff, NYU Libraries. October 10.  
 - 2025\. "The Next 'Vesuvius': Fostering Computer Science Collaborations in Papyrology," Metropolitan Papyrology Workshop (MetroPap25), ISAW. April 11.
 - 2018\. "Becoming a Digital Humanist in Graduate School." *Deconstructing the Open Greek and Latin Project: The First Thousand Years of Greek*, Tufts University. January 3.
@@ -293,6 +295,7 @@ ORCID 0000-0003-2158-866X
 
 ### Grants, Awards and Honors
 
+- 2026\. Society for Classical Studies Pedagogy Award. To support hosting for Latin NLP infrastructure.
 - 2025\. Classical Association of the Atlantic States Professional Development Grant supporting travel to RSA2025 to present work on the "Representing Women Authorship in the Latin Treebanks" project.  
 - 2022\. Center for Hellenic Studies fellowship for writing and developing *Exploratory Philology: Learning About Ancient Greek through Computer Programming*. April and June residencies.
 - 2019\. Society for Classical Studies *Classics Everywhere* grant supporting public programming for local political philosophy reading group.  
