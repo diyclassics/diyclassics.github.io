@@ -222,10 +222,10 @@ ORCID 0000-0003-2158-866X
 
 ### Miscellaneous Presentations
 
-- 2026\. "Automatic Vocabulary Lists: NLP Experiments toward a Pedagogical Goal," Hunter College High School Classics Club. New York, NY. June 10. [[abstract]](../vocab-lists-hunter){:.cv-link}
+- 2026\. "Automatic Vocabulary Lists: NLP Experiments toward a Pedagogical Goal," Hunter College High School Classics Club. New York, NY. June 10. [[abstract]](../vocab-lists-hunter){:.cv-link}  
 - 2026\. "Automatic Vocabulary Lists: NLP Experiments toward a Pedagogical Goal," Fordham Preparatory School. Bronx, NY. April 1. [[abstract]](../vocab-lists-fordham){:.cv-link}  
--2026\. "Latin as a self-correcting system: Or, can agentic AI 'do philology'?" ISAW Works in Progress Series. New York, NY. January 27.  
--2025\. "A FORC in the Road: Cultivating AI Literacy within the NYU Research Community," AI Literacy Faculty Learning Communities Foundational Kickoff, NYU Libraries. October 10.  
+- 2026\. "Latin as a self-correcting system: Or, can agentic AI 'do philology'?" ISAW Works in Progress Series. New York, NY. January 27.  
+- 2025\. "A FORC in the Road: Cultivating AI Literacy within the NYU Research Community," AI Literacy Faculty Learning Communities Foundational Kickoff, NYU Libraries. October 10.  
 - 2025\. "The Next 'Vesuvius': Fostering Computer Science Collaborations in Papyrology," Metropolitan Papyrology Workshop (MetroPap25), ISAW. April 11.
 - 2018\. "Becoming a Digital Humanist in Graduate School." *Deconstructing the Open Greek and Latin Project: The First Thousand Years of Greek*, Tufts University. January 3.
 - 2017\. "Latin in Unexpected Places." *Paideia Outreach in the CAAS Region*, CAAS 2017 Annual Meeting, New York, NY. October 8. [[abstract]](../latin-in-unexpected-places){:.cv-link}
