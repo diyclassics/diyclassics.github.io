@@ -21,4 +21,4 @@ externalLink: false
 {:.paper-section-heading}
 ## Abstract
 
-<!-- TODO: abstract text -->
+Using Pliny the Younger's letter on Vesuvius as a case study, I discuss take up the following task: given a plaintext passage of Latin, how can leverage natural language processing methods, tools, and dataset to produce publication-ready vocabulary lists, i.e. the kinds of well-formatted word lists that a printed in textbooks to support student learning. With looks at tokenization, lemmatization, part-of-speech tagging, lexical expansion, word frequency analysis, word sense disambiguation, and other NLP techniques, I introduce core NLP methods and frame the vocabulary list as an example of what Jeanette Wing has called "computational thinking," that is a way of formulating problems as series of smaller formal tasks. I conclude with an honest assessment of the current state of Latin NLP and where the greatest opportunities can be found for computationally curious Latin students.
