@@ -237,6 +237,7 @@ ORCID 0000-0003-2158-866X
 
 ### Digital Humanities Workshops
 
+- 2026\. "Automating Latin Vocabulary Lists," Classical Association of the Atlantic States Annual Meeting (CAAS2026). Wilmington, DE. October 9. [[abstract]](../automating){:.cv-link}  
 - 2025\. "Data Skills Immersion Training for Graduate Students: Non-Coding Approaches to Using Generative AI for Research," Foundations of Research Computing (FORC), NYU Libraries. New York, NY. August 27-28.   
 - 2025\. "Teaching with AI," Expanding the Ancient World Mentors Workshop, ISAW. Online. April 9.
 - 2025\. "Data Skills Immersion Training for Graduate Students: Generative AI Preliminaries," Foundations of Research Computing (FORC), NYU Libraries. New York, NY. January 16.  
