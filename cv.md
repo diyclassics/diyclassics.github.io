@@ -7,7 +7,7 @@ layout: cv
 # Patrick J. Burns
 
 {:.cv-address}
-pjb311@nyu.edu    
+pjb311@nyu.edu   
 
 {:.cv-orcid}
 ORCID 0000-0003-2158-866X  
@@ -237,8 +237,9 @@ ORCID 0000-0003-2158-866X
 
 ### Digital Humanities Workshops
 
+- 2026\. "Data Skills Immersion Training for Graduate Students: Non-Coding Approaches to Using Generative AI for Research," Foundations of Research Computing (FORC), NYU Libraries. New York, NY. August 25-27.  
 - 2026\. "Automating Latin Vocabulary Lists," Classical Association of the Atlantic States Annual Meeting (CAAS2026). Wilmington, DE. October 9. [[abstract]](../automating){:.cv-link}  
-- 2025\. "Data Skills Immersion Training for Graduate Students: Non-Coding Approaches to Using Generative AI for Research," Foundations of Research Computing (FORC), NYU Libraries. New York, NY. August 27-28.   
+- 2025\. "Data Skills Immersion Training for Graduate Students: Non-Coding Approaches to Using Generative AI for Research," Foundations of Research Computing (FORC), NYU Libraries. New York, NY. August 27-28.  
 - 2025\. "Teaching with AI," Expanding the Ancient World Mentors Workshop, ISAW. Online. April 9.
 - 2025\. "Data Skills Immersion Training for Graduate Students: Generative AI Preliminaries," Foundations of Research Computing (FORC), NYU Libraries. New York, NY. January 16.  
 - 2024\. "Teaching Latin with AI," Expanding the Ancient World series, Institute for the Study of the Ancient World. May 2. [[link]](https://isaw.nyu.edu/events/etaw-teaching-latin-with-ai){:.cv-link}.
@@ -278,7 +279,7 @@ ORCID 0000-0003-2158-866X
 
 ### Service
 
-- 2026-present. Cohort Member. AI in Action Task Group, NYU Libraries (as part of [Ithaka S+R AI in Action: A Collaborative Cohort to Advance Library Operations](https://sr.ithaka.org/ai-cohorts-for-higher-education/ai-in-action-cohort/)).   
+- 2026-present. Cohort Member. AI in Action Task Group, NYU Libraries (as part of [Ithaka S+R AI in Action: A Collaborative Cohort to Advance Library Operations](https://sr.ithaka.org/ai-cohorts-for-higher-education/ai-in-action-cohort/)).  
 - 2025\. Judge. Archaeohack 2025 @ Institute for the Study of the Ancient World. [[link]](https://archaeohack-evfhl.wordpress.com/){:.cv-link}  
 - 2024-present. Program Committee, reviewer. *Computational Humanities Research*.  
 - 2023-2026. Editorial Board member for *Journal of Open Humanities Data*.  
