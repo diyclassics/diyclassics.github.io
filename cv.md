@@ -46,7 +46,7 @@ ORCID 0000-0003-2158-866X
 
 - 2025\. "Stylometric Criticism of Latin Literature: From Exploratory Data Analysis to Close Reading," *TAPA* 155(1). Co-written with T.J. Bolt, E.D. Adams, Z. Adramerinas, T. Dasgupta, A. Deng, E.T. Gianitsos, E. Rincon, P. Chaudhuri, and J.P. Dexter. [[article]](https://muse.jhu.edu/article/957882/figure/tab02){:.cv-link}  
 - 2024\. "(Re)active Latin: Computational Chat as Future *colloquia*," *New England Classical Journal* 51(1). [[article]](https://crossworks.holycross.edu/necj/vol51/iss1/3/){:.cv-link} [[abstract]](../reactive-latin){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
-- 2022\. "Senecan Trimeter and Humanist Tragedy," *American Journal of Philology* 143: 475-503. Co-written with  A. Fedchin, P. Chaudhuri, and J.P. Dexter. [[abstract]](../senecan-trimeter){:.cv-link} [[article]](https://muse.jhu.edu/article/870052/pdf){:.cv-link}  
+- 2022\. "Senecan Trimeter and Humanist Tragedy," *American Journal of Philology* 143: 475-503. Co-written with A. Fedchin, P. Chaudhuri, and J.P. Dexter. [[abstract]](../senecan-trimeter){:.cv-link} [[article]](https://muse.jhu.edu/article/870052/pdf){:.cv-link}  
 - 2022\. "Tesserae Intertext Service," *Digital Humanities Quarterly* 16(1). Co-written with N. Okuda, J. Kinnison, N. Coffee, and W. Scheirer. [[article]](http://www.digitalhumanities.org/dhq/vol/16/1/000602/000602.html){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2020\. "Ensemble Lemmatization with the Classical Language Toolkit," *Studi e Saggi Linguistici* 58(1): 157-176. [https://doi.org/10.4454/ssl.v58i1.273](https://doi.org/10.4454/ssl.v58i1.273) [[abstract]](../ensemble-lemmatization){:.cv-link} [[article]](https://www.studiesaggilinguistici.it/index.php/ssl/article/view/273){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>
 - 2019\. "The Future of Ancient Literacy: Classical Language Toolkit and Google Summer of Code," *Classics@* 17, special issue on ancient literacies. Co-written with K. Johnson and L. Hollis. [[article]](https://chs.harvard.edu/CHS/article/display/6946){:.cv-link} [[abstract]](../future-of-ancient-literacy){:.cv-link} <img src="../assets/images/oa.png" alt="oa-icon" height="16" hspace="5"/>  
@@ -237,7 +237,7 @@ ORCID 0000-0003-2158-866X
 
 ### Digital Humanities Workshops
 
-- 2026\. "Data Skills Immersion Training for Graduate Students: Non-Coding Approaches to Using Generative AI for Research," Foundations of Research Computing (FORC), NYU Libraries. New York, NY. August 25-27.  
+- 2026\. "Data Skills Immersion Training for Graduate Students: Non-Coding Approaches to Using Generative AI for Research," Foundations of Research Computing (FORC), NYU Libraries. New York, NY. Co-presented with Shaina Dymond and Sarah Awad. August 25-27.  
 - 2026\. "Automating Latin Vocabulary Lists," Classical Association of the Atlantic States Annual Meeting (CAAS2026). Wilmington, DE. October 9. [[abstract]](../automating){:.cv-link}  
 - 2025\. "Data Skills Immersion Training for Graduate Students: Non-Coding Approaches to Using Generative AI for Research," Foundations of Research Computing (FORC), NYU Libraries. New York, NY. August 27-28.  
 - 2025\. "Teaching with AI," Expanding the Ancient World Mentors Workshop, ISAW. Online. April 9.
