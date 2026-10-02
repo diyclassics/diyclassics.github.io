@@ -1,7 +1,7 @@
 ---
 title: "Automating Vocabulary List Production"
 layout: paper
-date: 2026-10-09 10:30
+date: 2026-10-02 10:30
 tag: paper
 image:
 headerImage: false
