@@ -194,6 +194,8 @@ ORCID 0000-0003-2158-866X
 
 ### Invited Talks
 
+- 2026\. "How to Fix Your First Billion Latin Typos: AI & Philology at Astronomical Scale," University of Massachusetts Boston. Boston, MA. December 1. [[abstract]](../billion-typos){:.cv-link}
+- 2026\. "The Flipped Lemma: Repurposing a Latin Lexicographical Resource for Disambiguating Word Senses," *Thesaurus Linguae Latinae* Workshop. Munich. October 16. [[abstract]](../flipped-lemma){:.cv-link}
 - 2026\. "Knowledge and Know-how in the Humanities," Brooklyn College Department of Classics & Teaching and Learning Center. Brooklyn, NY. March 3.
 - 2026\. "Patterns of Word-order in Latin Epic, cont. (Ovid and Everything After)," *Digital Paedagogos: A Symposium in Memory of Carl Conrad*. Washington University. St. Louis. February 21. 
 - 2026\. "Why don’t we read about unicorns in Latin class? Or a thought experiment on language learning and computational thinking," NJCL Classicalia. Online. January 31. 
@@ -237,8 +239,8 @@ ORCID 0000-0003-2158-866X
 
 ### Digital Humanities Workshops
 
-- 2026\. "Data Skills Immersion Training for Graduate Students: Non-Coding Approaches to Using Generative AI for Research," Foundations of Research Computing (FORC), NYU Libraries. New York, NY. Co-presented with Shaina Dymond and Sarah Awad. August 25-27.  
 - 2026\. "Automating Latin Vocabulary Lists," Classical Association of the Atlantic States Annual Meeting (CAAS2026). Wilmington, DE. October 9. [[abstract]](../automating){:.cv-link}  
+- 2026\. "Data Skills Immersion Training for Graduate Students: Non-Coding Approaches to Using Generative AI for Research," Foundations of Research Computing (FORC), NYU Libraries. New York, NY. Co-presented with Shaina Dymond and Sarah Awad. August 25-27.  
 - 2025\. "Data Skills Immersion Training for Graduate Students: Non-Coding Approaches to Using Generative AI for Research," Foundations of Research Computing (FORC), NYU Libraries. New York, NY. August 27-28.  
 - 2025\. "Teaching with AI," Expanding the Ancient World Mentors Workshop, ISAW. Online. April 9.
 - 2025\. "Data Skills Immersion Training for Graduate Students: Generative AI Preliminaries," Foundations of Research Computing (FORC), NYU Libraries. New York, NY. January 16.  
