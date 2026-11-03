@@ -1,26 +1,27 @@
 ---
 ---
 
-@use "base/normalize";
-@use "base/syntax";
-@use "base/general";
-@use "base/helpers";
+@import "base/variables";
+@import "base/normalize";
+@import "base/syntax";
+@import "base/general";
+@import "base/helpers";
 
-@use "pages/home-blog-projects";
-@use "pages/page";
-@use "pages/post";
-@use "pages/tags";
+@import "pages/home-blog-projects";
+@import "pages/page";
+@import "pages/post";
+@import "pages/tags";
 
-@use "components/author";
-@use "components/disqus";
-@use "components/footer";
-@use "components/header";
-@use "components/nav";
-@use "components/others";
-@use "components/pagination";
-@use "components/related";
-@use "components/share";
-@use "components/side-by-side";
-@use "components/social-links";
-@use "components/spoiler";
-@use "components/cv";
+@import "components/author";
+@import "components/disqus";
+@import "components/footer";
+@import "components/header";
+@import "components/nav";
+@import "components/others";
+@import "components/pagination";
+@import "components/related";
+@import "components/share";
+@import "components/side-by-side";
+@import "components/social-links";
+@import "components/spoiler";
+@import "components/cv";
