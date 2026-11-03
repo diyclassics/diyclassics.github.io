@@ -15,7 +15,7 @@ externalLink: false
 
 # How to read latin like a computer. A case study of Latin noun chunking with SpaCy
 Abstract for public lecture for the Digital Classicist Seminar Berlin at Berliner Antike-Kolleg. 
-[link to lecture](https://www.berliner-antike-kolleg.org/en/services/medien/dcs_23-24_burns/index.html)
+[link to lecture](https://www.berliner-antike-kolleg.org/en/services/medien/dcs_23-24_burns/index.html) · [video](https://www.youtube.com/watch?v=bZRLDPQASUg)
 
 {:.paper-section-heading}
 ## Abstract
