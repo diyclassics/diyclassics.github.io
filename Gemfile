@@ -10,6 +10,7 @@ gem 'jekyll-seo-tag'
 gem 'jekyll-feed'
 gem 'jekyll-sitemap'
 gem 'jekyll-gist'
+gem 'faraday-retry'
 gem 'jekyll-paginate'
 
 gem "psych"
