@@ -3,3 +3,7 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 .DS_Store
+
+# Short CV (local pandoc sources and build output)
+cv-short.*
+Burns-CV-short-*.pdf
