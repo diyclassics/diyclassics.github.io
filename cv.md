@@ -118,7 +118,7 @@ ORCID 0000-0003-2158-866X
 
 - 2019\. "Ancient Makerspaces: Digital Classics Workshop." Co-organizer with David Ratzan. Annual Meeting of the Society of Classical Studies, Boston, MA. January 6. [[site]](http://diyclassics.github.io/ams-2019){:.cv-link}
 - 2018\. "Ancient Makerspaces: Digital Classics Workshop." Co-organizer with David Ratzan. Annual Meeting of the Society of Classical Studies, Boston, MA. January 6. [[site]](http://diyclassics.github.io/ams-2018){:.cv-link}
-- 2017\. "Digital Approaches to Latin Vocabulary Acquisition." Co-organizer with John Muccigrosso. Classical Association of the Atlantic States Annual Meeting, New York City, NY. October 6.
+- 2017\. "Digital Approaches to Latin Vocabulary Acquisition." Co-organizer with John Muccigrosso. Classical Association of the Atlantic States Annual Meeting (CAAS2017), New York City, NY. October 6.
 - 2017\. "Ancient Makerspaces: Digital Classics Workshop." Co-organizer with David Ratzan, panel moderator. Annual Meeting of the Society of Classical Studies, Toronto, Ont. [[site]](http://bit.ly/ancientmakerspaces){:.cv-link}
 
 ### Conference Papers
@@ -145,7 +145,7 @@ ORCID 0000-0003-2158-866X
 - 2022\. "An 'Exploratory' Approach to Latin Readability," American Classical League Institute, Panel on "Evaluating Latin Readability: Methods and Future Directions". June 26.
 - 2022\. "Error, Scale, and the Computational Redefinition of Philology," *Digital Humanities Beyond Modern English*. University of Texas at Austin. Austin, TX. April 7. [[abstract]](../error-scale-computational-philology){:.cv-link}  
 - 2022\. "Toward a Data-driven Latin Prose Composition Course," Society of Classical Studies Annual Meeting. San Francisco. January 8.  
-- 2021\. "Latin Literary Acrostics as Information Technology," Classical Association of the Atlantic States Annual Meeting. New Brunswick, NJ. October 14.  
+- 2021\. "Latin Literary Acrostics as Information Technology," Classical Association of the Atlantic States Annual Meeting (CAAS2021). New Brunswick, NJ. October 14.  
 - 2021\. "*Sequitur, Non Sequitur*: Word Prediction in the Latin Classroom," American Classical League Institute. Online. June 21.
 - 2021\. "Conversational Agents from the Neo-Latin Colloquia to ChatterBot," *Neo-Latin Studies and Digital Humanities*. Online. April 15.
 - 2021\. "Metaformalism, or Setting a Baseline for Detecting Anagrammatic Play in Ovid’s *Metamorphoses*," Society of Classical Studies Annual Meeting. Washington, D.C. January 4. [[abstract]](../metaformalism){:.cv-link}
@@ -205,7 +205,7 @@ ORCID 0000-0003-2158-866X
 - 2025\. "The Digital Afterlife of a Dead Language: Or Recovering 34 Billion(!) Latin Words from AI Training Data," Public Lecture at Taft Center for the Humanities, University of Cincinnati. Cincinnati, OH. February 20. [[abstract]](../afterlife){:.cv-link}  
 - 2024\. "The Impossibility of a Latin Turing Test: Reflections on Modeling Ancient Language at Scale," *Generative AI and Ancient World Studies Public Talks at University of Reading. Reading, UK / Online. November 6.  
 - 2024\. "Paradigms Shift: What Artificial Intelligence Can Teach Students About Latin," New Hampshire Classical Association, Classics Day for Teachers. Manchester, NH. April 11.  
-- 2024\. "How to Read Latin like a Computer: A Case Study of Latin Noun Chunking with spaCy," Digital Classicist Seminar Berlin, Berliner Antike-Kolleg. January 16.  [[abstract]](../noun-chunking){:.cv-link}  
+- 2024\. "How to Read Latin like a Computer: A Case Study of Latin Noun Chunking with spaCy," Digital Classicist Seminar Berlin, Berliner Antike-Kolleg. January 16.  [[abstract]](../noun-chunking){:.cv-link} [[video]](https://www.youtube.com/watch?v=bZRLDPQASUg){:.cv-link}  
 - 2022\. "Coding as an Intellectual Craft," Trinity University Collaborative for Teaching and Learning. October 28. [[abstract]](../coding-as-intellectual-craft){:.cv-link}  
 - 2022\. "Hello κόσμε: Philology at the Command Line," Stanford Humanities Center *The Future of the Past: Classics & Technology* workshop series. April 1. [[abstract]](../hello-kosme){:.cv-link}  
 - 2021\. "'Pragmatic' Scholarship: What Coding Has Taught Me about Humanities Research," Washington and Lee University. March 25.
