@@ -95,6 +95,7 @@ animation: true
 sass:
     sass_dir: _sass
     style: :compressed
+    sourcemap: never
 
 plugins:
   - jemoji
