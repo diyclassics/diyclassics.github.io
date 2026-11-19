@@ -196,7 +196,7 @@ ORCID 0000-0003-2158-866X
 
 - 2026\. "How to Fix Your First Billion Latin Typos: AI & Philology at Astronomical Scale," University of Massachusetts Boston. Boston, MA. December 1. [[abstract]](../billion-typos){:.cv-link}
 - 2026\. "The Flipped Lemma: Repurposing a Latin Lexicographical Resource for Disambiguating Word Senses," *Thesaurus Linguae Latinae* Workshop. Munich. October 16. [[abstract]](../flipped-lemma){:.cv-link}
-- 2026\. "Knowledge and Know-how in the Humanities," Brooklyn College Department of Classics & Teaching and Learning Center. Brooklyn, NY. March 3.
+- 2026\. "Knowledge and Know-How in the Humanities (or Turning an AI Challenge into a Higher Ed Advantage)," Brooklyn College Department of Classics & Teaching and Learning Center. Brooklyn, NY. March 3. [[abstract]](../know-how){:.cv-link}
 - 2026\. "Patterns of Word-order in Latin Epic, cont. (Ovid and Everything After)," *Digital Paedagogos: A Symposium in Memory of Carl Conrad*. Washington University. St. Louis. February 21. 
 - 2026\. "Why don’t we read about unicorns in Latin class? Or a thought experiment on language learning and computational thinking," NJCL Classicalia. Online. January 31. 
 - 2026\. "Where can we find a trillion words of Latin? (Or on the feasibility of curating ancient language data at LLM scale)," Forum for Classics, Libraries, and Scholarly Communication annual meeting, SCS2026. Online. January 10.  
