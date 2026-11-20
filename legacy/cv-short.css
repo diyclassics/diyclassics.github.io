@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&display=swap');
+
+@page {
+  size: letter;
+  margin: 0.5in 0.6in;
+}
+
+html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+body {
+  font-family: "Lexend", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 300;
+  font-size: 8.75pt;
+  line-height: 1.32;
+  color: #111;
+  margin: 0;
+}
+
+/* Header */
+.name h1 {
+  font-family: "Lexend", sans-serif;
+  font-weight: 700;
+  font-size: 21pt;
+  margin: 0 0 2pt 0;
+  letter-spacing: 0.2px;
+  text-align: center;
+}
+.contact {
+  text-align: center;
+  font-size: 8pt;
+  font-weight: 400;
+  color: #333;
+  margin: 0 0 4pt 0;
+  line-height: 1.4;
+}
+.contact a { color: #333; }
+.focus {
+  text-align: center;
+  font-size: 8.75pt;
+  font-weight: 500;
+  margin: 0 0 8pt 0;
+  padding-bottom: 6pt;
+  border-bottom: 1px solid #999;
+}
+
+/* Section headings */
+h2 {
+  font-weight: 600;
+  font-size: 10.5pt;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin: 9pt 0 3pt 0;
+  padding-bottom: 1pt;
+  border-bottom: 0.75px solid #bbb;
+  page-break-after: avoid;
+  break-after: avoid;
+}
+
+/* Sub-headings (themed groupings) */
+h4 {
+  font-weight: 500;
+  font-size: 8.75pt;
+  color: #555;
+  margin: 6pt 0 2pt 0;
+  page-break-after: avoid;
+  break-after: avoid;
+}
+
+/* Lists */
+ul {
+  list-style: none;
+  margin: 2pt 0;
+  padding-left: 0;
+}
+li {
+  margin-bottom: 2.5pt;
+  padding-left: 12px;
+  text-indent: -12px;
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+
+a { color: #111; text-decoration: none; }
+
+em { font-style: italic; }
+strong { font-weight: 600; }
+
+code, tt {
+  font-family: "SFMono-Regular", "Menlo", monospace;
+  font-size: 90%;
+}
+
+p { margin: 2pt 0; }
