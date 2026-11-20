@@ -18,18 +18,22 @@
 <meta property="og:image" content="https://diyclassics.github.io/assets/profile.jpg">
 <meta name="twitter:card" content="summary">
 <style>
-  :root { --bg:#fff; --fg:#1a1a1a; --muted:#555; --link:#57068c; }
-  @media (prefers-color-scheme: dark) { :root { --bg:#161616; --fg:#eee; --muted:#aaa; --link:#c9a0e8; } }
+  /* Type and color follow the CV (cv-short.css): Lexend, #111 text, #555 secondary, black links */
+  @font-face { font-family:"Lexend"; font-weight:300; font-style:normal; font-display:swap; src:url(assets/fonts/lexend-300.ttf) format("truetype"); }
+  @font-face { font-family:"Lexend"; font-weight:700; font-style:normal; font-display:swap; src:url(assets/fonts/lexend-700.ttf) format("truetype"); }
+  :root { --bg:#fff; --fg:#111; --muted:#555; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#161616; --fg:#eee; --muted:#aaa; } }
   body { margin:0; min-height:100vh; display:grid; place-content:center; padding:0 16px;
-         background:var(--bg); color:var(--fg); font:18px/1.5 system-ui, sans-serif; text-align:center; }
+         background:var(--bg); color:var(--fg); font:300 18px/1.5 "Lexend", "Helvetica Neue", Arial, sans-serif; text-align:center; }
   .portrait { border-radius:50%; object-fit:cover; margin:0 auto 1rem; display:block; }
-  h1 { margin:0; font-weight:600; }
+  h1 { margin:0; font-weight:700; font-size:2rem; letter-spacing:.2px; }
   p { margin:.5rem 0; color:var(--muted); }
-  a { color:var(--link); }
+  a { color:var(--fg); text-decoration:underline; text-underline-offset:.2em; text-decoration-thickness:1px; }
   .links { list-style:none; margin:1rem 0; padding:0; display:flex; flex-wrap:wrap; justify-content:center; gap:.25rem 1.25rem; }
   .links a { display:inline-flex; padding:.35rem; }
   .links a svg { width:1.6rem; height:1.6rem; fill:currentColor; }
-  .links a:hover, .links a:focus-visible { color:var(--fg); }
+  .links a { text-decoration:none; }
+  .links a:hover, .links a:focus-visible { color:var(--muted); }
 </style>
 </head>
 <body>
